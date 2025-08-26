@@ -1301,6 +1301,18 @@
 "_Reports_Sort_By_DeathPlace" = "Efter dødssted";
 
 /* (No Comment) */
+"_Reports_Sort_By_EventDate" = "Efter begivenhedsdato";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDescription" = "Efter beskrivelse";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeAndDate" = "Efter begivenhedstype og dato";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeName" = "Efter begivenhedstypenavn";
+
+/* (No Comment) */
 "_Reports_Sort_By_FirstName" = "Efter fornavn";
 
 /* (No Comment) */
@@ -1386,6 +1398,9 @@
 
 /* (No Comment) */
 "_Reports_ToDoReport_Status" = "Status";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Text" = "Tekst";
 
 /* ToDoReport */
 "_Reports_ToDoReport_Type" = "Type";

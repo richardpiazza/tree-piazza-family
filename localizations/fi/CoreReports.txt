@@ -92,7 +92,7 @@
 "_ReportError_NotEnoughDataPresentError" = "Tämän raportin näyttämiseen ei sukupuussa ole tarpeeksi tietoja.";
 
 /* (No Comment) */
-"_ReportError_NoToDoFoundInFamilyTreeError" = "Toistaiseksi yhtään tehtävää ei ole syötetty tähän sukupuuhun. Käytä Muokkaa osiota lisätäksesi tässä raportissa näytettäviä tehtäviä.";
+"_ReportError_NoToDoFoundInFamilyTreeError" = "Toistaiseksi yhtään Tehtävää ei ole syötetty tähän sukupuuhun. Käytä Muokkaa osiota lisätäksesi tässä raportissa näytettäviä Tehtäviä.";
 
 /* (No Comment) */
 "_ReportError_NoToDosFoundMatchingTheSelectedCriteria" = "Hakuehtoihin sopivia tehtäviä ei löytynyt";
@@ -1301,6 +1301,18 @@
 "_Reports_Sort_By_DeathPlace" = "Kuolinpaikan mukaan";
 
 /* (No Comment) */
+"_Reports_Sort_By_EventDate" = "Tapahtumapäivän mukaan";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDescription" = "Kuvauksen mukaan";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeAndDate" = "Tapahtumatyypin ja päivän mukaan";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeName" = "Tapahtumatyypin nimen mukaan";
+
+/* (No Comment) */
 "_Reports_Sort_By_FirstName" = "Etunimen mukaan";
 
 /* (No Comment) */
@@ -1386,6 +1398,9 @@
 
 /* (No Comment) */
 "_Reports_ToDoReport_Status" = "Tila";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Text" = "Teksti";
 
 /* ToDoReport */
 "_Reports_ToDoReport_Type" = "Tyyppi";

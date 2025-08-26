@@ -200,6 +200,9 @@
 "_Common_EnableButton" = "Aktiver";
 
 /* (No Comment) */
+"_Common_Entries" = "Oppføringer";
+
+/* (No Comment) */
 "_Common_EntryCountPlural" = "%d oppføringer";
 
 /* (No Comment) */
@@ -231,6 +234,9 @@
 
 /* (No Comment) */
 "_Common_EventsAtThisPlace" = "Hendelser på dette stedet";
+
+/* (No Comment) */
+"_Common_Example" = "Eksempel";
 
 /* (No Comment) */
 "_Common_Export" = "Eksporter";
@@ -353,6 +359,9 @@
 "_Common_Link" = "Lenke";
 
 /* (No Comment) */
+"_Common_LoginButton" = "Logg på";
+
+/* (No Comment) */
 "_Common_LogoutButton" = "Logg av";
 
 /* (No Comment) */
@@ -408,6 +417,9 @@
 
 /* (No Comment) */
 "_Common_NoDatePlaceholder" = "Ingen dato";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "Ingen opplysninger angitt";
 
 /* (No Comment) */
 "_Common_NoLabelsPlaceholder" = "Ingen etiketter";

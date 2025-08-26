@@ -536,7 +536,7 @@
 "SourceTemplate_VitalRecord_MarriageLicense" = "Befolkningsregister – äktenskapsintyg";
 
 /* (No Comment) */
-"SourceTemplate_WebSite" = "Webbsida";
+"SourceTemplate_WebSite" = "Webbplats";
 
 /* (No Comment) */
 "SourceTemplate_Will" = "Testamente";

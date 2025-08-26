@@ -551,6 +551,12 @@
 "_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Tekijän nimi ja osoite";
 
 /* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Tämä hävittää tämän merkin lopullisesti ja poistaa sen kaikista liittyvistä kirjauksista sukupuussasi.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Poistetaanko merkki todella?";
+
+/* (No Comment) */
 "_EditLabelsContentController_NoLabelsLargePlaceholder" = "Merkkejä ei ole";
 
 /* (No Comment) */
@@ -1055,6 +1061,9 @@
 "_EditPlaceDetailsContentController_LookupCoordinateButton" = "Etsi koordinaatit…";
 
 /* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Yhdistä toiseen paikkatietoon";
+
+/* (No Comment) */
 "_EditPlaceDetailsContentController_NoNamePlaceholder" = "Yhtään merkittävää paikannimeä ei syötetty";
 
 /* (No Comment) */
@@ -1522,6 +1531,18 @@
 /* (No Comment) */
 "_EditToDoController_AddToDoButton" = "Lisää ensimmäinen tehtävä";
 
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Haluatko todella poistaa sukupuustasi kaikki Tehtävät jotka on merkitty valmiiksi?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "Sukupuussasi ei ole yhtään Tehtävää merkitty valmiiksi, joten niistä yhtään ei ole poistettu.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Poistetaanko todella %d valmiiksi merkittyä Tehtävää?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Yhtään valmiiksi merkittyä Tehtävää ei löytynyt";
+
 /* EditToDoController */
 "_EditToDoController_LargePlaceholder" = "Tehtäviä ei ole";
 
@@ -1530,6 +1551,15 @@
 
 /* (No Comment) */
 "_EditToDoController_Title" = "Muokkaa tehtävää";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Muokkaa tärkeystyyppejä…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Muokkaa tilatyyppejä…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Muokkaa tyyppejä…";
 
 /* EditToDoGeneralContentController */
 "_EditToDoGeneralContentController_Title" = "Yleistä";
@@ -1548,6 +1578,21 @@
 
 /* (No Comment) */
 "_EditToDosContentController_Sorting_ByType" = "Lajin mukaan";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Tekstiä ei syötetty";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Osoita tähän syöttääksesi tekstiä tähän tehtävään";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Teksti";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d tapahtumaa";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 tapahtuma";
 
 /* Specialized Freeform Controls */
 "_FreeformControlsNotesControlDescription_NNotes" = "%d merkintää";

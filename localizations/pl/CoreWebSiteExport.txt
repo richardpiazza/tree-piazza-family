@@ -80,7 +80,7 @@
 "_ManageMacFamilyTreeCom_EditUserButton" = "Edytuj Moje konto";
 
 /* (No Comment) */
-"_ManageMacFamilyTreeCom_ListTopHint" = "Poniżej znajdują się wszystkie drzewa genealogiczne utworzone na MacFamilyTree.com. Wybierając konkretny rekord można usunąć drzewo lub edytować jego tytuł i ochronę hasłem. Aby zastąpić zawartość, wybierz stronę internetową na poprzednim ekranie i wybierz \"Prześlij\".";
+"_ManageMacFamilyTreeCom_ListTopHint" = "Poniżej znajdują się wszystkie drzewa genealogiczne utworzone na MacFamilyTree.com. Wybierając konkretny rekord można usunąć drzewo lub edytować jego tytuł i ochronę hasłem. Aby zastąpić zawartość, wybierz stronę internetową na poprzednim ekranie i wybierz \"Publikuj\".";
 
 /* (No Comment) */
 "_ManageMacFamilyTreeCom_LogoutButton" = "Wyloguj";
@@ -126,6 +126,9 @@
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_Color" = "Kolor";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Kolor według płci";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_CustomHomePageImage" = "Wybierz poniżej niestandardowy obraz, aby wyświetlić go na stronie głównej.";
@@ -935,6 +938,9 @@
 "_WebSiteExport_Place_Page_View_Place_In_Maps" = "Pokaż miejscowość w Mapach";
 
 /* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Prosty";
+
+/* (No Comment) */
 "_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Zbieranie informacji o drzewie genealogicznym...";
 
 /* (No Comment) */
@@ -1113,6 +1119,12 @@
 
 /* (No Comment) */
 "_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Eksportuj stronę internetową do folderu";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Czy chcesz wyeksportować witrynę do lokalnego wyświetlania, czy też chcesz zapisać witrynę w formacie, który może być zapisany na serwerze WWW?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Udostępnij wyeksportowaną stronę internetową";
 
 /* (No Comment) */
 "_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "Podgląd wyświetla tylko maksymalnie 500 osób. Eksportowana strona internetowa będzie jednak zawierać wszystkie wybrane osoby.";

@@ -80,7 +80,7 @@
 "_ManageMacFamilyTreeCom_EditUserButton" = "Rediger min konto";
 
 /* (No Comment) */
-"_ManageMacFamilyTreeCom_ListTopHint" = "Nedenfor vises en liste over alle familietrær du har opprettet på MacFamilyTree.com. Du kan fjerne trærne eller redigere tittelen og passordbeskyttelsen ved å velge et familietre. Vil du erstatte innholdet, velg et nettsted fra forrige side og velg «Last opp».";
+"_ManageMacFamilyTreeCom_ListTopHint" = "Nedenfor vises en liste over alle familietrær du har opprettet på MacFamilyTree.com. Du kan fjerne trærne eller redigere tittelen og passordbeskyttelsen ved å velge et familietre. For å erstatte innholdet gå tilbake til forrige side, rediger eller legg til et nettsted der, og velg «Last opp».";
 
 /* (No Comment) */
 "_ManageMacFamilyTreeCom_LogoutButton" = "Logg av";
@@ -126,6 +126,9 @@
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_Color" = "Farge";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Fargetoning etter kjønn";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_CustomHomePageImage" = "Velg et egendefinert bilde nedenfor som skal vises på hjemmesiden.";
@@ -332,7 +335,7 @@
 "_WebSiteExport_Configuration_MinorGroupTitle_Includes" = "Inkluder";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_MinorGroupTitle_Introduction" = "Introduction";
+"_WebSiteExport_Configuration_MinorGroupTitle_Introduction" = "Introduksjon";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_MinorGroupTitle_Links" = "Lenker";
@@ -416,16 +419,16 @@
 "_WebSiteExport_Configuration_StoryPageSettings" = "Side om historie";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_TextAlignment" = "Alignment";
+"_WebSiteExport_Configuration_TextAlignment" = "Plassering";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_TextAlignment_Center" = "Center";
+"_WebSiteExport_Configuration_TextAlignment_Center" = "Sentrert";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_TextAlignment_Left" = "Left";
+"_WebSiteExport_Configuration_TextAlignment_Left" = "Venstre";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_TextAlignment_Right" = "Right";
+"_WebSiteExport_Configuration_TextAlignment_Right" = "Høyre";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_Theme_Label" = "Tema";
@@ -935,6 +938,9 @@
 "_WebSiteExport_Place_Page_View_Place_In_Maps" = "Vis sted på kart";
 
 /* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Ensfarget";
+
+/* (No Comment) */
 "_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Henter informasjon om familietre…";
 
 /* (No Comment) */
@@ -1113,6 +1119,12 @@
 
 /* (No Comment) */
 "_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Eksporter nettsted til mappe";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Vil du dele eksportert nettsted for lokal visning eller vil du dele nettstedet i et format som kan kjøres på en nettserver?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Del eksportert nettsted";
 
 /* (No Comment) */
 "_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "Forhåndsvisningen viser maks. 500 personer. Nettstedet du eksporterer, vil imidlertid inneholde alle valgte personene.";

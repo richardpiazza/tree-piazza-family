@@ -518,7 +518,13 @@
 "_FunctionTitle_ToDo_PluralCount" = "%@ úkolů";
 
 /* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount_Overdue" = "%@ po termínu";
+
+/* (No Comment) */
 "_FunctionTitle_ToDo_SingularCount" = "%@ úkol";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount_Overdue" = "%@ po termínu";
 
 /* (No Comment) */
 "_FunctionTitle_ToDoListReportPaneName" = "Seznam úkolů";

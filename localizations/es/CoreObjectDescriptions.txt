@@ -616,6 +616,18 @@
 /* (No Comment) */
 "_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName_ForFamily" = "Escribe el nombre desde la perspectiva de persona";
 
+/* ConclusionToDoPriorityType */
+"_ObjectProperty_ConclusionToDoPriorityType_isDefault" = "Por defecto";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionToDoStatusType_isDefault" = "Por defecto";
+
+/* ConclusionToDoStatusType */
+"_ObjectProperty_ConclusionToDoStatusType_typeShouldBeConsideredAsDone" = "Debe considerarse como 'hecho'";
+
+/* ConclusionToDoTypeType */
+"_ObjectProperty_ConclusionToDoTypeType_isDefault" = "Por defecto";
+
 /* ConclusionType */
 "_ObjectProperty_ConclusionType_gedcomTag" = "Etiqueta GEDCOM";
 
@@ -737,7 +749,7 @@
 "_ObjectProperty_Event_date" = "Fecha";
 
 /* (No Comment) */
-"_ObjectProperty_Event_ldsStatus" = "Estatus SUD";
+"_ObjectProperty_Event_ldsStatus" = "Estado SUD";
 
 /* (No Comment) */
 "_ObjectProperty_Event_ldsTempleCode" = "Código de templo SUD";
@@ -858,6 +870,9 @@
 
 /* NoteContainer */
 "_ObjectProperty_NoteContainer_notes" = "Apuntes";
+
+/* OrderedConclusionType */
+"_ObjectProperty_OrderedConclusionType_order" = "Orden";
 
 /* (No Comment) */
 "_ObjectProperty_Person_cached_birthDate" = "Fecha de nacimiento";
@@ -1265,19 +1280,22 @@
 "_ObjectProperty_StorySection_text" = "Texto";
 
 /* ToDo */
-"_ObjectProperty_ToDo_dueDate" = "Fecha de vencimiento";
+"_ObjectProperty_ToDo_dueDate" = "Fecha límite";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_priority" = "Prioridad";
+"_ObjectProperty_ToDo_priorityConclusionType" = "Prioridad";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_status" = "Estatus";
+"_ObjectProperty_ToDo_statusConclusionType" = "Estado";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_text" = "Texto";
 
 /* (No Comment) */
 "_ObjectProperty_ToDo_title" = "Título";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_type" = "Tipo";
+"_ObjectProperty_ToDo_typeConclusionType" = "Tipo";
 
 /* (No Comment) */
 "_ObjectType_AdditionalName" = "Otro nombre y/o apellido";

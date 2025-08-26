@@ -50,7 +50,7 @@
 "_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration" = "Slutlinje dekoration";
 
 /* (No Comment) */
-"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_Bar" = "Stapel";
+"_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_Bar" = "Bar";
 
 /* (No Comment) */
 "_BaseLineBasedConnectionBuilderItemGeneratorChartCompositorObjectConfiguration_LineEndDecoration_LargeCircle" = "Stor cirkel";
@@ -269,13 +269,13 @@
 "_Common_AlignOnGridExplanation" = "Layoutar alla personer beroende på storleken på den största personlådan, vilket ger ett mer enhetligt utseende - men använder mer utrymme.";
 
 /* (No Comment) */
-"_Common_AncestorGenerationsOfPartnerSlider" = "Anfäder av partnergenerationer";
+"_Common_AncestorGenerationsOfPartnerSlider" = "Förfäder till partnergenerationer";
 
 /* (No Comment) */
-"_Common_AncestorGenerationsSlider" = "Anfädergenerationer";
+"_Common_AncestorGenerationsSlider" = "Förfädergenerationer";
 
 /* (No Comment) */
-"_Common_AnestorGenerationsForPartnersSlider" = "Generationer av anfäder för partner";
+"_Common_AnestorGenerationsForPartnersSlider" = "Generationer av förfäder för partner";
 
 /* (No Comment) */
 "_Common_AnglesGroupName" = "Vinklar";
@@ -347,7 +347,7 @@
 "_Common_BarEdgeRadius" = "Radie för stapelkant";
 
 /* (No Comment) */
-"_Common_BarGroupName" = "Stapel";
+"_Common_BarGroupName" = "Bar";
 
 /* (No Comment) */
 "_Common_BarHeight" = "Stapelhöjd";
@@ -536,7 +536,7 @@
 "_Common_DateFormatStyle_Short" = "Kort (17/11-14)";
 
 /* (No Comment) */
-"_Common_DateFormatStyleExplanation" = "Ange här vilken datumformatsstil som ska användas vid omformatering av datum";
+"_Common_DateFormatStyleExplanation" = "Ange här vilken datumformatsstil som ska användas när datum omformateras";
 
 /* (No Comment) */
 "_Common_DateGroupName" = "Datum";
@@ -1037,10 +1037,10 @@
 "_Common_ShadowOpacity" = "Skugga ogenomskinlighet";
 
 /* (No Comment) */
-"_Common_ShowAncestorsOfPartners" = "Visa partners anfäder";
+"_Common_ShowAncestorsOfPartners" = "Visa partners förfäder";
 
 /* (No Comment) */
-"_Common_ShowAncestorsOfPartnersExplanation" = "Om detta alternativ aktiveras visas inte endast anfäderna för den valda startpersonen, utan även anfäderna till partner till startpersonen.";
+"_Common_ShowAncestorsOfPartnersExplanation" = "Om detta alternativ aktiveras visas inte endast förfäderna till den valda startpersonen, utan även förfäderna till startpersonens partner.";
 
 /* (No Comment) */
 "_Common_ShowAncestralFileNumberID" = "Visa fäderneärvd filnummer ID";
@@ -1049,7 +1049,7 @@
 "_Common_ShowBrothersAndSisters" = "Visa bröder och systrar";
 
 /* (No Comment) */
-"_Common_ShowBrothersAndSistersOfAncestors" = "Visa anfäders bröder och systrar";
+"_Common_ShowBrothersAndSistersOfAncestors" = "Visa förfäders bröder och systrar";
 
 /* (No Comment) */
 "_Common_ShowBrothersAndSistersOfStartPerson" = "Visa bröder och systrar till den valda personen";
@@ -1424,13 +1424,13 @@
 "_FanChartBuilder_Mode" = "Läge";
 
 /* (No Comment) */
-"_FanChartBuilder_Mode_Ancestors" = "Anfäder";
+"_FanChartBuilder_Mode_Ancestors" = "Förfäder";
 
 /* (No Comment) */
 "_FanChartBuilder_Mode_Descendants" = "Ättlingar";
 
 /* (No Comment) */
-"_FanChartBuilder_ModeExplanation" = "Ange här om fläktdiagrammet ska visa anfäder eller ättlingar till den valda personen";
+"_FanChartBuilder_ModeExplanation" = "Ange här om fläktdiagrammet ska visa förfäder eller ättlingar till den valda personen";
 
 /* Genogram */
 "_GenogramPersonBuilderItemGeneratorChartCompositorObjectConfiguration_EventPosition" = "Position av händelser & fakta";
@@ -1934,7 +1934,7 @@
 "_StyleNames_LightCircularPersonChartCompositorStyle" = "Ljus cirkulär";
 
 /* (No Comment) */
-"_StyleNames_LightDistributionChartCompositorStyle" = "Lutningar";
+"_StyleNames_LightDistributionChartCompositorStyle" = "Gradienter";
 
 /* (No Comment) */
 "_StyleNames_LightFanChartCompositorStyle" = "Ljus spridning";

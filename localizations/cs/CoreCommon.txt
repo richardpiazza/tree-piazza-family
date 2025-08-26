@@ -200,6 +200,9 @@
 "_Common_EnableButton" = "Povolit";
 
 /* (No Comment) */
+"_Common_Entries" = "Položky";
+
+/* (No Comment) */
 "_Common_EntryCountPlural" = "%d záznamy";
 
 /* (No Comment) */
@@ -231,6 +234,9 @@
 
 /* (No Comment) */
 "_Common_EventsAtThisPlace" = "Události v tomto místě";
+
+/* (No Comment) */
+"_Common_Example" = "Příklad";
 
 /* (No Comment) */
 "_Common_Export" = "Exportovat";
@@ -353,6 +359,9 @@
 "_Common_Link" = "Odkaz";
 
 /* (No Comment) */
+"_Common_LoginButton" = "Přihlásit se";
+
+/* (No Comment) */
 "_Common_LogoutButton" = "Odhlásit se";
 
 /* (No Comment) */
@@ -408,6 +417,9 @@
 
 /* (No Comment) */
 "_Common_NoDatePlaceholder" = "Bez data";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "Nebyly zadány žádné informace";
 
 /* (No Comment) */
 "_Common_NoLabelsPlaceholder" = "Bez štítků";

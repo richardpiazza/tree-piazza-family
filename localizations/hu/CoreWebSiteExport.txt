@@ -80,7 +80,7 @@
 "_ManageMacFamilyTreeCom_EditUserButton" = "Fiókom szerkesztése";
 
 /* (No Comment) */
-"_ManageMacFamilyTreeCom_ListTopHint" = "Az alábbiakban felsoroljuk az összes családfát, amelyet a MacFamilyTree.com oldalon hozott létre. A családfa kiválasztásával eltávolíthatja a fákat, vagy szerkesztheti a címet és a jelszóvédelmet. A tartalom cseréjéhez válasszon ki egy honlapot az előző képernyőn, és válassza a „Feltöltés” ​​lehetőséget.";
+"_ManageMacFamilyTreeCom_ListTopHint" = "Az alábbiakban felsoroljuk az összes családfát, amelyet a MacFamilyTree.com oldalon hozott létre. A családfa kiválasztásával eltávolíthatja a fákat, vagy szerkesztheti a címet és a jelszóvédelmet. A tartalom cseréjéhez válasszon ki egy honlapot az előző képernyőn, és válassza a „Publikáció” ​​lehetőséget.";
 
 /* (No Comment) */
 "_ManageMacFamilyTreeCom_LogoutButton" = "Kijelentkezés";
@@ -126,6 +126,9 @@
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_Color" = "Szín";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Színezés nemek szerint";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_CustomHomePageImage" = "Válassza ki az alábbi saját képet a kezdőlapon való megjelenítéshez.";
@@ -629,7 +632,7 @@
 "_WebSiteExport_LeftMenuBlurryBackground_Theme" = "Lila";
 
 /* (No Comment) */
-"_WebSiteExport_List_No_Entry_DueToSearch_Placeholder" = "Nem található beírás a megadott keresési kifejezésre.";
+"_WebSiteExport_List_No_Entry_DueToSearch_Placeholder" = "Nem található beírás a megadott keresési kifejezéshez.";
 
 /* (No Comment) */
 "_WebSiteExport_List_No_Entry_Placeholder" = "Nem talált beírást.";
@@ -935,6 +938,9 @@
 "_WebSiteExport_Place_Page_View_Place_In_Maps" = "Hely megtekintése térképeken";
 
 /* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Egyszerű";
+
+/* (No Comment) */
 "_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Családfa-információk gyűjtése...";
 
 /* (No Comment) */
@@ -1113,6 +1119,12 @@
 
 /* (No Comment) */
 "_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Honlap exportálása a gyűjtőbe";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Meg akarja osztani az exportált honlapot helyi megtekintésre, vagy olyan formátumban szeretné megosztani a honlapot, amely egy webszerveren tárolható?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Exportált honlap megosztása";
 
 /* (No Comment) */
 "_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "Ez az ízelítő csak maximum 500 személyt jelez ki. Az exportált honlap azonban az összes kiválasztott személyt tartalmazza majd.";

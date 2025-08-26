@@ -128,6 +128,9 @@
 "_WebSiteExport_Configuration_Color" = "Color";
 
 /* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Tinte por género";
+
+/* (No Comment) */
 "_WebSiteExport_Configuration_CustomHomePageImage" = "Seleccione una imagen personalizada de más abajo para que sea presentada en la página de inicio.";
 
 /* (No Comment) */
@@ -185,7 +188,7 @@
 "_WebSiteExport_Configuration_HomePageSettings" = "Inicio";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_HourglassChartAlignment" = "Hourglass Chart Alignment";
+"_WebSiteExport_Configuration_HourglassChartAlignment" = "Alineamiento de gráfica de reloj de arena";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_HourglassChartConnectionItemCornerRadius" = "Radio de las esquinas";
@@ -239,7 +242,7 @@
 "_WebSiteExport_Configuration_IncludePDFs" = "PDF";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_IncludePersonGroups" = "Person Groups";
+"_WebSiteExport_Configuration_IncludePersonGroups" = "Grupos de personas";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_IncludePictures" = "Imágenes";
@@ -248,10 +251,10 @@
 "_WebSiteExport_Configuration_IncludeSavedCharts" = "Gráficas guardadas";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_IncludeSources" = "Sources";
+"_WebSiteExport_Configuration_IncludeSources" = "Fuentes";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_IncludeStories" = "Stories";
+"_WebSiteExport_Configuration_IncludeStories" = "Historias";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_IncludeURLs" = "URL";
@@ -332,7 +335,7 @@
 "_WebSiteExport_Configuration_MinorGroupTitle_Includes" = "Incluir";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_MinorGroupTitle_Introduction" = "Introduction";
+"_WebSiteExport_Configuration_MinorGroupTitle_Introduction" = "Introducción";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_MinorGroupTitle_Links" = "Enlaces";
@@ -344,7 +347,7 @@
 "_WebSiteExport_Configuration_MinorGroupTitle_PageSections" = "Secciones de página";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_MinorGroupTitle_PersonPageHourglassChart" = "Hourglass Chart";
+"_WebSiteExport_Configuration_MinorGroupTitle_PersonPageHourglassChart" = "Gráfica de reloj de arena";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_MinorGroupTitle_Persons" = "Personas";
@@ -416,16 +419,16 @@
 "_WebSiteExport_Configuration_StoryPageSettings" = "Página de historia";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_TextAlignment" = "Alignment";
+"_WebSiteExport_Configuration_TextAlignment" = "Alineamiento";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_TextAlignment_Center" = "Center";
+"_WebSiteExport_Configuration_TextAlignment_Center" = "Centro";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_TextAlignment_Left" = "Left";
+"_WebSiteExport_Configuration_TextAlignment_Left" = "Izquierda";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_TextAlignment_Right" = "Right";
+"_WebSiteExport_Configuration_TextAlignment_Right" = "Derecha";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_Theme_Label" = "Tema";
@@ -641,7 +644,7 @@
 "_WebSiteExport_List_Sort_By" = "Ordenar por";
 
 /* (No Comment) */
-"_WebSiteExport_List_Sort_Family_Last_Name_Key" = "Family Last Name";
+"_WebSiteExport_List_Sort_Family_Last_Name_Key" = "Apellido de la familia";
 
 /* (No Comment) */
 "_WebSiteExport_List_Sort_Family_Name_Key" = "Apellido";
@@ -935,6 +938,9 @@
 "_WebSiteExport_Place_Page_View_Place_In_Maps" = "Ver lugar en mapas";
 
 /* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Simple";
+
+/* (No Comment) */
 "_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Recopilando información del árbol genealógico...";
 
 /* (No Comment) */
@@ -1113,6 +1119,12 @@
 
 /* (No Comment) */
 "_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Exportar sitio web a carpeta";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "¿Desea compartir el sitio web exportado para verlo localmente o prefiere compartir este en un formato que puede ser alojado en un servidor web?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Compartir sitio web exportado";
 
 /* (No Comment) */
 "_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "Esta vista previa muestra un máximo de 500 personas. No obstante, su sitio web exportado contendrá todas las personas seleccionadas.";

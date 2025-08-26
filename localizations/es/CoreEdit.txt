@@ -164,16 +164,16 @@
 "_DatabaseChangesController_PurgeAllChangesInformativeWithDate" = "Confirme que desea borrar todas las entradas en el historial de cambios realizadas antes del %@.";
 
 /* DatabaseChangesController */
-"_DatabaseChangesController_PurgeAllChangesMessage" = "¿Está seguro que desea purgar el historial de cambios? Esta acción no se puede deshacer.";
+"_DatabaseChangesController_PurgeAllChangesMessage" = "¿Está seguro que desea limpiar el historial de cambios? Esta acción no se puede deshacer.";
 
 /* (No Comment) */
 "_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesInformative" = "Confirme que desea borrar todas las entradas del historial de cambios que hagan referencia a personas borradas, familias, etc.";
 
 /* (No Comment) */
-"_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesMessage" = "¿Está seguro que desea purgar las entradas borradas del historial de cambios? Esta acción no se puede deshacer.";
+"_DatabaseChangesController_PurgeAllChangesOfDeletedEntriesMessage" = "¿Está seguro que desea elimiar permanentemente las entradas borradas del historial de cambios? Esta acción no se puede deshacer.";
 
 /* (No Comment) */
-"_DatabaseChangesController_PurgeButton" = "Purgar historial de cambios";
+"_DatabaseChangesController_PurgeButton" = "Limpiar el historial de cambios";
 
 /* (No Comment) */
 "_EditAssociateRelationGeneralController_Source" = "Origen";
@@ -549,6 +549,12 @@
 
 /* EditFamilyTreeInformationNameAndAddressContentController */
 "_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Nombre y dirección del autor";
+
+/* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Esta acción borrará permanentemente esta etiqueta y la eliminará de todas las entradas asociadas en su árbol genealógico.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "¿Está seguro que desea borrar esta etiqueta?";
 
 /* (No Comment) */
 "_EditLabelsContentController_NoLabelsLargePlaceholder" = "No hay etiquetas";
@@ -1055,6 +1061,9 @@
 "_EditPlaceDetailsContentController_LookupCoordinateButton" = "Buscar coordenada...";
 
 /* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Fusionar con otro detalle de lugar";
+
+/* (No Comment) */
 "_EditPlaceDetailsContentController_NoNamePlaceholder" = "No se ha ingresado ningún nombre de detalle de lugar";
 
 /* (No Comment) */
@@ -1502,7 +1511,7 @@
 "_EditToDoContentController_AddToDoButton" = "Añadir tarea";
 
 /* (No Comment) */
-"_EditToDoContentController_LargePlaceholder" = "No hay tareas";
+"_EditToDoContentController_LargePlaceholder" = "No hay tareas pendientes";
 
 /* (No Comment) */
 "_EditToDoContentController_NoDateEnteredPlaceholder" = "No se ha ingresado una fecha";
@@ -1517,25 +1526,46 @@
 "_EditToDoContentController_SmallPlaceholder" = "Utilice los botones de arriba para añadir una nueva tarea o adjuntar una tarea ya existente";
 
 /* EditToDosContentController */
-"_EditToDoContentController_Title" = "Tarea";
+"_EditToDoContentController_Title" = "Tareas pendientes";
 
 /* (No Comment) */
 "_EditToDoController_AddToDoButton" = "Añadir primera tarea";
 
-/* EditToDoController */
-"_EditToDoController_LargePlaceholder" = "No hay tareas";
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "¿Está seguro que desea borrar todas las tareas pendientes de su árbol genealógico que han sido marcadas como 'hecho'?";
 
 /* (No Comment) */
-"_EditToDoController_SmallPlaceholder" = "No hay tareas en este árbol genealógico. Seleccione \"Añadir primera tarea\" para crar su primera tarea.";
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "No se han encontrado ninguna tarea pendiente marcadas como 'hecho' en su árbol genealógico, por lo que no se ha eliminado ninguna.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "¿Está seguro que desea borrar %d tareas pendientes marcadas como 'hecho'?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "No se han encontrado tareas marcadas como 'hecho'";
+
+/* EditToDoController */
+"_EditToDoController_LargePlaceholder" = "No hay tareas pendientes";
+
+/* (No Comment) */
+"_EditToDoController_SmallPlaceholder" = "No hay tareas pendientes en este árbol genealógico. Seleccione \"Añadir primera tarea\" para crear su primera tarea pendiente.";
 
 /* (No Comment) */
 "_EditToDoController_Title" = "Editar tarea";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Editar tipos de prioridad...";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Editar tipos de estado...";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Editar tipos...";
 
 /* EditToDoGeneralContentController */
 "_EditToDoGeneralContentController_Title" = "General";
 
 /* (No Comment) */
-"_EditToDosContentController_Sorting_ByDueDate" = "Por fecha de vencimiento";
+"_EditToDosContentController_Sorting_ByDueDate" = "Por fecha límite";
 
 /* (No Comment) */
 "_EditToDosContentController_Sorting_ByPriority" = "Por prioridad";
@@ -1548,6 +1578,21 @@
 
 /* (No Comment) */
 "_EditToDosContentController_Sorting_ByType" = "Por tipo";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "No se ha ingresado texto";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Pulse aquí para añadir texto a esta tarea pendiente";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Texto";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d eventos";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 evento";
 
 /* Specialized Freeform Controls */
 "_FreeformControlsNotesControlDescription_NNotes" = "%d apuntes";

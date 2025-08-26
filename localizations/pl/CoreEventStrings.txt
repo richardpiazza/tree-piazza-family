@@ -346,3 +346,12 @@
 /* (No Comment) */
 "ConclusionPersonFactType_Unnamed" = "Typ faktu dot. osoby bez nazwy";
 
+/* (No Comment) */
+"ConclusionToDoPriorityType_Unnamed" = "Typ priorytetu zadania bez nazwy";
+
+/* (No Comment) */
+"ConclusionToDoStatusType_Unnamed" = "Typ statusu zadania bez nazwy";
+
+/* (No Comment) */
+"ConclusionToDoTypeType_Unnamed" = "Typ zadania bez nazwy";
+

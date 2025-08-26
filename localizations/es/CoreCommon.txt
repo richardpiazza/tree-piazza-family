@@ -200,6 +200,9 @@
 "_Common_EnableButton" = "Activar";
 
 /* (No Comment) */
+"_Common_Entries" = "Entradas";
+
+/* (No Comment) */
 "_Common_EntryCountPlural" = "%d entradas";
 
 /* (No Comment) */
@@ -231,6 +234,9 @@
 
 /* (No Comment) */
 "_Common_EventsAtThisPlace" = "Eventos en este lugar";
+
+/* (No Comment) */
+"_Common_Example" = "Ejemplo";
 
 /* (No Comment) */
 "_Common_Export" = "Exportar";
@@ -353,6 +359,9 @@
 "_Common_Link" = "Enlace";
 
 /* (No Comment) */
+"_Common_LoginButton" = "Login";
+
+/* (No Comment) */
 "_Common_LogoutButton" = "Cerrar sesión";
 
 /* (No Comment) */
@@ -408,6 +417,9 @@
 
 /* (No Comment) */
 "_Common_NoDatePlaceholder" = "Sin fecha";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "No se ha ingresado ninguna información";
 
 /* (No Comment) */
 "_Common_NoLabelsPlaceholder" = "Sin etiquetas";
@@ -689,7 +701,7 @@
 "_Common_ToDo" = "Tarea";
 
 /* (No Comment) */
-"_Common_ToDos" = "Tareas";
+"_Common_ToDos" = "Tareas pendientes";
 
 /* (No Comment) */
 "_Common_Toggle" = "Invertir todo";
@@ -710,7 +722,7 @@
 "_Common_Unlimited" = "Ilimitado";
 
 /* (No Comment) */
-"_Common_UnnamedChart" = "Unnamed Chart";
+"_Common_UnnamedChart" = "Gráfica sin nombre";
 
 /* (No Comment) */
 "_Common_UnnamedFamily" = "Familia no especificada";

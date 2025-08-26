@@ -251,8 +251,8 @@
 "_EditNotesContentController_Sorting_ByText" = "By Text";
 
 /*EditToDosContentController*/
-"_EditToDoContentController_Title" = "ToDo's";
-"_EditToDoContentController_LargePlaceholder" = "No ToDo's present";
+"_EditToDoContentController_Title" = "ToDos";
+"_EditToDoContentController_LargePlaceholder" = "No ToDos present";
 "_EditToDoContentController_SmallPlaceholder" = "Please use the buttons above to add a new ToDo or attach an existing ToDo";
 "_EditToDoContentController_AddToDoButton" = "Add ToDo";
 "_EditToDoContentController_AddNewToDoMenuItem" = "Add New ToDo";
@@ -265,9 +265,21 @@
 "_EditToDosContentController_Sorting_ByStatus" = "By Status";
 "_EditToDosContentController_Sorting_ByPriority" = "By Priority";
 "_EditToDosContentController_Sorting_ByType" = "By Type";
+"_EditToDoController_DeleteEmptyToDosMessage" = "Really delete %d ToDos which are marked as done?";
+"_EditToDoController_DeleteEmptyToDosInformative" = "Do you really want to delete all ToDos from your family tree which has been marked as done?";
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "No ToDos found which are marked as done";
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "In your family tree, no ToDos marked as done have been found so none have been removed.";
 
 /*EditToDoGeneralContentController*/
 "_EditToDoGeneralContentController_Title" = "General";
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Edit priority types…";
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Edit status types…";
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Edit types…";
+
+/*EditToDoTextContentController*/
+"_EditToDoTextContentController_Title" = "Text";
+"_EditToDoTextContentController_LargePlaceholder" = "No Text entered";
+"_EditToDoTextContentController_SmallPlaceholder" = "Press here to enter text for this todo";
 
 /*EditToDoAssignedEntriesContentController*/
 "_EditToDoAssignedEntriesContentController_Title" = "Assigned Entries";
@@ -321,8 +333,8 @@
 "_EditPlacePane_ShowEventCountOnPlacePins" = "Show event count on pins";
 
 /*EditToDoController*/
-"_EditToDoController_LargePlaceholder" = "No ToDo's present";
-"_EditToDoController_SmallPlaceholder" = "There are no ToDo's in this family tree. Please select \"Add First ToDo\" to create your first ToDo.";
+"_EditToDoController_LargePlaceholder" = "No ToDos present";
+"_EditToDoController_SmallPlaceholder" = "There are no ToDos in this family tree. Please select \"Add First ToDo\" to create your first ToDo.";
 "_EditToDoController_AddToDoButton" = "Add First ToDo";
 
 /*EditPlaceHeaderContentController*/
@@ -381,6 +393,7 @@
 "_EditPlaceDetailsContentController_EventCount" = "Count of Events";
 "_EditPlaceDetailsContentController_LargePlaceholder" = "No place details entered";
 "_EditPlaceDetailsContentController_SmallPlaceholder" = "Use the 'Add' button above to add place details. Place details are specific addresses, sections or other points of interests at this place.";
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Merge with other Place Detail";
 
 /*InteractiveTreeEditPersonController*/
 "_InteractiveTreeEditPersonController_SelectPersonsPlaceholder_Title" = "Select Person or Family";
@@ -703,6 +716,8 @@
 /*Specialized Freeform Controls*/
 "_FreeformControlsNotesControlDescription_NNotes" = "%d Notes";
 "_FreeformControlsNotesControlDescription_OneNote" = "1 Note";
+"_FreeformControlsEventsControlDescription_NEvents" = "%d Events";
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 Event";
 "_FreeformControlsSourceRelationsControlDescription_NSources" = "%d Sources";
 "_FreeformControlsSourceRelationsControlDescription_OneSource" = "1 Source";
 "_FreeformControlsStorySectionRelationsControlDescription_NRelations" = "%d Referenced Entries";
@@ -740,3 +755,7 @@
 
 /*PlaceLookupControllerResultPlacePreviewLinksContentController*/
 "_PlaceLookupControllerResultPlacePreviewLinksContentController_Title" = "Web Pages";
+
+/*Edit Labels Views*/
+"_EditLabel_DeleteLabelTitle" = "Really delete Label?";
+"_EditLabel_DeleteLabelMessage" = "This will permanently delete this label and remove it from all associated entries in your family tree.";

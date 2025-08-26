@@ -551,6 +551,12 @@
 "_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Jméno a adresa autora";
 
 /* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Tento krok trvale odstraní štítek a odstraní jej ze všech souvisejících záznamů v rodokmenu.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Opravdu smazat štítek?";
+
+/* (No Comment) */
 "_EditLabelsContentController_NoLabelsLargePlaceholder" = "Nejsou k dispozici žádné štítky";
 
 /* (No Comment) */
@@ -1055,6 +1061,9 @@
 "_EditPlaceDetailsContentController_LookupCoordinateButton" = "Vyhledat souřadnice…";
 
 /* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Sloučit s jiným detailem místa";
+
+/* (No Comment) */
 "_EditPlaceDetailsContentController_NoNamePlaceholder" = "Nebyl zadán žádný název detailu místa";
 
 /* (No Comment) */
@@ -1522,6 +1531,18 @@
 /* (No Comment) */
 "_EditToDoController_AddToDoButton" = "Přidat první úkol";
 
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Opravdu chcete z rodokmenu odstranit všechny úkoly, které byly označeny jako vyřízené?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "Ve vašem rodokmenu nebyly nalezeny žádné úkoly označené jako vyřízené, takže žádné nebyly odstraněny.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Opravdu smazat %d úkolů, které jsou označeny jako vyřízené?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Nebyly nalezeny žádné úkoly, které jsou označeny jako vyřízené";
+
 /* EditToDoController */
 "_EditToDoController_LargePlaceholder" = "Nejsou k dispozici žádné úkoly";
 
@@ -1530,6 +1551,15 @@
 
 /* (No Comment) */
 "_EditToDoController_Title" = "Upravit úkol";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Upravit typy priorit…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Upravit typy stavů…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Upravit typy…";
 
 /* EditToDoGeneralContentController */
 "_EditToDoGeneralContentController_Title" = "Obecné";
@@ -1548,6 +1578,21 @@
 
 /* (No Comment) */
 "_EditToDosContentController_Sorting_ByType" = "Podle typu";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Nebyl zadán žádný text";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Klikněte sem pro zadání textu tohoto úkolu";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Text";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d událostí";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 událost";
 
 /* Specialized Freeform Controls */
 "_FreeformControlsNotesControlDescription_NNotes" = "%d poznámek";

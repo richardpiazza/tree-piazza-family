@@ -1301,6 +1301,18 @@
 "_Reports_Sort_By_DeathPlace" = "Podle místa úmrzí";
 
 /* (No Comment) */
+"_Reports_Sort_By_EventDate" = "Podle data události";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDescription" = "Podle popisu";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeAndDate" = "Podle typu a data události";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeName" = "Podle názvu typu události";
+
+/* (No Comment) */
 "_Reports_Sort_By_FirstName" = "Podle křestního jména";
 
 /* (No Comment) */
@@ -1386,6 +1398,9 @@
 
 /* (No Comment) */
 "_Reports_ToDoReport_Status" = "Stav";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Text" = "Text";
 
 /* ToDoReport */
 "_Reports_ToDoReport_Type" = "Typ";

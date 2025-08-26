@@ -518,7 +518,13 @@
 "_FunctionTitle_ToDo_PluralCount" = "%@ opgaver";
 
 /* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount_Overdue" = "%@ forfaldne";
+
+/* (No Comment) */
 "_FunctionTitle_ToDo_SingularCount" = "%@ opgave";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount_Overdue" = "%@ forfaldne";
 
 /* (No Comment) */
 "_FunctionTitle_ToDoListReportPaneName" = "Opgaveliste";

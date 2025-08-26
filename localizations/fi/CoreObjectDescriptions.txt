@@ -616,6 +616,18 @@
 /* (No Comment) */
 "_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName_ForFamily" = "Tyyppinimi henkilön näkökulmasta";
 
+/* ConclusionToDoPriorityType */
+"_ObjectProperty_ConclusionToDoPriorityType_isDefault" = "Oletus";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionToDoStatusType_isDefault" = "Oletus";
+
+/* ConclusionToDoStatusType */
+"_ObjectProperty_ConclusionToDoStatusType_typeShouldBeConsideredAsDone" = "Käsiteltävä kuten 'Valmis'";
+
+/* ConclusionToDoTypeType */
+"_ObjectProperty_ConclusionToDoTypeType_isDefault" = "Oletus";
+
 /* ConclusionType */
 "_ObjectProperty_ConclusionType_gedcomTag" = "GEDCOM Tagi";
 
@@ -858,6 +870,9 @@
 
 /* NoteContainer */
 "_ObjectProperty_NoteContainer_notes" = "Muistiinpanot";
+
+/* OrderedConclusionType */
+"_ObjectProperty_OrderedConclusionType_order" = "Järjestys";
 
 /* (No Comment) */
 "_ObjectProperty_Person_cached_birthDate" = "Syntymäaika";
@@ -1268,16 +1283,19 @@
 "_ObjectProperty_ToDo_dueDate" = "Laskettu aika";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_priority" = "Tärkeys";
+"_ObjectProperty_ToDo_priorityConclusionType" = "Tärkeys";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_status" = "Tila";
+"_ObjectProperty_ToDo_statusConclusionType" = "Tila";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_text" = "Teksti";
 
 /* (No Comment) */
 "_ObjectProperty_ToDo_title" = "Otsikko";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_type" = "Laji";
+"_ObjectProperty_ToDo_typeConclusionType" = "Tyyppi";
 
 /* (No Comment) */
 "_ObjectType_AdditionalName" = "Lisänimet";

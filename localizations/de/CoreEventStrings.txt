@@ -346,3 +346,12 @@
 /* (No Comment) */
 "ConclusionPersonFactType_Unnamed" = "Unbenannte Personenfakt-Art";
 
+/* (No Comment) */
+"ConclusionToDoPriorityType_Unnamed" = "Unbenannte Aufgaben-Priorität";
+
+/* (No Comment) */
+"ConclusionToDoStatusType_Unnamed" = "Unbenannter Aufgaben-Status-Typ";
+
+/* (No Comment) */
+"ConclusionToDoTypeType_Unnamed" = "Ungenannte Aufgaben-Art";
+

@@ -23,7 +23,7 @@
 "_FunctionTitle_AncestorChartPaneName" = "Antavla";
 
 /* (No Comment) */
-"_FunctionTitle_AncestorChartPaneName_Abbreviation" = "Anfäder";
+"_FunctionTitle_AncestorChartPaneName_Abbreviation" = "Förfäder";
 
 /* (No Comment) */
 "_FunctionTitle_AnniversaryListReportPaneName" = "Årsdagslista";
@@ -35,7 +35,7 @@
 "_FunctionTitle_BooksPaneName" = "Namn på släktträdet";
 
 /* (No Comment) */
-"_FunctionTitle_BooksPaneName_Abbreviation" = "Släktträdsbok";
+"_FunctionTitle_BooksPaneName_Abbreviation" = "Namn på släktträdet";
 
 /* (No Comment) */
 "_FunctionTitle_ChangeLogPane" = "Ändringslogg";
@@ -191,7 +191,7 @@
 "_FunctionTitle_FanChartPaneName" = "Solfjädersdiagram";
 
 /* (No Comment) */
-"_FunctionTitle_FanChartPaneName_Abbreviation" = "Solfjädersdiagram";
+"_FunctionTitle_FanChartPaneName_Abbreviation" = "Solfjäder";
 
 /* (No Comment) */
 "_FunctionTitle_FavoritesFunctionsPlaceholder" = "Översikt över favoritfunktioner";
@@ -221,7 +221,7 @@
 "_FunctionTitle_FractalHVTreeChartPaneName" = "Fyrkantsträd";
 
 /* (No Comment) */
-"_FunctionTitle_FractalHVTreeChartPaneName_Abbreviation" = "Kvadrat";
+"_FunctionTitle_FractalHVTreeChartPaneName_Abbreviation" = "Torg";
 
 /* (No Comment) */
 "_FunctionTitle_FractalSymmetricalTreeChartPaneName" = "Symmetriskt träd";
@@ -407,10 +407,10 @@
 "_FunctionTitle_ResearchAssistantPaneName_Abbreviation" = "Assistent";
 
 /* (No Comment) */
-"_FunctionTitle_SavedBook_PluralCount" = "%@ Books";
+"_FunctionTitle_SavedBook_PluralCount" = "%@ böcker";
 
 /* (No Comment) */
-"_FunctionTitle_SavedBook_SingularCount" = "%@ Book";
+"_FunctionTitle_SavedBook_SingularCount" = "%@ bok";
 
 /* (No Comment) */
 "_FunctionTitle_SavedChart_PluralCount" = "%@ sparade diagram";
@@ -437,10 +437,10 @@
 "_FunctionTitle_SavedReportsPaneName_Abbreviation" = "Sparade rapporter";
 
 /* (No Comment) */
-"_FunctionTitle_SavedWebsite_PluralCount" = "%@ webbsidor";
+"_FunctionTitle_SavedWebsite_PluralCount" = "%@ webbplatser";
 
 /* (No Comment) */
-"_FunctionTitle_SavedWebsite_SingularCount" = "%@ webbsida";
+"_FunctionTitle_SavedWebsite_SingularCount" = "%@ webbplats";
 
 /* (No Comment) */
 "_FunctionTitle_SearchAndReplacePaneName" = "Sök och ersätt";
@@ -515,22 +515,28 @@
 "_FunctionTitle_TodayReportPaneName" = "Idagrapport";
 
 /* (No Comment) */
-"_FunctionTitle_ToDo_PluralCount" = "%@ uppgift";
+"_FunctionTitle_ToDo_PluralCount" = "%@ uppgifter";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount_Overdue" = "%@ försenad";
 
 /* (No Comment) */
 "_FunctionTitle_ToDo_SingularCount" = "%@ uppgift";
 
 /* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount_Overdue" = "%@ försenad";
+
+/* (No Comment) */
 "_FunctionTitle_ToDoListReportPaneName" = "Uppdragslista";
 
 /* (No Comment) */
-"_FunctionTitle_ToDoListReportPaneName_Abbreviation" = "Uppgifter";
+"_FunctionTitle_ToDoListReportPaneName_Abbreviation" = "Uppgift";
 
 /* (No Comment) */
 "_FunctionTitle_ToDosPaneName" = "Redigera uppgiftslistan";
 
 /* (No Comment) */
-"_FunctionTitle_ToDosPaneName_Abbreviation" = "Uppgifter";
+"_FunctionTitle_ToDosPaneName_Abbreviation" = "Uppgift";
 
 /* (No Comment) */
 "_FunctionTitle_TreeChartPaneName" = "Komplett träddiagram";
@@ -563,10 +569,10 @@
 "_FunctionTitle_WebSearchPaneName_Abbreviation" = "Sök på internet";
 
 /* (No Comment) */
-"_FunctionTitle_WebSiteExportWebSitesPaneName" = "Webbsidor";
+"_FunctionTitle_WebSiteExportWebSitesPaneName" = "Webbplatser";
 
 /* (No Comment) */
-"_FunctionTitle_WebSiteExportWebSitesPaneName_Abbreviation" = "Webbsidor";
+"_FunctionTitle_WebSiteExportWebSitesPaneName_Abbreviation" = "Webbplatser";
 
 /* (No Comment) */
 "_FunctionTitle_WebSitePaneName" = "Webbplats";

@@ -346,3 +346,12 @@
 /* (No Comment) */
 "ConclusionPersonFactType_Unnamed" = "Tipo del fatto della persona senza nome";
 
+/* (No Comment) */
+"ConclusionToDoPriorityType_Unnamed" = "Tipo di priorità dell'attività senza nome";
+
+/* (No Comment) */
+"ConclusionToDoStatusType_Unnamed" = "Tipo di status dell'attività senza nome";
+
+/* (No Comment) */
+"ConclusionToDoTypeType_Unnamed" = "Tipo di attività senza nome";
+

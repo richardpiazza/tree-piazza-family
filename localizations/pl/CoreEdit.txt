@@ -203,7 +203,7 @@
 "_EditAssociatesContentController_EditAssociateRelationConclusionTypes" = "Edytuj typy relacji wpływu...";
 
 /* (No Comment) */
-"_EditAssociatesContentController_LargePlaceholder" = "Brak wpływowych osób";
+"_EditAssociatesContentController_LargePlaceholder" = "Nie wprowadzono wpływowych osób";
 
 /* (No Comment) */
 "_EditAssociatesContentController_RemoveAssociateButton" = "Usuń wpływową osobę";
@@ -549,6 +549,12 @@
 
 /* EditFamilyTreeInformationNameAndAddressContentController */
 "_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Nazwisko i adres autora";
+
+/* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Spowoduje to nieodwracalne usunięcie wybranej etykiety i usunięcie jej ze wszystkich powiązanych pozycji.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Czy chcesz usunąć etykietę?";
 
 /* (No Comment) */
 "_EditLabelsContentController_NoLabelsLargePlaceholder" = "Brak etykiet";
@@ -1055,6 +1061,9 @@
 "_EditPlaceDetailsContentController_LookupCoordinateButton" = "Sprawdź współrzędne...";
 
 /* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Połącz z innym miejscem charakterystycznym";
+
+/* (No Comment) */
 "_EditPlaceDetailsContentController_NoNamePlaceholder" = "Brak nazwy miejsca charakterystycznego";
 
 /* (No Comment) */
@@ -1502,7 +1511,7 @@
 "_EditToDoContentController_AddToDoButton" = "Dodaj zadanie";
 
 /* (No Comment) */
-"_EditToDoContentController_LargePlaceholder" = "Brak zadań do wykonania";
+"_EditToDoContentController_LargePlaceholder" = "Brak zadań";
 
 /* (No Comment) */
 "_EditToDoContentController_NoDateEnteredPlaceholder" = "Nie wprowadzono daty";
@@ -1522,6 +1531,18 @@
 /* (No Comment) */
 "_EditToDoController_AddToDoButton" = "Utwórz pierwsze zadanie";
 
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Czy chcesz usunąć wszystkie zadania z drzewa genealogicznego, które zostały oznaczone jako wykonane?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "W drzewie genealogicznym nie znaleziono żadnych zadań oznaczonych jako wykonane, więc żadne z nich nie zostało usunięte.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Czy chcesz usunąć następującą liczbę zadań %d, które są oznaczone jako wykonane?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Nie znaleziono żadnych zadań oznaczonych jako wykonane";
+
 /* EditToDoController */
 "_EditToDoController_LargePlaceholder" = "Brak zadań";
 
@@ -1531,11 +1552,20 @@
 /* (No Comment) */
 "_EditToDoController_Title" = "Edytuj zadanie";
 
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Edytuj typy priorytetów...";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Edytuj typy statusów...";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Edytuj typy...";
+
 /* EditToDoGeneralContentController */
 "_EditToDoGeneralContentController_Title" = "Ogólne";
 
 /* (No Comment) */
-"_EditToDosContentController_Sorting_ByDueDate" = "Wg daty ważności";
+"_EditToDosContentController_Sorting_ByDueDate" = "Wg terminu";
 
 /* (No Comment) */
 "_EditToDosContentController_Sorting_ByPriority" = "Wg priorytetu";
@@ -1548,6 +1578,21 @@
 
 /* (No Comment) */
 "_EditToDosContentController_Sorting_ByType" = "Wg typu";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Nie wprowadzono tekstu";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Naciśnij tutaj, aby wprowadzić tekst dla tego zadania";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Tekst";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "Liczba wydarzeń %d";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 wydarzenie";
 
 /* Specialized Freeform Controls */
 "_FreeformControlsNotesControlDescription_NNotes" = "Liczba notatek %d";

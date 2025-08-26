@@ -346,3 +346,12 @@
 /* (No Comment) */
 "ConclusionPersonFactType_Unnamed" = "Megnevezetlen személyténytípus";
 
+/* (No Comment) */
+"ConclusionToDoPriorityType_Unnamed" = "Megnevezetlen feladatprioritástípus";
+
+/* (No Comment) */
+"ConclusionToDoStatusType_Unnamed" = "Megnevezetlen feladatstátusztípus";
+
+/* (No Comment) */
+"ConclusionToDoTypeType_Unnamed" = "Megnevezetlen feladattípus";
+

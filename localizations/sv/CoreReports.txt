@@ -239,7 +239,7 @@
 "_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopCenter" = "Upptill centrum";
 
 /* (No Comment) */
-"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopLeft" = "Överst vänster";
+"_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopLeft" = "Upptill vänster";
 
 /* (No Comment) */
 "_ReportPageBackgroundRendererConfiguration_Watermark_Placement_FitTopRight" = "Upptill höger";
@@ -269,7 +269,7 @@
 "_Reports_AgeStyleExplanation" = "Specificera åldersstilen som ska användas";
 
 /* (No Comment) */
-"_Reports_AhnentafelReport_GenerationNumber" = "%d. generation";
+"_Reports_AhnentafelReport_GenerationNumber" = "Generation nr. %d";
 
 /* (No Comment) */
 "_Reports_AhnentafelReport_Generations" = "Generationer";
@@ -377,7 +377,7 @@
 "_Reports_DateFormatStyle" = "Datumformatsstil";
 
 /* (No Comment) */
-"_Reports_DateFormatStyleExplanation" = "Ange här vilken datumformatsstil som ska användas vid omformatering av datum";
+"_Reports_DateFormatStyleExplanation" = "Ange här vilken datumformatsstil som ska användas när datum omformateras";
 
 /* (No Comment) */
 "_Reports_DateOptionsGroupName" = "Datum";
@@ -392,7 +392,7 @@
 "_Reports_DescendancyReport_ChildNumber_Header" = "Barn";
 
 /* DescendancyReport */
-"_Reports_DescendancyReport_DescendantsSectionTitleWithGenerationNumber" = "%d. generation";
+"_Reports_DescendancyReport_DescendantsSectionTitleWithGenerationNumber" = "Generation nr. %d";
 
 /* (No Comment) */
 "_Reports_DescendancyReport_Marriage_Header" = "Vigsel";
@@ -971,10 +971,10 @@
 "_Reports_PersonPicturesSize_Small" = "Liten";
 
 /* (No Comment) */
-"_Reports_PersonReport_Ancestors_Section_Title" = "Anfäder";
+"_Reports_PersonReport_Ancestors_Section_Title" = "Förfäder";
 
 /* (No Comment) */
-"_Reports_PersonReport_AncestorsDepth" = "Anfädergenerationer";
+"_Reports_PersonReport_AncestorsDepth" = "Förfädergenerationer";
 
 /* (No Comment) */
 "_Reports_PersonReport_AncestorsOrDescendants_Generation_Header" = "Generation";
@@ -1058,7 +1058,7 @@
 "_Reports_PersonReport_Partners_Section_Title" = "Partner";
 
 /* (No Comment) */
-"_Reports_PersonReport_ShowAncestors" = "Anfäder";
+"_Reports_PersonReport_ShowAncestors" = "Förfäder";
 
 /* (No Comment) */
 "_Reports_PersonReport_ShowDescendants" = "Ättlingar";
@@ -1130,7 +1130,7 @@
 "_Reports_ReformatDatesToSelectedLocaleExplanation" = "Om aktiverat kommer alla datum att formateras för att matcha den angivna lokaliseringen";
 
 /* RegisterReport */
-"_Reports_RegisterReport_DescendantsSectionTitleWithGenerationNumber" = "%d. generation";
+"_Reports_RegisterReport_DescendantsSectionTitleWithGenerationNumber" = "Generation nr. %d";
 
 /* (No Comment) */
 "_Reports_Report_Associates_Section_Title" = "Präglande personer och familjer";
@@ -1301,6 +1301,18 @@
 "_Reports_Sort_By_DeathPlace" = "Efter dödsort";
 
 /* (No Comment) */
+"_Reports_Sort_By_EventDate" = "Efter händelsedatum";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDescription" = "Efter beskrivning";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeAndDate" = "Efter händelsetyp och datum";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeName" = "Efter händelsetypnamn";
+
+/* (No Comment) */
 "_Reports_Sort_By_FirstName" = "Efter förnamn";
 
 /* (No Comment) */
@@ -1386,6 +1398,9 @@
 
 /* (No Comment) */
 "_Reports_ToDoReport_Status" = "Status";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Text" = "Text";
 
 /* ToDoReport */
 "_Reports_ToDoReport_Type" = "Typ";

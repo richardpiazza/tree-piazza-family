@@ -68,7 +68,7 @@
 "_ReportError_NoPlacesWithCoordinatesFoundForPersonError" = "Aucun lieu n'a été trouvé avec les coordonnées associées à l'entrée sélectionnée. Ajoutez des coordonnées géographiques aux lieux dans la rubrique Éditer pour visualiser ce rapport.";
 
 /* (No Comment) */
-"_ReportError_NoPlausibilityAnalyzerResultsFound" = "Aucun avertissement d'incohérence n'a été trouvé.";
+"_ReportError_NoPlausibilityAnalyzerResultsFound" = "Aucun signalement d'incohérence n'a été trouvé.";
 
 /* (No Comment) */
 "_ReportError_NoSelectedFamilySetError" = "Aucune famille n'a été sélectionnée pour ce rapport.";
@@ -965,7 +965,7 @@
 "_Reports_PersonPicturesSize_Medium" = "Moyennes";
 
 /* (No Comment) */
-"_Reports_PersonPicturesSize_None" = "Ne pas afficher";
+"_Reports_PersonPicturesSize_None" = "Aucune";
 
 /* (No Comment) */
 "_Reports_PersonPicturesSize_Small" = "Petites";
@@ -1301,6 +1301,18 @@
 "_Reports_Sort_By_DeathPlace" = "Par lieu de décès";
 
 /* (No Comment) */
+"_Reports_Sort_By_EventDate" = "Par date d'événement";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDescription" = "Par description";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeAndDate" = "Par type d'événement et par date";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeName" = "Par nom de type d'événement";
+
+/* (No Comment) */
 "_Reports_Sort_By_FirstName" = "Par prénom";
 
 /* (No Comment) */
@@ -1386,6 +1398,9 @@
 
 /* (No Comment) */
 "_Reports_ToDoReport_Status" = "État";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Text" = "Texte";
 
 /* ToDoReport */
 "_Reports_ToDoReport_Type" = "Type";

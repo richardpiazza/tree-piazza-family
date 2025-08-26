@@ -80,7 +80,7 @@
 "_ManageMacFamilyTreeCom_EditUserButton" = "Éditer mon compte";
 
 /* (No Comment) */
-"_ManageMacFamilyTreeCom_ListTopHint" = "Vous trouverez ci-dessous tous les arbres généalogiques que vous avez créés sur MacFamilyTree.com. Vous pouvez supprimer les arbres ou modifier le titre et la protection par mot de passe en sélectionnant un arbre généalogique. Pour remplacer le contenu, sélectionnez un site internet sur l'écran précédent et sélectionnez 'Téléverser'.";
+"_ManageMacFamilyTreeCom_ListTopHint" = "Vous trouverez ci-dessous tous les arbres généalogiques que vous avez créés sur MacFamilyTree.com. Vous pouvez supprimer les arbres ou modifier leur titre et leur protection par mot de passe en sélectionnant un arbre généalogique. Pour remplacer le contenu, modifier ou ajouter un site internet, revenez à l'écran précédent et sélectionnez 'Publier'.";
 
 /* (No Comment) */
 "_ManageMacFamilyTreeCom_LogoutButton" = "Déconnexion";
@@ -126,6 +126,9 @@
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_Color" = "Couleur";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Teinter selon le sexe";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_CustomHomePageImage" = "Sélectionnez l'image personnalisée ci-dessous pour l'afficher sur la page d'accueil.";
@@ -935,6 +938,9 @@
 "_WebSiteExport_Place_Page_View_Place_In_Maps" = "Voir le lieu sur Plans";
 
 /* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Uniforme";
+
+/* (No Comment) */
 "_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Collecte des informations de l'arbre généalogique…";
 
 /* (No Comment) */
@@ -1113,6 +1119,12 @@
 
 /* (No Comment) */
 "_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Exporter le site internet dans un dossier";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Souhaitez-vous partager le site internet exporté pour une visualisation locale ou souhaitez-vous partager le site internet dans un format pouvant être hébergé sur un serveur web ?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Partager le site internet exporté";
 
 /* (No Comment) */
 "_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "Cet aperçu n'affiche qu'un maximum de 500 personnes. Votre site internet exporté contiendra cependant toutes les personnes sélectionnées.";

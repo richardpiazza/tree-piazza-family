@@ -92,10 +92,10 @@
 "_ReportError_NotEnoughDataPresentError" = "Non sono presenti dati sufficienti nell'albero genealogico per mostrare questo rapporto.";
 
 /* (No Comment) */
-"_ReportError_NoToDoFoundInFamilyTreeError" = "Finora non sono stati inseriti promemoria in questo albero genealogico. Per cortesia usa la sezione Modifica per accedere alle attività, al fine di visualizzare questo rapporto.";
+"_ReportError_NoToDoFoundInFamilyTreeError" = "Finora nessuna attività risulta inserita in questo albero genealogico. Per cortesia usa la sezione Modifica per accedere alle attività, al fine di visualizzare questo rapporto.";
 
 /* (No Comment) */
-"_ReportError_NoToDosFoundMatchingTheSelectedCriteria" = "Non è stato trovato alcun promemoria che corrisponda ai criteri selezionati.";
+"_ReportError_NoToDosFoundMatchingTheSelectedCriteria" = "Non è stato trovata alcuna attività che corrisponda ai criteri selezionati.";
 
 /* (No Comment) */
 "_ReportPageBackgroundRendererConfiguration_ChapterColor" = "Colore del testo del capitolo";
@@ -269,7 +269,7 @@
 "_Reports_AgeStyleExplanation" = "Specifica lo stile dell'età da usare";
 
 /* (No Comment) */
-"_Reports_AhnentafelReport_GenerationNumber" = "%d. Generazione";
+"_Reports_AhnentafelReport_GenerationNumber" = "%d. generazione";
 
 /* (No Comment) */
 "_Reports_AhnentafelReport_Generations" = "Generazioni";
@@ -386,13 +386,13 @@
 "_Reports_DefaultHighlightColor" = "Colore di evidenziazione predefinita";
 
 /* (No Comment) */
-"_Reports_DefaultHighlightColor_Explanation" = "Specifica il colore di evidenziazione predefinito. È possibile impostare i singoli colori di evidenziazione per capitolo nella configurazione del capitolo.";
+"_Reports_DefaultHighlightColor_Explanation" = "Specifica il colore di evidenziazione predefinito. Puoi impostare i singoli colori di evidenziazione per capitolo nella configurazione del capitolo.";
 
 /* (No Comment) */
 "_Reports_DescendancyReport_ChildNumber_Header" = "Figlio/a";
 
 /* DescendancyReport */
-"_Reports_DescendancyReport_DescendantsSectionTitleWithGenerationNumber" = "%d. Generazione";
+"_Reports_DescendancyReport_DescendantsSectionTitleWithGenerationNumber" = "%d. generazione";
 
 /* (No Comment) */
 "_Reports_DescendancyReport_Marriage_Header" = "Matrimonio";
@@ -1301,6 +1301,18 @@
 "_Reports_Sort_By_DeathPlace" = "Per luogo di decesso";
 
 /* (No Comment) */
+"_Reports_Sort_By_EventDate" = "Per data dell'evento";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDescription" = "Per descrizione";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeAndDate" = "Per tipo e data dell'evento";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeName" = "Per nome del tipo di evento";
+
+/* (No Comment) */
 "_Reports_Sort_By_FirstName" = "Per nome";
 
 /* (No Comment) */
@@ -1385,7 +1397,10 @@
 "_Reports_ToDoReport_Priority" = "Priorità";
 
 /* (No Comment) */
-"_Reports_ToDoReport_Status" = "Stato";
+"_Reports_ToDoReport_Status" = "Status";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Text" = "Testo";
 
 /* ToDoReport */
 "_Reports_ToDoReport_Type" = "Tipo";

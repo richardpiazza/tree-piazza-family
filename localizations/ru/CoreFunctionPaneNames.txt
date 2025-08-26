@@ -518,13 +518,19 @@
 "_FunctionTitle_ToDo_PluralCount" = "%@ задач(и)";
 
 /* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount_Overdue" = "%@ просрочено";
+
+/* (No Comment) */
 "_FunctionTitle_ToDo_SingularCount" = "%@ задача";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount_Overdue" = "%@ просрочено";
 
 /* (No Comment) */
 "_FunctionTitle_ToDoListReportPaneName" = "Список дел";
 
 /* (No Comment) */
-"_FunctionTitle_ToDoListReportPaneName_Abbreviation" = "Дела";
+"_FunctionTitle_ToDoListReportPaneName_Abbreviation" = "Задачи";
 
 /* (No Comment) */
 "_FunctionTitle_ToDosPaneName" = "Список задач";

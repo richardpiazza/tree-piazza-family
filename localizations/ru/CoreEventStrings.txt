@@ -346,3 +346,12 @@
 /* (No Comment) */
 "ConclusionPersonFactType_Unnamed" = "Безымянный тип факта о человеке";
 
+/* (No Comment) */
+"ConclusionToDoPriorityType_Unnamed" = "Безымянный тип приоритета задачи";
+
+/* (No Comment) */
+"ConclusionToDoStatusType_Unnamed" = "Безымянный тип статуса задачи";
+
+/* (No Comment) */
+"ConclusionToDoTypeType_Unnamed" = "Безымянный тип задачи";
+

@@ -80,7 +80,7 @@
 "_ManageMacFamilyTreeCom_EditUserButton" = "Muokkaa tiliäni";
 
 /* (No Comment) */
-"_ManageMacFamilyTreeCom_ListTopHint" = "Allaolevassa luettelossa on kaikki MacFamilyTree.com palvelimella olevat sukupuut. Voit poistaa puita tai muokata nimeä ja salasanasuojausta valitsemalla sukupuu. Sisällön korvaamiseksi, valitse webbisivu edellisestä ruudusta ja valitse 'Lataa'.";
+"_ManageMacFamilyTreeCom_ListTopHint" = "Allaolevassa luettelossa ovat kaikki MacFamilyTree.com palvelimelle luomasi sukupuut. Voit poistaa puut tai muokata nimeä ja salasanasuojausta valitsemalla sukupuu. Sisällön korvaamiseksi, muokkaa tai lisää webbisivu edellisestä ruudusta ja valitse 'Julkaise'.";
 
 /* (No Comment) */
 "_ManageMacFamilyTreeCom_LogoutButton" = "Kirjaudu ulos";
@@ -126,6 +126,9 @@
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_Color" = "Väri";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Väritä sukupuolen mukaan";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_CustomHomePageImage" = "Valitse alta kuva joka näytetään kotisivulla.";
@@ -332,7 +335,7 @@
 "_WebSiteExport_Configuration_MinorGroupTitle_Includes" = "Sisällytä";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_MinorGroupTitle_Introduction" = "Introduction";
+"_WebSiteExport_Configuration_MinorGroupTitle_Introduction" = "Perehdytys";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_MinorGroupTitle_Links" = "Linkit";
@@ -416,16 +419,16 @@
 "_WebSiteExport_Configuration_StoryPageSettings" = "Tarinasivu";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_TextAlignment" = "Alignment";
+"_WebSiteExport_Configuration_TextAlignment" = "Tasaus";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_TextAlignment_Center" = "Center";
+"_WebSiteExport_Configuration_TextAlignment_Center" = "Keskelle";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_TextAlignment_Left" = "Left";
+"_WebSiteExport_Configuration_TextAlignment_Left" = "Vasemmalle";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_TextAlignment_Right" = "Right";
+"_WebSiteExport_Configuration_TextAlignment_Right" = "Oikealle";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_Theme_Label" = "Teema";
@@ -935,6 +938,9 @@
 "_WebSiteExport_Place_Page_View_Place_In_Maps" = "Näytä paikka Kartoissa";
 
 /* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Yksinkertainen";
+
+/* (No Comment) */
 "_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Kerätään sukupuutietoja…";
 
 /* (No Comment) */
@@ -1113,6 +1119,12 @@
 
 /* (No Comment) */
 "_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Vie webbisivu kansioon";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Haluatko jakaa viedyn webbisivun paikallista katselua varten vai haluatko jakaa webbisivun muodossa, jota voidaan hallita webbipalvelimella?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Jaa viety webbisivu";
 
 /* (No Comment) */
 "_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "Tämä esikatselu näyttää enintään 500 henkilöä. Viety nettisivusi kuitenkin sisältää kaikki valitut henkilöt.";

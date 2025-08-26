@@ -616,6 +616,18 @@
 /* (No Comment) */
 "_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName_ForFamily" = "Název typu z pohledu osoby";
 
+/* ConclusionToDoPriorityType */
+"_ObjectProperty_ConclusionToDoPriorityType_isDefault" = "Výchozí";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionToDoStatusType_isDefault" = "Výchozí";
+
+/* ConclusionToDoStatusType */
+"_ObjectProperty_ConclusionToDoStatusType_typeShouldBeConsideredAsDone" = "Mělo by být považováno za „vyřízené\"";
+
+/* ConclusionToDoTypeType */
+"_ObjectProperty_ConclusionToDoTypeType_isDefault" = "Výchozí";
+
 /* ConclusionType */
 "_ObjectProperty_ConclusionType_gedcomTag" = "Značka GEDCOM";
 
@@ -858,6 +870,9 @@
 
 /* NoteContainer */
 "_ObjectProperty_NoteContainer_notes" = "Poznámky";
+
+/* OrderedConclusionType */
+"_ObjectProperty_OrderedConclusionType_order" = "Pořadí";
 
 /* (No Comment) */
 "_ObjectProperty_Person_cached_birthDate" = "Datum narození";
@@ -1268,16 +1283,19 @@
 "_ObjectProperty_ToDo_dueDate" = "Datum splnění";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_priority" = "Priorita";
+"_ObjectProperty_ToDo_priorityConclusionType" = "Priorita";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_status" = "Stav";
+"_ObjectProperty_ToDo_statusConclusionType" = "Stav";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_text" = "Text";
 
 /* (No Comment) */
 "_ObjectProperty_ToDo_title" = "Název";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_type" = "Typ";
+"_ObjectProperty_ToDo_typeConclusionType" = "Typ";
 
 /* (No Comment) */
 "_ObjectType_AdditionalName" = "Další jméno";

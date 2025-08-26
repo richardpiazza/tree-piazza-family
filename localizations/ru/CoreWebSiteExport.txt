@@ -128,6 +128,9 @@
 "_WebSiteExport_Configuration_Color" = "Цвет";
 
 /* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Оттенок по полу";
+
+/* (No Comment) */
 "_WebSiteExport_Configuration_CustomHomePageImage" = "Выберите ниже изображение, для отображения на домашней странице.";
 
 /* (No Comment) */
@@ -935,6 +938,9 @@
 "_WebSiteExport_Place_Page_View_Place_In_Maps" = "Посмотреть место на картах";
 
 /* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Простой";
+
+/* (No Comment) */
 "_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Сбор информации о семейном древе…";
 
 /* (No Comment) */
@@ -1113,6 +1119,12 @@
 
 /* (No Comment) */
 "_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Экспортировать веб-сайт в папку";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Вы хотите поделиться экспортированным веб-сайтом для локального просмотра или поделиться веб-сайтом в формате, который можно разместить на веб-сервере?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Поделиться экспортированным веб-сайтом";
 
 /* (No Comment) */
 "_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "В этом просмотре отображается не более 500 человек. Однако ваш экспортированный веб-сайт будет содержать всех выбранных людей.";

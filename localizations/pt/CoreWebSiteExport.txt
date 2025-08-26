@@ -80,7 +80,7 @@
 "_ManageMacFamilyTreeCom_EditUserButton" = "Editar minha conta";
 
 /* (No Comment) */
-"_ManageMacFamilyTreeCom_ListTopHint" = "Abaixo estão listadas todas as árvores genealógicas que você criou no MacFamilyTree.com. Você pode remover as árvores ou editar o título e a proteção por senha selecionando uma árvore genealógica. Para substituir o conteúdo, selecione um site na tela anterior e selecione 'Enviar'.";
+"_ManageMacFamilyTreeCom_ListTopHint" = "Abaixo estão listadas todas as árvores genealógicas que você criou no MacFamilyTree.com. Você pode remover as árvores ou editar o título e a senha de proteção selecionando uma árvore genealógica. Para substituir o conteúdo, edite ou adicione um site na tela anterior e selecione \"Publicar\".";
 
 /* (No Comment) */
 "_ManageMacFamilyTreeCom_LogoutButton" = "Desconctar";
@@ -126,6 +126,9 @@
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_Color" = "Cor";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Tonalidade por gênero";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_CustomHomePageImage" = "Selecione uma imagem personalizada abaixo para mostrar na página inicial.";
@@ -935,6 +938,9 @@
 "_WebSiteExport_Place_Page_View_Place_In_Maps" = "Visualizar local no Mapas";
 
 /* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Simples";
+
+/* (No Comment) */
 "_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Coletando informações da árvore genealógica…";
 
 /* (No Comment) */
@@ -1113,6 +1119,12 @@
 
 /* (No Comment) */
 "_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Exportar site para pasta";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Você deseja compartilhar o site exportado para visualização local ou deseja compartilhar o site em um formato que possa ser hospedado em um servidor web?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Compartilhar site exportado";
 
 /* (No Comment) */
 "_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "Esta visualização exibe apenas um máximo de 500 pessoas. No entanto, seu site exportado conterá todas as pessoas selecionadas.";

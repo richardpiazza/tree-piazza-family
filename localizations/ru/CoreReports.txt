@@ -1301,6 +1301,18 @@
 "_Reports_Sort_By_DeathPlace" = "По месту смерти";
 
 /* (No Comment) */
+"_Reports_Sort_By_EventDate" = "По дате события";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDescription" = "По описанию";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeAndDate" = "По типу события и описанию";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeName" = "По названию типа события";
+
+/* (No Comment) */
 "_Reports_Sort_By_FirstName" = "По имени";
 
 /* (No Comment) */
@@ -1331,25 +1343,25 @@
 "_Reports_Sources_Section_Title" = "Источники";
 
 /* (No Comment) */
-"_Reports_StoryReport_ReferencedEntries_Title" = "Ссылочные записи";
+"_Reports_StoryReport_ReferencedEntries_Title" = "Записи ссылок";
 
 /* (No Comment) */
-"_Reports_StoryReport_ReferencedEntriesInSection_Title" = "Ссылочные записи в разделе '%@'";
+"_Reports_StoryReport_ReferencedEntriesInSection_Title" = "Записи ссылок в разделе '%@'";
 
 /* (No Comment) */
 "_Reports_StoryReport_Section_Media" = "Медиа";
 
 /* (No Comment) */
-"_Reports_StoryReport_Section_ReferencedEntries" = "Ссылочные записи в разделе";
+"_Reports_StoryReport_Section_ReferencedEntries" = "Записи ссылок в разделе";
 
 /* (No Comment) */
 "_Reports_StoryReport_Section_Text" = "Текст";
 
 /* (No Comment) */
-"_Reports_StoryReport_ShowReferencedEntries" = "Ссылочные записи в истории";
+"_Reports_StoryReport_ShowReferencedEntries" = "Записи ссылок в истории";
 
 /* (No Comment) */
-"_Reports_StoryReport_ShowReferencedEntriesInStorySections" = "Ссылочные записи в разделах истории";
+"_Reports_StoryReport_ShowReferencedEntriesInStorySections" = "Записи ссылок в разделах истории";
 
 /* Story Report */
 "_Reports_StoryReport_UserDescription" = "Описание";
@@ -1386,6 +1398,9 @@
 
 /* (No Comment) */
 "_Reports_ToDoReport_Status" = "Статус";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Text" = "Текст";
 
 /* ToDoReport */
 "_Reports_ToDoReport_Type" = "Тип";

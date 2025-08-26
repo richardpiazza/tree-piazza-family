@@ -346,3 +346,12 @@
 /* (No Comment) */
 "ConclusionPersonFactType_Unnamed" = "Onbenoemde persoonsgegeven type";
 
+/* (No Comment) */
+"ConclusionToDoPriorityType_Unnamed" = "Unnamed ToDo Priority Type";
+
+/* (No Comment) */
+"ConclusionToDoStatusType_Unnamed" = "Unnamed ToDo Status Type";
+
+/* (No Comment) */
+"ConclusionToDoTypeType_Unnamed" = "Unnamed ToDo Type";
+

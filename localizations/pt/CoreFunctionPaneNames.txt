@@ -518,7 +518,13 @@
 "_FunctionTitle_ToDo_PluralCount" = "%@ Tarefas";
 
 /* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount_Overdue" = "%@ atrasado";
+
+/* (No Comment) */
 "_FunctionTitle_ToDo_SingularCount" = "%@ Tarefa";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount_Overdue" = "%@ atrasado";
 
 /* (No Comment) */
 "_FunctionTitle_ToDoListReportPaneName" = "Lista de tarefas";

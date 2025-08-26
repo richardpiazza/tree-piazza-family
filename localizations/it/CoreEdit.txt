@@ -551,6 +551,12 @@
 "_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Nome ed indirizzo dell'autore";
 
 /* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Questo eliminerà questa etichetta e la rimuoverà da tutte le voci associate nel tuo albero genealogico.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Sicuro di rimuovere l'etichetta?";
+
+/* (No Comment) */
 "_EditLabelsContentController_NoLabelsLargePlaceholder" = "Nessuna etichetta presente";
 
 /* (No Comment) */
@@ -1055,6 +1061,9 @@
 "_EditPlaceDetailsContentController_LookupCoordinateButton" = "Cerca la coordinata...";
 
 /* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Unisci con altri dettagli del luogo";
+
+/* (No Comment) */
 "_EditPlaceDetailsContentController_NoNamePlaceholder" = "Nessun nome di dettaglio del luogo inserito";
 
 /* (No Comment) */
@@ -1481,7 +1490,7 @@
 "_EditToDoAssignedEntriesContentController_LargePlaceholder" = "Nessuna voce assegnata presente";
 
 /* (No Comment) */
-"_EditToDoAssignedEntriesContentController_SmallPlaceholder" = "Seleziona il pulsante sopra per aggiungere delle voci dal tuo albero genealogico a questo promemoria";
+"_EditToDoAssignedEntriesContentController_SmallPlaceholder" = "Seleziona il pulsante sopra per aggiungere delle voci dal tuo albero genealogico a questa attività";
 
 /* (No Comment) */
 "_EditToDoAssignedEntriesContentController_Sorting_ByDate" = "Per data";
@@ -1493,16 +1502,16 @@
 "_EditToDoAssignedEntriesContentController_Title" = "Voci assegnate";
 
 /* (No Comment) */
-"_EditToDoContentController_AddExistingToDoMenuItem" = "Aggiungi promemoria esistente";
+"_EditToDoContentController_AddExistingToDoMenuItem" = "Aggiungi attività esistente";
 
 /* (No Comment) */
-"_EditToDoContentController_AddNewToDoMenuItem" = "Aggiungi nuovo promemoria";
+"_EditToDoContentController_AddNewToDoMenuItem" = "Aggiungi nuova attività";
 
 /* (No Comment) */
-"_EditToDoContentController_AddToDoButton" = "Aggiungi il promemoria";
+"_EditToDoContentController_AddToDoButton" = "Aggiungi attività";
 
 /* (No Comment) */
-"_EditToDoContentController_LargePlaceholder" = "Nessun promemoria presente";
+"_EditToDoContentController_LargePlaceholder" = "Nessuna attività presente";
 
 /* (No Comment) */
 "_EditToDoContentController_NoDateEnteredPlaceholder" = "Nessuna data inserita";
@@ -1511,25 +1520,46 @@
 "_EditToDoContentController_NoTitleEnteredPlaceholder" = "Nessun titolo inserito";
 
 /* (No Comment) */
-"_EditToDoContentController_RemoveFromToDoButton" = "Rimuovi dal promemoria";
+"_EditToDoContentController_RemoveFromToDoButton" = "Rimuovi dalle attività";
 
 /* (No Comment) */
-"_EditToDoContentController_SmallPlaceholder" = "Per cortesia usa i pulsanti sopra per aggiungere o nuovo promemoria o allegarne uno esistente";
+"_EditToDoContentController_SmallPlaceholder" = "Per cortesia usa i pulsanti sopra per aggiungere una nuova attività o allegarne una esistente";
 
 /* EditToDosContentController */
-"_EditToDoContentController_Title" = "Promemoria";
+"_EditToDoContentController_Title" = "Attività";
 
 /* (No Comment) */
-"_EditToDoController_AddToDoButton" = "Aggiungi il primo promemoria";
+"_EditToDoController_AddToDoButton" = "Aggiungi la prima attività";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Sicuro di voler eliminare dal tuo albero genealogico tutte le attività contrassegnate come completate?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "Nel tuo albero genealogico non è stata trovata alcuna attività contrassegnata come completata, pertanto nessuna è stata rimossa.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Sicuro di voler eliminare %d attività contrassegnate come fatte?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Nessuna attività contrassegnata come completata trovata";
 
 /* EditToDoController */
-"_EditToDoController_LargePlaceholder" = "Nessun promemoria presente";
+"_EditToDoController_LargePlaceholder" = "Nessuna attività presente";
 
 /* (No Comment) */
-"_EditToDoController_SmallPlaceholder" = "Non ci sono promemoria in questo albero genealogico. Per cortesia seleziona \"Aggiungi il primo promemoria\" per creare il tuo primo Promemoria.";
+"_EditToDoController_SmallPlaceholder" = "Non ci sono attività in questo albero genealogico. Per cortesia seleziona \"Aggiungi la prima attività\" per crearne una.";
 
 /* (No Comment) */
-"_EditToDoController_Title" = "Modifica il promemoria";
+"_EditToDoController_Title" = "Modifica attività";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Modifica i tipi di priorità…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Modifica i tipi di status…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Modifica i tipi...";
 
 /* EditToDoGeneralContentController */
 "_EditToDoGeneralContentController_Title" = "Generale";
@@ -1541,13 +1571,28 @@
 "_EditToDosContentController_Sorting_ByPriority" = "Per priorità";
 
 /* (No Comment) */
-"_EditToDosContentController_Sorting_ByStatus" = "Per stato";
+"_EditToDosContentController_Sorting_ByStatus" = "Per status";
 
 /* (No Comment) */
 "_EditToDosContentController_Sorting_ByTitle" = "Per titolo";
 
 /* (No Comment) */
 "_EditToDosContentController_Sorting_ByType" = "Per titolo";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Nessun testo inserito";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Premi qui per inserire il testo per questa attività";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Testo";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d eventi";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 evento";
 
 /* Specialized Freeform Controls */
 "_FreeformControlsNotesControlDescription_NNotes" = "%d Note";

@@ -346,3 +346,12 @@
 /* (No Comment) */
 "ConclusionPersonFactType_Unnamed" = "Personfaktatype uden navn";
 
+/* (No Comment) */
+"ConclusionToDoPriorityType_Unnamed" = "Opgaveprioritetstype uden navn";
+
+/* (No Comment) */
+"ConclusionToDoStatusType_Unnamed" = "Opgavestatustype uden navn";
+
+/* (No Comment) */
+"ConclusionToDoTypeType_Unnamed" = "Opgavetype uden navn";
+

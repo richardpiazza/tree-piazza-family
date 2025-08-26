@@ -616,6 +616,18 @@
 /* (No Comment) */
 "_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName_ForFamily" = "Введите имя с точки зрения человека";
 
+/* ConclusionToDoPriorityType */
+"_ObjectProperty_ConclusionToDoPriorityType_isDefault" = "По умолчанию";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionToDoStatusType_isDefault" = "По умолчанию";
+
+/* ConclusionToDoStatusType */
+"_ObjectProperty_ConclusionToDoStatusType_typeShouldBeConsideredAsDone" = "Следует рассматривать как \"Выполнено\"";
+
+/* ConclusionToDoTypeType */
+"_ObjectProperty_ConclusionToDoTypeType_isDefault" = "По умолчанию";
+
 /* ConclusionType */
 "_ObjectProperty_ConclusionType_gedcomTag" = "GEDCOM тег";
 
@@ -858,6 +870,9 @@
 
 /* NoteContainer */
 "_ObjectProperty_NoteContainer_notes" = "Примечания";
+
+/* OrderedConclusionType */
+"_ObjectProperty_OrderedConclusionType_order" = "Порядок";
 
 /* (No Comment) */
 "_ObjectProperty_Person_cached_birthDate" = "Дата рождения";
@@ -1268,16 +1283,19 @@
 "_ObjectProperty_ToDo_dueDate" = "Дата";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_priority" = "Приоритет";
+"_ObjectProperty_ToDo_priorityConclusionType" = "Приоритет";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_status" = "Статус";
+"_ObjectProperty_ToDo_statusConclusionType" = "Статус";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_text" = "Текст";
 
 /* (No Comment) */
 "_ObjectProperty_ToDo_title" = "Название";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_type" = "Тип";
+"_ObjectProperty_ToDo_typeConclusionType" = "Тип";
 
 /* (No Comment) */
 "_ObjectType_AdditionalName" = "Дополнительное имя";

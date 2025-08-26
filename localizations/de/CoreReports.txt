@@ -1301,6 +1301,18 @@
 "_Reports_Sort_By_DeathPlace" = "Nach Sterbeort";
 
 /* (No Comment) */
+"_Reports_Sort_By_EventDate" = "Nach Ereignisdatum";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDescription" = "Nach Beschreibung";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeAndDate" = "Nach Ereignisart und Datum";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeName" = "Nach Ereignisart-Name";
+
+/* (No Comment) */
 "_Reports_Sort_By_FirstName" = "Nach Vornamen";
 
 /* (No Comment) */
@@ -1386,6 +1398,9 @@
 
 /* (No Comment) */
 "_Reports_ToDoReport_Status" = "Status";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Text" = "Text";
 
 /* ToDoReport */
 "_Reports_ToDoReport_Type" = "Art";

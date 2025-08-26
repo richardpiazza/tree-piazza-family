@@ -551,6 +551,12 @@
 "_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Nome e endereço do autor";
 
 /* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Isso vai apagar permanentemente essa etiqueta e a removerá de todas as entradas associadas em sua árvore genealógica.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Deseja realmente apagar a etqueta?";
+
+/* (No Comment) */
 "_EditLabelsContentController_NoLabelsLargePlaceholder" = "Nenhuma etiqueta presente";
 
 /* (No Comment) */
@@ -1055,6 +1061,9 @@
 "_EditPlaceDetailsContentController_LookupCoordinateButton" = "Pesquisar coordenada…";
 
 /* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Mesclar com outros detalhes do local";
+
+/* (No Comment) */
 "_EditPlaceDetailsContentController_NoNamePlaceholder" = "Nenhum nome de detalhe de local inserido";
 
 /* (No Comment) */
@@ -1522,6 +1531,18 @@
 /* (No Comment) */
 "_EditToDoController_AddToDoButton" = "Adicionar primeira tarefa";
 
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Você realmente deseja apagar todas as tarefas de sua árvore genealógica que foram marcadas como concluídas?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "Em sua árvore genealógica, nenhuma tarefa marcada como concluída foi encontrada, então nenhuma foi removida.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Deseja realmente apagar %d tarefas que estão marcadas como concluídas?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Nenhuma tarefa marcada como concluída foi encontrada";
+
 /* EditToDoController */
 "_EditToDoController_LargePlaceholder" = "Nenhuma tarefa presente";
 
@@ -1530,6 +1551,15 @@
 
 /* (No Comment) */
 "_EditToDoController_Title" = "Editar Tarefa";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Editar tipos de prioridade…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Editar tipos de status…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Editar tipos…";
 
 /* EditToDoGeneralContentController */
 "_EditToDoGeneralContentController_Title" = "Geral";
@@ -1548,6 +1578,21 @@
 
 /* (No Comment) */
 "_EditToDosContentController_Sorting_ByType" = "Por Tipo";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Nenhum texto inserido";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Pressione aqui para inserir texto para esta tarefa";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Texto";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d Eventos";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 Evento";
 
 /* Specialized Freeform Controls */
 "_FreeformControlsNotesControlDescription_NNotes" = "%d notas";

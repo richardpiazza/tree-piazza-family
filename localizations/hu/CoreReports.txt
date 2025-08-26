@@ -68,7 +68,7 @@
 "_ReportError_NoPlacesWithCoordinatesFoundForPersonError" = "Nincsenek helyek a kiválasztott beírás koordinátáival. Fűzze hozzá a földrajzi koordinátákat a szerkesztés részben lévő helyekhez, hogy kijelezze ezt a beszámolót.";
 
 /* (No Comment) */
-"_ReportError_NoPlausibilityAnalyzerResultsFound" = "Nem tlált plauzibilitás figyelmeztetést.";
+"_ReportError_NoPlausibilityAnalyzerResultsFound" = "Nem tlált plauzibilitásfigyelmeztetéseket.";
 
 /* (No Comment) */
 "_ReportError_NoSelectedFamilySetError" = "Egyetlen családot sem választottak ki ehhez a beszámolóhoz.";
@@ -92,7 +92,7 @@
 "_ReportError_NotEnoughDataPresentError" = "Nincs elég adat ebben a családfában, hogy megmutassa ezt a beszámolót.";
 
 /* (No Comment) */
-"_ReportError_NoToDoFoundInFamilyTreeError" = "Ebben a családfában eddig még nem írtak be feladatokat. Használja a Szerkesztés részt a feladatok beírásához a beszámoló kijelzéséhez.";
+"_ReportError_NoToDoFoundInFamilyTreeError" = "Ebben a családfában eddig még nem írtak be feladatokat. Használja a Szerkesztés részt a feladatok beírásához ezen beszámoló kijelzéséhez.";
 
 /* (No Comment) */
 "_ReportError_NoToDosFoundMatchingTheSelectedCriteria" = "Nem találtak olyan feladatokat, amelyek megfelelnek a kiválasztott kritériumoknak.";
@@ -1301,6 +1301,18 @@
 "_Reports_Sort_By_DeathPlace" = "Elhalálozási hely szerint";
 
 /* (No Comment) */
+"_Reports_Sort_By_EventDate" = "Esemény dátuma szerint";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDescription" = "Leírás szerint";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeAndDate" = "Esemény típusa és dátuma szerint";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeName" = "Esemény típusneve szerint";
+
+/* (No Comment) */
 "_Reports_Sort_By_FirstName" = "Keresztnév szerint";
 
 /* (No Comment) */
@@ -1386,6 +1398,9 @@
 
 /* (No Comment) */
 "_Reports_ToDoReport_Status" = "Státusz";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Text" = "Szöveg";
 
 /* ToDoReport */
 "_Reports_ToDoReport_Type" = "Típus";

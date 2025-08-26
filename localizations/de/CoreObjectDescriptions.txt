@@ -616,6 +616,18 @@
 /* (No Comment) */
 "_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName_ForFamily" = "Typen-Name aus Perspektive der Person";
 
+/* ConclusionToDoPriorityType */
+"_ObjectProperty_ConclusionToDoPriorityType_isDefault" = "Standard";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionToDoStatusType_isDefault" = "Standard";
+
+/* ConclusionToDoStatusType */
+"_ObjectProperty_ConclusionToDoStatusType_typeShouldBeConsideredAsDone" = "Art als \"Erledigt\" betrachten";
+
+/* ConclusionToDoTypeType */
+"_ObjectProperty_ConclusionToDoTypeType_isDefault" = "Standard";
+
 /* ConclusionType */
 "_ObjectProperty_ConclusionType_gedcomTag" = "GEDCOM-Tag";
 
@@ -858,6 +870,9 @@
 
 /* NoteContainer */
 "_ObjectProperty_NoteContainer_notes" = "Notizen";
+
+/* OrderedConclusionType */
+"_ObjectProperty_OrderedConclusionType_order" = "Reihenfolge";
 
 /* (No Comment) */
 "_ObjectProperty_Person_cached_birthDate" = "Geburtsdatum";
@@ -1268,16 +1283,19 @@
 "_ObjectProperty_ToDo_dueDate" = "Fälligkeitsdatum";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_priority" = "Priorität";
+"_ObjectProperty_ToDo_priorityConclusionType" = "Priorität";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_status" = "Status";
+"_ObjectProperty_ToDo_statusConclusionType" = "Status";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_text" = "Text";
 
 /* (No Comment) */
 "_ObjectProperty_ToDo_title" = "Titel";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_type" = "Art";
+"_ObjectProperty_ToDo_typeConclusionType" = "Art";
 
 /* (No Comment) */
 "_ObjectType_AdditionalName" = "Weiterer Name";

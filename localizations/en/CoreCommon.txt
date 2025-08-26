@@ -88,7 +88,7 @@
 "_Common_Note" = "Note";
 "_Common_Notes" = "Notes";
 "_Common_ToDo" = "ToDo";
-"_Common_ToDos" = "ToDo's";
+"_Common_ToDos" = "ToDos";
 "_Common_Media" = "Media";
 "_Common_Text" = "Text";
 "_Common_Picture" = "Picture";
@@ -143,6 +143,9 @@
 "_Common_DuplicateButton" = "Duplicate";
 "_Common_FamilyTree" = "Family Tree";
 "_Common_Version" = "Version";
+"_Common_Entries" = "Entries";
+"_Common_Example" = "Example";
+"_Common_LoginButton" = "Login";
 
 /*Sorting*/
 "_Common_Sorting_ByName" = "By Name";
@@ -303,6 +306,9 @@
 "_Common_Colors_Turquoise" = "Turquoise";
 "_Common_Colors_Blue" = "Blue";
 "_Common_Colors_Magenta" = "Magenta";
+
+/*Empty*/
+"_Common_NoInformationEnteredTooltip" = "No information has been entered";
 
 /*Errors*/
 "_Common_Errors_NoInternetConnection" = "No Internet Connection is available";

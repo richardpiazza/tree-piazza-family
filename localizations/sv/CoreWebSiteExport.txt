@@ -53,7 +53,7 @@
 "_MacFamilyTreeComWebSiteExportPublish_ListTopHint" = "Välj ett släktträd ur listan nedan eller skicka ett nytt släktträd.";
 
 /* (No Comment) */
-"_MacFamilyTreeComWebSiteExportPublish_NoTreesPresentMessage" = "Just nu har du inte skickat några släktträd till MacFamilyTree.com. Använd knapparna nedan för att skicka ditt första släktträd.";
+"_MacFamilyTreeComWebSiteExportPublish_NoTreesPresentMessage" = "Just nu har du inte skickat några släktträd till MacFamilyTree.com. Använd knappen ’Nytt träd’ för att skicka ditt första släktträd.";
 
 /* (No Comment) */
 "_MacFamilyTreeComWebSiteExportPublish_NoTreesPresentTitle" = "Inga träd på MacFamilyTree.com";
@@ -80,13 +80,13 @@
 "_ManageMacFamilyTreeCom_EditUserButton" = "Redigera mitt konto";
 
 /* (No Comment) */
-"_ManageMacFamilyTreeCom_ListTopHint" = "Nedan listas alla släktträd som du har skapat på MacFamilyTree.com. Du kan antingen ta bort dessa träd eller redigera titeln och lösenordsskyddet genom att välja ett släktträd. För att ersätta innehållet måste du välja en webbplats i den föregående bilden och välja 'Skicka'.";
+"_ManageMacFamilyTreeCom_ListTopHint" = "Nedan listas alla släktträd som du har skapat på MacFamilyTree.com. Du kan antingen ta bort dessa träd eller redigera titeln och lösenordsskyddet genom att välja ett släktträd. För att ersätta innehållet måste du välja en webbplats i den föregående bilden och därefter välja 'Skicka'.";
 
 /* (No Comment) */
 "_ManageMacFamilyTreeCom_LogoutButton" = "Logga ut";
 
 /* (No Comment) */
-"_ManageMacFamilyTreeCom_NoTreesPresentMessage" = "Du har inte skickat några släktträd till MacFamilyTree.com. För att skicka släktträd måste du skapa en webbplats i den föregående bilden , och skicka denna till MacFamilyTree.com.";
+"_ManageMacFamilyTreeCom_NoTreesPresentMessage" = "Du har inte skickat några släktträd till MacFamilyTree.com. För att skicka släktträd måste du skapa en webbplats i den föregående bilden och skicka denna till MacFamilyTree.com.";
 
 /* (No Comment) */
 "_ManageMacFamilyTreeCom_NoTreesPresentTitle" = "Inga träd på MacFamilyTree.com";
@@ -95,7 +95,7 @@
 "_ManageMacFamilyTreeCom_Title" = "Hantera träd och konton på MacFamilyTree.com";
 
 /* (No Comment) */
-"_WebSiteExport_Beach_Theme" = "Beach";
+"_WebSiteExport_Beach_Theme" = "Strand";
 
 /* (No Comment) */
 "_WebSiteExport_Blue_Theme" = "Blue Mountains tema";
@@ -116,22 +116,25 @@
 "_WebSiteExport_Classic_Theme" = "Klassiskt tema";
 
 /* (No Comment) */
-"_WebSiteExport_Clean_Theme" = "Clean Theme";
+"_WebSiteExport_Clean_Theme" = "Rent";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_ActiveLinkColor" = "Active Link Color";
+"_WebSiteExport_Configuration_ActiveLinkColor" = "Färg för aktiv länk";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_BlurRadius" = "Blur Radius";
+"_WebSiteExport_Configuration_BlurRadius" = "Suddig radie";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_Color" = "Färg";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_CustomHomePageImage" = "Select custom image below to show on home page.";
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Färgton efter kön";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_DisableAnimations" = "Disable Animations";
+"_WebSiteExport_Configuration_CustomHomePageImage" = "Välj anpassad bild nedan som ska visas på hemsidan.";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_DisableAnimations" = "Inaktivera animationer";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_DNAPageSettings" = "DNA-sida";
@@ -185,7 +188,7 @@
 "_WebSiteExport_Configuration_HomePageSettings" = "Hemsida";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_HourglassChartAlignment" = "Hourglass Chart Alignment";
+"_WebSiteExport_Configuration_HourglassChartAlignment" = "Ställa in timglasdiagram";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_HourglassChartConnectionItemCornerRadius" = "Hörnradie";
@@ -239,7 +242,7 @@
 "_WebSiteExport_Configuration_IncludePDFs" = "PDF-filer";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_IncludePersonGroups" = "Person Groups";
+"_WebSiteExport_Configuration_IncludePersonGroups" = "Persongrupper";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_IncludePictures" = "Bilder";
@@ -248,10 +251,10 @@
 "_WebSiteExport_Configuration_IncludeSavedCharts" = "Sparade diagram";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_IncludeSources" = "Sources";
+"_WebSiteExport_Configuration_IncludeSources" = "Källor";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_IncludeStories" = "Stories";
+"_WebSiteExport_Configuration_IncludeStories" = "Berättelser";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_IncludeURLs" = "Webbadresser";
@@ -260,19 +263,19 @@
 "_WebSiteExport_Configuration_IncludeVideos" = "Videofilmer";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_Label_For_Family_Members" = "Label for family members";
+"_WebSiteExport_Configuration_Label_For_Family_Members" = "Etikett för familjemedlemmar";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_Label_For_Family_Members_Use_Man_Woman" = "Use Man/Woman";
+"_WebSiteExport_Configuration_Label_For_Family_Members_Use_Man_Woman" = "Använd man/kvinna";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_Label_For_Family_Members_Use_Partner1_Partner2" = "Use Partner 1/Partner 2";
+"_WebSiteExport_Configuration_Label_For_Family_Members_Use_Partner1_Partner2" = "Använd partner 1/partner 2";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_Language_Label" = "Språk";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_LinkColor" = "Link Color";
+"_WebSiteExport_Configuration_LinkColor" = "Länkfärg";
 
 /* Configuration */
 "_WebSiteExport_Configuration_MajorGroupTitle_General" = "Allmänt";
@@ -299,7 +302,7 @@
 "_WebSiteExport_Configuration_MidGroupTitle_HourglassChartSelectedPersonItem" = "Fokuserad person";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_MinorGroupTitle_Animations" = "Animations";
+"_WebSiteExport_Configuration_MinorGroupTitle_Animations" = "Animationer";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_MinorGroupTitle_ExportOptions" = "Alternativ";
@@ -332,7 +335,7 @@
 "_WebSiteExport_Configuration_MinorGroupTitle_Includes" = "Inkludera";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_MinorGroupTitle_Introduction" = "Introduction";
+"_WebSiteExport_Configuration_MinorGroupTitle_Introduction" = "Introduktion";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_MinorGroupTitle_Links" = "Länkar";
@@ -344,7 +347,7 @@
 "_WebSiteExport_Configuration_MinorGroupTitle_PageSections" = "Sidoavsnitt";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_MinorGroupTitle_PersonPageHourglassChart" = "Hourglass Chart";
+"_WebSiteExport_Configuration_MinorGroupTitle_PersonPageHourglassChart" = "Timglasdiagram";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_MinorGroupTitle_Persons" = "Personer";
@@ -416,16 +419,16 @@
 "_WebSiteExport_Configuration_StoryPageSettings" = "Berättelsesida";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_TextAlignment" = "Alignment";
+"_WebSiteExport_Configuration_TextAlignment" = "Anpassning";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_TextAlignment_Center" = "Center";
+"_WebSiteExport_Configuration_TextAlignment_Center" = "Centrerad";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_TextAlignment_Left" = "Left";
+"_WebSiteExport_Configuration_TextAlignment_Left" = "Vänster";
 
 /* (No Comment) */
-"_WebSiteExport_Configuration_TextAlignment_Right" = "Right";
+"_WebSiteExport_Configuration_TextAlignment_Right" = "Höger";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_Theme_Label" = "Tema";
@@ -506,10 +509,10 @@
 "_WebSiteExport_CurlError_Generic" = "Internt fel (%d).";
 
 /* (No Comment) */
-"_WebSiteExport_Dark_Theme" = "Mörkt tema";
+"_WebSiteExport_Dark_Theme" = "Antelope Canyon";
 
 /* (No Comment) */
-"_WebSiteExport_DarkBubbles_Theme" = "Dark Bubbles";
+"_WebSiteExport_DarkBubbles_Theme" = "Bubbles";
 
 /* (No Comment) */
 "_WebSiteExport_Default_WebSiteExportFolderName" = "Webbplats med mitt släktträd";
@@ -524,13 +527,13 @@
 "_WebSiteExport_Flowers_Theme" = "Blomstertema";
 
 /* (No Comment) */
-"_WebSiteExport_Forest_Path_Theme" = "Forest Path";
+"_WebSiteExport_Forest_Path_Theme" = "Skogsstig";
 
 /* (No Comment) */
-"_WebSiteExport_Forest_Theme" = "Forest";
+"_WebSiteExport_Forest_Theme" = "Skog";
 
 /* (No Comment) */
-"_WebSiteExport_Green_Hills_Theme" = "Sunrise";
+"_WebSiteExport_Green_Hills_Theme" = "Soluppgång";
 
 /* (No Comment) */
 "_WebSiteExport_Home_Page_Created_On" = "Skapades den: %@";
@@ -572,7 +575,7 @@
 "_WebSiteExport_Home_Page_Section_Introduction" = "Introduktion";
 
 /* (No Comment) */
-"_WebSiteExport_Home_Page_Section_Introduction_Placeholder" = "Detta är en platshållare för introduktionen. Du kan ändra detta under Webbplats > Sido > Hemsida.";
+"_WebSiteExport_Home_Page_Section_Introduction_Placeholder" = "Detta är en platshållare för introduktionen. Du kan ändra detta under Webbplats > Sidor > Hemsida.";
 
 /* (No Comment) */
 "_WebSiteExport_Home_Page_Section_StartPerson" = "Startperson";
@@ -611,7 +614,7 @@
 "_WebSiteExport_Imprint_Page_Title_Section_Title" = "Juridisk information";
 
 /* (No Comment) */
-"_WebSiteExport_IndexCards_Theme" = "Indexkorttema";
+"_WebSiteExport_IndexCards_Theme" = "Indexkort";
 
 /* (No Comment) */
 "_WebSiteExport_Inspector_ThemesTitle" = "Teman";
@@ -620,13 +623,13 @@
 "_WebSiteExport_Inspector_WebSiteSettingsTitle" = "Webbplats";
 
 /* (No Comment) */
-"_WebSiteExport_Leafs_Theme" = "Bamboo";
+"_WebSiteExport_Leafs_Theme" = "Bambu";
 
 /* (No Comment) */
-"_WebSiteExport_LeftMenu_Theme" = "Vänstermeny tema";
+"_WebSiteExport_LeftMenu_Theme" = "Hav";
 
 /* (No Comment) */
-"_WebSiteExport_LeftMenuBlurryBackground_Theme" = "Purple";
+"_WebSiteExport_LeftMenuBlurryBackground_Theme" = "Lila";
 
 /* (No Comment) */
 "_WebSiteExport_List_No_Entry_DueToSearch_Placeholder" = "Inga poster har hittats för den angivna söktexten.";
@@ -638,10 +641,10 @@
 "_WebSiteExport_List_Search_Placeholder" = "Sök...";
 
 /* (No Comment) */
-"_WebSiteExport_List_Sort_By" = "Sort by";
+"_WebSiteExport_List_Sort_By" = "Sortera efter";
 
 /* (No Comment) */
-"_WebSiteExport_List_Sort_Family_Last_Name_Key" = "Family Last Name";
+"_WebSiteExport_List_Sort_Family_Last_Name_Key" = "Familjens efternamn";
 
 /* (No Comment) */
 "_WebSiteExport_List_Sort_Family_Name_Key" = "Familjenamn";
@@ -698,7 +701,7 @@
 "_WebSiteExport_ManageWebSiteExportThemes_AddThemeTitle" = "Infoga tema";
 
 /* (No Comment) */
-"_WebSiteExport_ManageWebSiteExportThemes_Hint" = "Alla relaterade teman för denna webbplats listas nedan. Använd knappen ”Infoga tema…” nedtill vänster för att infoga flera teman. När du flyttar på dessa teman kan du också ändra följden på dem. Det första temat i listan blir då standardtemat för din webbplats.";
+"_WebSiteExport_ManageWebSiteExportThemes_Hint" = "Alla relaterade teman för denna webbplats listas nedan. Använd knappen ’Infoga’ ovan för att infoga flera teman. Genom att dra olika teman kan du också ändra deras följd. Det första temat i listan blir till standardtema för din webbplats.";
 
 /* (No Comment) */
 "_WebSiteExport_Menu_Charts" = "Diagram";
@@ -731,7 +734,7 @@
 "_WebSiteExport_Menu_Stories" = "Berättelser";
 
 /* (No Comment) */
-"_WebSiteExport_MFT11_Theme" = "Eleven";
+"_WebSiteExport_MFT11_Theme" = "Elva";
 
 /* (No Comment) */
 "_WebSiteExport_MFTExport_AuthenticationFailed" = "Kunde inte autentisera. Kontrollera användarnamnet och lösenordet.";
@@ -914,7 +917,7 @@
 "_WebSiteExport_NoWebSitesPlaceholder_AddWebSiteButton" = "Lägg till första webbplats";
 
 /* (No Comment) */
-"_WebSiteExport_NoWebSitesPlaceholder_Message" = "Det finns inga webbplatser för detta släktträd. Välj ’Lägg till första webbplats’ för att skapa din första webbplats.";
+"_WebSiteExport_NoWebSitesPlaceholder_Message" = "Det finns inga webbplatser för detta släktträd. Välj ”Lägg till första webbplats” för att skapa din första webbplats.";
 
 /* Websites */
 "_WebSiteExport_NoWebSitesPlaceholder_Title" = "Inga webbplatser finns";
@@ -933,6 +936,9 @@
 
 /* (No Comment) */
 "_WebSiteExport_Place_Page_View_Place_In_Maps" = "Visa orter i kartor";
+
+/* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Slätt";
 
 /* (No Comment) */
 "_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Samla Information om släktträd…";
@@ -1043,10 +1049,10 @@
 "_WebSiteExport_Statistics_Page_UnknownGenderPersonCount" = "Personer med okänt kön";
 
 /* (No Comment) */
-"_WebSiteExport_Stripes_Theme" = "Stripes";
+"_WebSiteExport_Stripes_Theme" = "Ränder";
 
 /* (No Comment) */
-"_WebSiteExport_TopMenu_Theme" = "Gradient Boxes";
+"_WebSiteExport_TopMenu_Theme" = "Gradientrutor";
 
 /* (No Comment) */
 "_WebSiteExport_Unnamed_WebSite" = "Namnlös webbplats";
@@ -1115,8 +1121,14 @@
 "_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Exportera webbplats till mapp";
 
 /* (No Comment) */
-"_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "This preview only displays a maximum of 500 persons. Your exported website will contain all selected persons, though.";
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Vill du dela den exporterade webbplatsen för lokal visning eller vill du dela webbplatsen i ett format som kan sparas på en webbserver?";
 
 /* (No Comment) */
-"_WebSitesController_LimitedPersonsForPreview_Question_Message" = "Preview";
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Dela exporterad webbplats";
+
+/* (No Comment) */
+"_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "Denna förhandsvisning visar endast maximalt 500 personer. Din exporterade webbplats kommer dock att innehålla alla valda personer.";
+
+/* (No Comment) */
+"_WebSitesController_LimitedPersonsForPreview_Question_Message" = "Förhandsvisa";
 

@@ -200,6 +200,9 @@
 "_Common_EnableButton" = "Ativar";
 
 /* (No Comment) */
+"_Common_Entries" = "Entradas";
+
+/* (No Comment) */
 "_Common_EntryCountPlural" = "%d Entradas";
 
 /* (No Comment) */
@@ -231,6 +234,9 @@
 
 /* (No Comment) */
 "_Common_EventsAtThisPlace" = "Eventos deste Local";
+
+/* (No Comment) */
+"_Common_Example" = "Exemplo";
 
 /* (No Comment) */
 "_Common_Export" = "Exportar";
@@ -353,6 +359,9 @@
 "_Common_Link" = "Link";
 
 /* (No Comment) */
+"_Common_LoginButton" = "Ingressar";
+
+/* (No Comment) */
 "_Common_LogoutButton" = "Desconectar";
 
 /* (No Comment) */
@@ -408,6 +417,9 @@
 
 /* (No Comment) */
 "_Common_NoDatePlaceholder" = "Nenhuma Data";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "Nenhuma informação foi inserida";
 
 /* (No Comment) */
 "_Common_NoLabelsPlaceholder" = "Nenhuma Etiqueta";

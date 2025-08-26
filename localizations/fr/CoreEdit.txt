@@ -551,6 +551,12 @@
 "_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Nom et adresse de l'auteur";
 
 /* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Cela supprimera définitivement cette étiquette et la supprimera de toutes les entrées associées dans votre arbre généalogique.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Vraiment supprimer l'étiquette ?";
+
+/* (No Comment) */
 "_EditLabelsContentController_NoLabelsLargePlaceholder" = "Aucune étiquette disponible";
 
 /* (No Comment) */
@@ -1055,6 +1061,9 @@
 "_EditPlaceDetailsContentController_LookupCoordinateButton" = "Rechercher les coordonnées…";
 
 /* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Fusionner avec d'autres détails de lieu";
+
+/* (No Comment) */
 "_EditPlaceDetailsContentController_NoNamePlaceholder" = "Aucun nom de détail de lieu n'a été saisi";
 
 /* (No Comment) */
@@ -1370,7 +1379,7 @@
 "_EditSourceSourceRepositoryContentController_Title" = "Archives sources";
 
 /* (No Comment) */
-"_EditSourceTextContentController_LargePlaceholder" = "Aucun texte saisi";
+"_EditSourceTextContentController_LargePlaceholder" = "Aucun texte n'a été saisi";
 
 /* (No Comment) */
 "_EditSourceTextContentController_SmallPlaceholder" = "Cliquez ici pour saisir le texte de cette source";
@@ -1502,7 +1511,7 @@
 "_EditToDoContentController_AddToDoButton" = "Ajouter une tâche";
 
 /* (No Comment) */
-"_EditToDoContentController_LargePlaceholder" = "Aucune tâche disponible";
+"_EditToDoContentController_LargePlaceholder" = "Aucune tâche présente";
 
 /* (No Comment) */
 "_EditToDoContentController_NoDateEnteredPlaceholder" = "Aucune date saisie";
@@ -1522,14 +1531,35 @@
 /* (No Comment) */
 "_EditToDoController_AddToDoButton" = "Ajouter la première tâche";
 
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Voulez-vous vraiment supprimer toutes les tâches de votre arbre généalogique qui ont été marquées comme étant terminées ?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "Dans votre arbre généalogique, aucune tâche marquée comme terminée n'a été trouvée, aussi aucune tâche n'a été supprimée.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Supprimer réellement %d tâches marquées comme terminées ?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Aucune tâche marquée comme terminée n'a été trouvée.";
+
 /* EditToDoController */
-"_EditToDoController_LargePlaceholder" = "Aucune tâche disponible";
+"_EditToDoController_LargePlaceholder" = "Aucune tâche présente";
 
 /* (No Comment) */
 "_EditToDoController_SmallPlaceholder" = "Il n'y a aucune tâche dans cet arbre généalogique. Veuillez sélectionner \"Ajouter la première tâche\" pour créer votre première tâche.";
 
 /* (No Comment) */
 "_EditToDoController_Title" = "Éditer les tâches";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Éditer les types de priorité…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Éditer les types de statut…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Éditer les types…";
 
 /* EditToDoGeneralContentController */
 "_EditToDoGeneralContentController_Title" = "Générale";
@@ -1548,6 +1578,21 @@
 
 /* (No Comment) */
 "_EditToDosContentController_Sorting_ByType" = "Par type";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Aucun texte n'a été saisi";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Cliquez ici pour saisir le texte de cette tâche";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Texte";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d événements";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 événement";
 
 /* Specialized Freeform Controls */
 "_FreeformControlsNotesControlDescription_NNotes" = "%d notes";

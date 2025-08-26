@@ -616,6 +616,18 @@
 /* (No Comment) */
 "_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName_ForFamily" = "Type Naam vanuit het perspectief van de persoon";
 
+/* ConclusionToDoPriorityType */
+"_ObjectProperty_ConclusionToDoPriorityType_isDefault" = "Default";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionToDoStatusType_isDefault" = "Default";
+
+/* ConclusionToDoStatusType */
+"_ObjectProperty_ConclusionToDoStatusType_typeShouldBeConsideredAsDone" = "Should be considered as 'Done'";
+
+/* ConclusionToDoTypeType */
+"_ObjectProperty_ConclusionToDoTypeType_isDefault" = "Default";
+
 /* ConclusionType */
 "_ObjectProperty_ConclusionType_gedcomTag" = "GEDCOM-tag";
 
@@ -858,6 +870,9 @@
 
 /* NoteContainer */
 "_ObjectProperty_NoteContainer_notes" = "Notities";
+
+/* OrderedConclusionType */
+"_ObjectProperty_OrderedConclusionType_order" = "Order";
 
 /* (No Comment) */
 "_ObjectProperty_Person_cached_birthDate" = "Geboortedatum";
@@ -1268,16 +1283,19 @@
 "_ObjectProperty_ToDo_dueDate" = "Vervaldatum";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_priority" = "Prioriteit";
+"_ObjectProperty_ToDo_priorityConclusionType" = "Priority";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_status" = "Status";
+"_ObjectProperty_ToDo_statusConclusionType" = "Status";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_text" = "Text";
 
 /* (No Comment) */
 "_ObjectProperty_ToDo_title" = "Titel";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_type" = "Soort";
+"_ObjectProperty_ToDo_typeConclusionType" = "Type";
 
 /* (No Comment) */
 "_ObjectType_AdditionalName" = "Bijkomende naam";

@@ -346,3 +346,12 @@
 /* (No Comment) */
 "ConclusionPersonFactType_Unnamed" = "Nimeämätön henkilötietotyyppi";
 
+/* (No Comment) */
+"ConclusionToDoPriorityType_Unnamed" = "Nimetön Tehtävän tärkeystyyppi";
+
+/* (No Comment) */
+"ConclusionToDoStatusType_Unnamed" = "Nimetön Tehtävän tilatyyppi";
+
+/* (No Comment) */
+"ConclusionToDoTypeType_Unnamed" = "Nimetön Tehtävätyyppi";
+

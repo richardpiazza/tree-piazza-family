@@ -200,6 +200,9 @@
 "_Common_EnableButton" = "Включить";
 
 /* (No Comment) */
+"_Common_Entries" = "Записи";
+
+/* (No Comment) */
 "_Common_EntryCountPlural" = "%d записей";
 
 /* (No Comment) */
@@ -231,6 +234,9 @@
 
 /* (No Comment) */
 "_Common_EventsAtThisPlace" = "События в этом месте";
+
+/* (No Comment) */
+"_Common_Example" = "Пример";
 
 /* (No Comment) */
 "_Common_Export" = "Экспорт";
@@ -353,6 +359,9 @@
 "_Common_Link" = "Ссылка";
 
 /* (No Comment) */
+"_Common_LoginButton" = "Login";
+
+/* (No Comment) */
 "_Common_LogoutButton" = "Выйти";
 
 /* (No Comment) */
@@ -408,6 +417,9 @@
 
 /* (No Comment) */
 "_Common_NoDatePlaceholder" = "Нет даты";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "Информация не введена";
 
 /* (No Comment) */
 "_Common_NoLabelsPlaceholder" = "Нет меток";
@@ -731,7 +743,7 @@
 "_Common_UnnamedPlace" = "Безымянное место";
 
 /* (No Comment) */
-"_Common_UnnamedPlaceDetail" = "Детали неназванного места";
+"_Common_UnnamedPlaceDetail" = "Безымянные сведения о месте";
 
 /* (No Comment) */
 "_Common_UnnamedPlaceTemplate" = "Шаблон безымянного места";

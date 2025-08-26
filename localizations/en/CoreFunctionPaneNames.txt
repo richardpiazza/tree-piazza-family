@@ -121,7 +121,7 @@
 "_FunctionTitle_WebSearchPaneName_Abbreviation" = "Web Search";
 "_FunctionTitle_MediaGalleryName_Abbreviation" = "Gallery";
 "_FunctionTitle_DatabaseMaintenancePaneName_Abbreviation" = "Maintenance";
-"_FunctionTitle_ToDosPaneName_Abbreviation" = "ToDo's";
+"_FunctionTitle_ToDosPaneName_Abbreviation" = "ToDos";
 "_FunctionTitle_EditMediaPaneName_Abbreviation" = "Media";
 "_FunctionTitle_ResearchAssistantPaneName_Abbreviation" = "Assistant";
 "_FunctionTitle_SearchPaneName_Abbreviation" = "Search";
@@ -164,7 +164,7 @@
 "_FunctionTitle_PersonAnalysisListReportPaneName_Abbreviation" = "Analysis";
 "_FunctionTitle_SourcesListReportPaneName_Abbreviation" = "Sources";
 "_FunctionTitle_MarriageListReportPaneName_Abbreviation" = "Marriages";
-"_FunctionTitle_ToDoListReportPaneName_Abbreviation" = "ToDo's";
+"_FunctionTitle_ToDoListReportPaneName_Abbreviation" = "ToDos";
 "_FunctionTitle_AhnentafelReportPaneName_Abbreviation" = "Ahnentafel";
 "_FunctionTitle_PlausibilityListReportPaneName_Abbreviation" = "Plausibility";
 "_FunctionTitle_DescendancyReportPaneName_Abbreviation" = "Descendancies";
@@ -195,7 +195,9 @@
 "_FunctionTitle_Media_SingularCount" = "%@ Media";
 "_FunctionTitle_Media_PluralCount" = "%@ Media";
 "_FunctionTitle_ToDo_SingularCount" = "%@ ToDo";
-"_FunctionTitle_ToDo_PluralCount" = "%@ ToDo's";
+"_FunctionTitle_ToDo_PluralCount" = "%@ ToDos";
+"_FunctionTitle_ToDo_SingularCount_Overdue" = "%@ overdue";
+"_FunctionTitle_ToDo_PluralCount_Overdue" = "%@ overdue";
 "_FunctionTitle_FamilySearchTaskResults_SingularCount" = "%@ Result";
 "_FunctionTitle_FamilySearchTaskResults_PluralCount" = "%@ Results";
 "_FunctionTitle_SavedChart_SingularCount" = "%@ Saved Chart";

@@ -389,7 +389,7 @@
 "_ObjectDescription_StorySection" = "Sezione della storia %@";
 
 /* (No Comment) */
-"_ObjectDescription_ToDo" = "Promemoria %@";
+"_ObjectDescription_ToDo" = "Attività %@";
 
 /* (No Comment) */
 "_ObjectProperty_AdditionalName_conclusionType" = "Tipo";
@@ -615,6 +615,18 @@
 
 /* (No Comment) */
 "_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName_ForFamily" = "Digita il nome dal punto di vista della persona";
+
+/* ConclusionToDoPriorityType */
+"_ObjectProperty_ConclusionToDoPriorityType_isDefault" = "Predefinito";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionToDoStatusType_isDefault" = "Predefinito";
+
+/* ConclusionToDoStatusType */
+"_ObjectProperty_ConclusionToDoStatusType_typeShouldBeConsideredAsDone" = "Andrebbe considerato come 'Fatta'";
+
+/* ConclusionToDoTypeType */
+"_ObjectProperty_ConclusionToDoTypeType_isDefault" = "Predefinito";
 
 /* ConclusionType */
 "_ObjectProperty_ConclusionType_gedcomTag" = "Etichetta GEDCOM";
@@ -858,6 +870,9 @@
 
 /* NoteContainer */
 "_ObjectProperty_NoteContainer_notes" = "Note";
+
+/* OrderedConclusionType */
+"_ObjectProperty_OrderedConclusionType_order" = "Ordine";
 
 /* (No Comment) */
 "_ObjectProperty_Person_cached_birthDate" = "Data di nascita";
@@ -1268,16 +1283,19 @@
 "_ObjectProperty_ToDo_dueDate" = "Scadenza";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_priority" = "Priorità";
+"_ObjectProperty_ToDo_priorityConclusionType" = "Priorità";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_status" = "Stato";
+"_ObjectProperty_ToDo_statusConclusionType" = "Status";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_text" = "Testo";
 
 /* (No Comment) */
 "_ObjectProperty_ToDo_title" = "Titolo";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_type" = "Tipo";
+"_ObjectProperty_ToDo_typeConclusionType" = "Tipo";
 
 /* (No Comment) */
 "_ObjectType_AdditionalName" = "Nome aggiuntivo";
@@ -1568,10 +1586,10 @@
 "_ObjectType_StorySectionRelation" = "Relazione tra sezione storia";
 
 /* (No Comment) */
-"_ObjectType_ToDo" = "Promemoria";
+"_ObjectType_ToDo" = "Attività";
 
 /* (No Comment) */
-"_ObjectType_ToDoRelation" = "Relazione del promemoria";
+"_ObjectType_ToDoRelation" = "Relazione dell'attività";
 
 /* (No Comment) */
 "_Person_ChangeLog_Added" = "Persona aggiunta";

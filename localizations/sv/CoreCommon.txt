@@ -128,10 +128,10 @@
 "_Common_Count" = "Antal";
 
 /* (No Comment) */
-"_Common_Country" = "Country";
+"_Common_Country" = "Land";
 
 /* (No Comment) */
-"_Common_County" = "County";
+"_Common_County" = "Kommun";
 
 /* (No Comment) */
 "_Common_Create" = "Skapa";
@@ -200,6 +200,9 @@
 "_Common_EnableButton" = "Aktivera";
 
 /* (No Comment) */
+"_Common_Entries" = "Poster";
+
+/* (No Comment) */
 "_Common_EntryCountPlural" = "%d inmatningar";
 
 /* (No Comment) */
@@ -215,7 +218,7 @@
 "_Common_Error" = "Fel";
 
 /* Errors */
-"_Common_Errors_NoInternetConnection" = "No Internet Connection is available";
+"_Common_Errors_NoInternetConnection" = "Inget internet tillgängligt";
 
 /* (No Comment) */
 "_Common_Event" = "Händelse";
@@ -231,6 +234,9 @@
 
 /* (No Comment) */
 "_Common_EventsAtThisPlace" = "Händelser på denna ort";
+
+/* (No Comment) */
+"_Common_Example" = "Exempel";
 
 /* (No Comment) */
 "_Common_Export" = "Exportera";
@@ -353,6 +359,9 @@
 "_Common_Link" = "Länk";
 
 /* (No Comment) */
+"_Common_LoginButton" = "Logga in";
+
+/* (No Comment) */
 "_Common_LogoutButton" = "Logga ut";
 
 /* (No Comment) */
@@ -408,6 +417,9 @@
 
 /* (No Comment) */
 "_Common_NoDatePlaceholder" = "Inget datum";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "Ingen Information har angetts";
 
 /* (No Comment) */
 "_Common_NoLabelsPlaceholder" = "Inga etiketter";
@@ -566,7 +578,7 @@
 "_Common_ProgressCount" = "%d av %d";
 
 /* (No Comment) */
-"_Common_ProgressCountAsString" = "%@ of %@";
+"_Common_ProgressCountAsString" = "%@ av %@";
 
 /* (No Comment) */
 "_Common_QuitButton" = "Avsluta";
@@ -671,7 +683,7 @@
 "_Common_Sources" = "Källor";
 
 /* (No Comment) */
-"_Common_State" = "State";
+"_Common_State" = "Län";
 
 /* (No Comment) */
 "_Common_StopSharingButton" = "Sluta dela";
@@ -689,7 +701,7 @@
 "_Common_ToDo" = "Uppgift";
 
 /* (No Comment) */
-"_Common_ToDos" = "Uppgifter";
+"_Common_ToDos" = "Uppgift";
 
 /* (No Comment) */
 "_Common_Toggle" = "Toggla alla";
@@ -710,7 +722,7 @@
 "_Common_Unlimited" = "Obegränsad";
 
 /* (No Comment) */
-"_Common_UnnamedChart" = "Unnamed Chart";
+"_Common_UnnamedChart" = "Namnlöst diagram";
 
 /* (No Comment) */
 "_Common_UnnamedFamily" = "Namnlös familj";

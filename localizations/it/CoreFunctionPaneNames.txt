@@ -482,7 +482,7 @@
 "_FunctionTitle_StatisticsChartPaneName_Abbreviation" = "Statistiche";
 
 /* (No Comment) */
-"_FunctionTitle_StatusReportPaneName" = "Rapporto dello stato";
+"_FunctionTitle_StatusReportPaneName" = "Rapporto dello status";
 
 /* (No Comment) */
 "_FunctionTitle_Story_PluralCount" = "%@ Storie";
@@ -515,22 +515,28 @@
 "_FunctionTitle_TodayReportPaneName" = "Rapporto di oggi";
 
 /* (No Comment) */
-"_FunctionTitle_ToDo_PluralCount" = "%@ promemoria";
+"_FunctionTitle_ToDo_PluralCount" = "%@ attività";
 
 /* (No Comment) */
-"_FunctionTitle_ToDo_SingularCount" = "%@ promemoria";
+"_FunctionTitle_ToDo_PluralCount_Overdue" = "%@ in ritardo";
 
 /* (No Comment) */
-"_FunctionTitle_ToDoListReportPaneName" = "Lista promemoria";
+"_FunctionTitle_ToDo_SingularCount" = "%@ attività";
 
 /* (No Comment) */
-"_FunctionTitle_ToDoListReportPaneName_Abbreviation" = "Promemoria";
+"_FunctionTitle_ToDo_SingularCount_Overdue" = "%@ in ritardo";
 
 /* (No Comment) */
-"_FunctionTitle_ToDosPaneName" = "Modifica la lista del promemoria";
+"_FunctionTitle_ToDoListReportPaneName" = "Lista delle attività";
 
 /* (No Comment) */
-"_FunctionTitle_ToDosPaneName_Abbreviation" = "Promemoria";
+"_FunctionTitle_ToDoListReportPaneName_Abbreviation" = "Più attività";
+
+/* (No Comment) */
+"_FunctionTitle_ToDosPaneName" = "Modifica la lista delle attività";
+
+/* (No Comment) */
+"_FunctionTitle_ToDosPaneName_Abbreviation" = "Attività";
 
 /* (No Comment) */
 "_FunctionTitle_TreeChartPaneName" = "Diagramma completo dell'albero";

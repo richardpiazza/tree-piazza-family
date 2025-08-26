@@ -359,10 +359,10 @@
 "_EditEventPlaceContentController_Title" = "Ort";
 
 /* (No Comment) */
-"_EditEventPlaceController_FieldsHint" = "Tragen Sie Informationen diesen Ort betreffend in die untenstehenden Felder ein. Falls Sie unterschiedliche Felder benötigen, verwenden Sie eine eine andere Ortsvorlage oder fügen Sie dieser neue Namensbestandteile hinzu.";
+"_EditEventPlaceController_FieldsHint" = "Tragen Sie Informationen diesen Ort betreffend in die unten stehenden Felder ein. Falls Sie unterschiedliche Felder benötigen, verwenden Sie eine eine andere Ortsvorlage oder fügen Sie dieser neue Namensbestandteile hinzu.";
 
 /* EditEventPlaceController */
-"_EditEventPlaceController_TemplateHint" = "Bitte wählen Sie eine Ortsvorlage über den untenstehenden Knopf aus. Wenn keine passende Ortsvorlage vorhanden ist, verwenden Sie \"Vorlagen bearbeiten\", um eine passende Vorlage zu erstellen.";
+"_EditEventPlaceController_TemplateHint" = "Bitte wählen Sie eine Ortsvorlage über den unten stehenden Knopf aus. Wenn keine passende Ortsvorlage vorhanden ist, verwenden Sie \"Vorlagen bearbeiten\", um eine passende Vorlage zu erstellen.";
 
 /* EditEventPlaceDetailContentController */
 "_EditEventPlaceDetailContentController_Title" = "Markanter Platz";
@@ -549,6 +549,12 @@
 
 /* EditFamilyTreeInformationNameAndAddressContentController */
 "_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Autorenname & Adresse";
+
+/* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Dies wird unwiderruflich das ausgewählte Etikett löschen und alle das Etikett von allen zugewiesenen Einträgen entfernen.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Etikett wirklich löschen?";
 
 /* (No Comment) */
 "_EditLabelsContentController_NoLabelsLargePlaceholder" = "Keine Etiketten vorhanden";
@@ -1055,6 +1061,9 @@
 "_EditPlaceDetailsContentController_LookupCoordinateButton" = "Koordinate nachschlagen…";
 
 /* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Mit anderem Markantem Ort zusammenführen";
+
+/* (No Comment) */
 "_EditPlaceDetailsContentController_NoNamePlaceholder" = "Kein Name des markanten Platzes eingetragen";
 
 /* (No Comment) */
@@ -1085,7 +1094,7 @@
 "_EditPlaceEventsAtPlaceContentController_Sorting_ByType" = "Nach Ereignisart";
 
 /* EditPlaceEventsAtPlaceContentController */
-"_EditPlaceEventsAtPlaceContentController_Title" = "Nach Ereignisort";
+"_EditPlaceEventsAtPlaceContentController_Title" = "Ereignisse am Ort";
 
 /* (No Comment) */
 "_EditPlaceFurtherPlaceNameFieldsContentController_AddField" = "Bestandteil hinzufügen…";
@@ -1522,6 +1531,18 @@
 /* (No Comment) */
 "_EditToDoController_AddToDoButton" = "Erste Aufgabe anlegen";
 
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Möchten Sie wirklich alle Aufgaben in Ihrem Stammbaum löschen, welche als erledigt markiert sind?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "In Ihrem Stammbaum wurden keine Aufgaben gefunden, welche als erledigt markiert sind – und daher wurden keine gelöscht.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Wollen Sie wirklich %d Aufgaben löschen, welche als erledigt markiert sind?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Es wurden keine Aufgaben gefunden, welche als erledigt markiert sind";
+
 /* EditToDoController */
 "_EditToDoController_LargePlaceholder" = "Keine Aufgaben vorhanden";
 
@@ -1530,6 +1551,15 @@
 
 /* (No Comment) */
 "_EditToDoController_Title" = "Aufgabe bearbeiten";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Prioritäten bearbeiten…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Status-Arten bearbeiten…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Arten bearbeiten…";
 
 /* EditToDoGeneralContentController */
 "_EditToDoGeneralContentController_Title" = "Allgemein";
@@ -1548,6 +1578,21 @@
 
 /* (No Comment) */
 "_EditToDosContentController_Sorting_ByType" = "Nach Art";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Kein Text eingegeben";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Hier auswählen, um Text für diese Aufgabe einzutragen";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Text";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d Ereignisse";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 Ereignis";
 
 /* Specialized Freeform Controls */
 "_FreeformControlsNotesControlDescription_NNotes" = "%d Notizen";

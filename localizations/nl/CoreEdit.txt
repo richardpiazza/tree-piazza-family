@@ -551,6 +551,12 @@
 "_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Naam & adres auteur";
 
 /* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "This will permanently delete this label and remove it from all associated entries in your family tree.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Really delete Label?";
+
+/* (No Comment) */
 "_EditLabelsContentController_NoLabelsLargePlaceholder" = "Geen labels aanwezig";
 
 /* (No Comment) */
@@ -1055,6 +1061,9 @@
 "_EditPlaceDetailsContentController_LookupCoordinateButton" = "Coördinaten opzoeken...";
 
 /* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Merge with other Place Detail";
+
+/* (No Comment) */
 "_EditPlaceDetailsContentController_NoNamePlaceholder" = "Geen plaatsnaam ingevoerd";
 
 /* (No Comment) */
@@ -1522,6 +1531,18 @@
 /* (No Comment) */
 "_EditToDoController_AddToDoButton" = "Eerste taak toevoegen";
 
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Do you really want to delete all ToDos from your family tree which has been marked as done?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "In your family tree, no ToDos marked as done have been found so none have been removed.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Really delete %d ToDos which are marked as done?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "No ToDos found which are marked as done";
+
 /* EditToDoController */
 "_EditToDoController_LargePlaceholder" = "Geen taken aanwezig";
 
@@ -1530,6 +1551,15 @@
 
 /* (No Comment) */
 "_EditToDoController_Title" = "Taak bewerken";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Edit priority types…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Edit status types…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Edit types…";
 
 /* EditToDoGeneralContentController */
 "_EditToDoGeneralContentController_Title" = "Algemeen";
@@ -1548,6 +1578,21 @@
 
 /* (No Comment) */
 "_EditToDosContentController_Sorting_ByType" = "Op type";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "No Text entered";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Press here to enter text for this todo";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Text";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d Events";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 Event";
 
 /* Specialized Freeform Controls */
 "_FreeformControlsNotesControlDescription_NNotes" = "%d notities";

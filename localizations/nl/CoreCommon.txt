@@ -200,6 +200,9 @@
 "_Common_EnableButton" = "Activeer";
 
 /* (No Comment) */
+"_Common_Entries" = "Entries";
+
+/* (No Comment) */
 "_Common_EntryCountPlural" = "%d invoeren";
 
 /* (No Comment) */
@@ -231,6 +234,9 @@
 
 /* (No Comment) */
 "_Common_EventsAtThisPlace" = "Gebeurtenissen op deze plaats";
+
+/* (No Comment) */
+"_Common_Example" = "Example";
 
 /* (No Comment) */
 "_Common_Export" = "Export";
@@ -353,6 +359,9 @@
 "_Common_Link" = "Linkje";
 
 /* (No Comment) */
+"_Common_LoginButton" = "Login";
+
+/* (No Comment) */
 "_Common_LogoutButton" = "Uitloggen";
 
 /* (No Comment) */
@@ -408,6 +417,9 @@
 
 /* (No Comment) */
 "_Common_NoDatePlaceholder" = "Geen datum";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "No information has been entered";
 
 /* (No Comment) */
 "_Common_NoLabelsPlaceholder" = "Geen labels";

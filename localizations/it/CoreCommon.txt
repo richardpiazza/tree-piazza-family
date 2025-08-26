@@ -200,6 +200,9 @@
 "_Common_EnableButton" = "Abilita";
 
 /* (No Comment) */
+"_Common_Entries" = "Voci";
+
+/* (No Comment) */
 "_Common_EntryCountPlural" = "%d Voci";
 
 /* (No Comment) */
@@ -231,6 +234,9 @@
 
 /* (No Comment) */
 "_Common_EventsAtThisPlace" = "Eventi in questo luogo";
+
+/* (No Comment) */
+"_Common_Example" = "Esempio";
 
 /* (No Comment) */
 "_Common_Export" = "Esporta";
@@ -353,6 +359,9 @@
 "_Common_Link" = "Collegamento";
 
 /* (No Comment) */
+"_Common_LoginButton" = "Ingresso";
+
+/* (No Comment) */
 "_Common_LogoutButton" = "Esci";
 
 /* (No Comment) */
@@ -408,6 +417,9 @@
 
 /* (No Comment) */
 "_Common_NoDatePlaceholder" = "Nessuna data";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "Nessuna informazione è stata inserita";
 
 /* (No Comment) */
 "_Common_NoLabelsPlaceholder" = "Nessuna etichetta";
@@ -686,10 +698,10 @@
 "_Common_Title" = "Titolo";
 
 /* (No Comment) */
-"_Common_ToDo" = "Promemoria";
+"_Common_ToDo" = "Attività";
 
 /* (No Comment) */
-"_Common_ToDos" = "Più promemoria";
+"_Common_ToDos" = "Più attività";
 
 /* (No Comment) */
 "_Common_Toggle" = "Seleziona tutto";
@@ -761,7 +773,7 @@
 "_Common_UnnamedTitle" = "Senza nome";
 
 /* (No Comment) */
-"_Common_UnnamedToDo" = "Promemoria senza nome";
+"_Common_UnnamedToDo" = "Attività senza nome";
 
 /* (No Comment) */
 "_Common_UpdateButton" = "Aggiorna";

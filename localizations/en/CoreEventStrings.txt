@@ -97,6 +97,9 @@
 "ConclusionPersonFactType_Unnamed" = "Unnamed Person Fact Type";
 "ConclusionAdditionalNameType_Unnamed" = "Unnamed Additional Name Type";
 "ConclusionAssociateRelationType_Unnamed" = "Unnamed Influential Relation Type";
+"ConclusionToDoPriorityType_Unnamed" = "Unnamed ToDo Priority Type";
+"ConclusionToDoStatusType_Unnamed" = "Unnamed ToDo Status Type";
+"ConclusionToDoTypeType_Unnamed" = "Unnamed ToDo Type";
 "_ConclusionType_IsNotUserCreatedFlag" = "Built-in type";
 "_ConclusionType_IsUserCreatedFlag" = "User created type";
 "_ConclusionType_PersonEvents" = "Person Events";

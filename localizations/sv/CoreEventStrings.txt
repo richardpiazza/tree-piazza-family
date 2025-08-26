@@ -2,7 +2,7 @@
 "_ConclusionType_AssociateRelations" = "Präglande relationer";
 
 /* Duplicate Conclusion GEDCOM Tag */
-"_ConclusionType_DuplicateGedcomTag" = "Denna GEDCOM-tagg används redan. Välj en annan tagg eftersom duplicerade GEDCOM-taggar kan leda till problem vid export av GEDCOM-filer.";
+"_ConclusionType_DuplicateGedcomTag" = "Denna GEDCOM-tagg används redan. Välj en annan tagg eftersom duplicerade GEDCOM-taggar kan leda till problem när GEDCOM-filer ska exporteras.";
 
 /* (No Comment) */
 "_ConclusionType_FamilyEvents" = "Familjehändelser";
@@ -230,7 +230,7 @@
 "_PersonEvent_Miscarriage" = "Missfall";
 
 /* (No Comment) */
-"_PersonEvent_Mission" = "Mission";
+"_PersonEvent_Mission" = "Missionstation";
 
 /* (No Comment) */
 "_PersonEvent_Nationality" = "Nationalitet";
@@ -335,7 +335,7 @@
 "ConclusionAdditionalNameType_Unnamed" = "Namnlös ytterligare namntyp";
 
 /* (No Comment) */
-"ConclusionAssociateRelationType_Unnamed" = "Namnlös relaterad relationstyp";
+"ConclusionAssociateRelationType_Unnamed" = "Namnlös präglande relationstyp";
 
 /* (No Comment) */
 "ConclusionFamilyEventType_Unnamed" = "Okänd familjehändelsetyp";
@@ -345,4 +345,13 @@
 
 /* (No Comment) */
 "ConclusionPersonFactType_Unnamed" = "Okänd personuppgiftstyp";
+
+/* (No Comment) */
+"ConclusionToDoPriorityType_Unnamed" = "Namnlös typ av uppgiftsprioritet";
+
+/* (No Comment) */
+"ConclusionToDoStatusType_Unnamed" = "Namnlös typ av uppgiftsstatus";
+
+/* (No Comment) */
+"ConclusionToDoTypeType_Unnamed" = "Namnlös uppgiftstyp";
 

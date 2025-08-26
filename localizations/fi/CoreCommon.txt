@@ -200,6 +200,9 @@
 "_Common_EnableButton" = "Salli";
 
 /* (No Comment) */
+"_Common_Entries" = "Kirjauksia";
+
+/* (No Comment) */
 "_Common_EntryCountPlural" = "%d kirjausta";
 
 /* (No Comment) */
@@ -231,6 +234,9 @@
 
 /* (No Comment) */
 "_Common_EventsAtThisPlace" = "Tapahtumat tässä paikassa";
+
+/* (No Comment) */
+"_Common_Example" = "Esimerkki";
 
 /* (No Comment) */
 "_Common_Export" = "Vie";
@@ -353,6 +359,9 @@
 "_Common_Link" = "Linkki";
 
 /* (No Comment) */
+"_Common_LoginButton" = "Kirjaudu";
+
+/* (No Comment) */
 "_Common_LogoutButton" = "Kirjaudu ulos";
 
 /* (No Comment) */
@@ -408,6 +417,9 @@
 
 /* (No Comment) */
 "_Common_NoDatePlaceholder" = "Ei päivää";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "Tietoa ei ole syötetty";
 
 /* (No Comment) */
 "_Common_NoLabelsPlaceholder" = "Ei merkkejä";

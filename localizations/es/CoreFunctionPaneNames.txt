@@ -482,7 +482,7 @@
 "_FunctionTitle_StatisticsChartPaneName_Abbreviation" = "Estadísticas";
 
 /* (No Comment) */
-"_FunctionTitle_StatusReportPaneName" = "Estado";
+"_FunctionTitle_StatusReportPaneName" = "Informe de estado";
 
 /* (No Comment) */
 "_FunctionTitle_Story_PluralCount" = "%@ Historias";
@@ -515,22 +515,28 @@
 "_FunctionTitle_TodayReportPaneName" = "Diario";
 
 /* (No Comment) */
-"_FunctionTitle_ToDo_PluralCount" = "%@ tareas";
+"_FunctionTitle_ToDo_PluralCount" = "%@ tareas pendientes";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount_Overdue" = "%@ pendiente";
 
 /* (No Comment) */
 "_FunctionTitle_ToDo_SingularCount" = "%@ tarea";
 
 /* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount_Overdue" = "%@ pendiente";
+
+/* (No Comment) */
 "_FunctionTitle_ToDoListReportPaneName" = "Lista de tareas";
 
 /* (No Comment) */
-"_FunctionTitle_ToDoListReportPaneName_Abbreviation" = "Tareas";
+"_FunctionTitle_ToDoListReportPaneName_Abbreviation" = "Tareas pendientes";
 
 /* (No Comment) */
 "_FunctionTitle_ToDosPaneName" = "Editar lista de tareas";
 
 /* (No Comment) */
-"_FunctionTitle_ToDosPaneName_Abbreviation" = "Tareas";
+"_FunctionTitle_ToDosPaneName_Abbreviation" = "Tareas pendientes";
 
 /* (No Comment) */
 "_FunctionTitle_TreeChartPaneName" = "Gráfica de árbol completa";

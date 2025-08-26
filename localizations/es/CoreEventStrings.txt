@@ -346,3 +346,12 @@
 /* (No Comment) */
 "ConclusionPersonFactType_Unnamed" = "Tipo de datos de persona no identificada";
 
+/* (No Comment) */
+"ConclusionToDoPriorityType_Unnamed" = "Tipo de prioridad de tarea pendiente sin nombre";
+
+/* (No Comment) */
+"ConclusionToDoStatusType_Unnamed" = "Tipo de estado de tarea pendiente sin nombre";
+
+/* (No Comment) */
+"ConclusionToDoTypeType_Unnamed" = "Tipo de tarea pendiente sin nombre";
+

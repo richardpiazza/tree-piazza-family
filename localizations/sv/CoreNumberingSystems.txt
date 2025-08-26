@@ -1,5 +1,5 @@
 ﻿/* (No Comment) */
-"_PersonNumberingSystemController_Type_Ancestors_KekuleSosa" = "Kekulé / Sosa (anfäder)";
+"_PersonNumberingSystemController_Type_Ancestors_KekuleSosa" = "Kekulé / Sosa (förfäder)";
 
 /* (No Comment) */
 "_PersonNumberingSystemController_Type_Ancestors_KekuleSosa_Short" = "Kekulé";

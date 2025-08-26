@@ -26,7 +26,7 @@
 "_EditPlaceTemplateKeysController_RemoveTemplateKeyInformative" = "Vill du verkligen radera det valda mallfältet? Det finns fortfarande information för detta mallfält som då kommer att raderas permanent.";
 
 /* EditPlaceTemplateKeysController */
-"_EditPlaceTemplateKeysController_RemoveTemplateKeyMessage" = "Vill du verkligen radera mallfältet? Alla fält för orter kommer att raderas permanent.";
+"_EditPlaceTemplateKeysController_RemoveTemplateKeyMessage" = "Vill du verkligen radera mallfältet? Alla fält från orter kommer att raderas permanent.";
 
 /* (No Comment) */
 "_EditPlaceTemplatesController_MergeTemplateDoneMessage" = "Ortsmallarna har slagits samman";
@@ -35,7 +35,7 @@
 "_EditPlaceTemplatesController_MergeTemplatesDoneInformative" = "Ortsmallarna '%@' och '%@' har slagits samman.";
 
 /* (No Comment) */
-"_EditPlaceTemplatesController_ReallyMergeTemplateInformative" = "Vill du verkligen slå samman mallarna '%@' och '%@'? Därefter kommer dessa att bli en enskild mall.";
+"_EditPlaceTemplatesController_ReallyMergeTemplateInformative" = "Vill du verkligen slå samman mallarna '%@' och '%@'? Därefter kommer dessa att bli enskild mall.";
 
 /* (No Comment) */
 "_EditPlaceTemplatesController_ReallyMergeTemplateMessage" = "Vill du verkligen slå samman mallar?";
@@ -44,7 +44,7 @@
 "_EditPlaceTemplatesController_RemoveTemplateInformative" = "Vill du verkligen radera denna ortsmall? Det finns orter som är kopplade till denna mall. Dessa kommer även att raderas permanent om denna ortsmall raderas.";
 
 /* EditPlaceTemplatesController */
-"_EditPlaceTemplatesController_RemoveTemplateMessage" = "Vill du verkligen radera ortsmallen? Alla kopplade orter kommer att raderas permanent.";
+"_EditPlaceTemplatesController_RemoveTemplateMessage" = "Vill du verkligen radera ortsmallen? Alla bifogade orter kommer att raderas permanent.";
 
 /* (No Comment) */
 "_PlaceTemplate_PlacesCount" = "%d orter";
@@ -83,7 +83,7 @@
 "PlaceTemplate_Austria" = "Österrike";
 
 /* (No Comment) */
-"PlaceTemplate_Belgium" = "Belgium";
+"PlaceTemplate_Belgium" = "Belgien";
 
 /* (No Comment) */
 "PlaceTemplate_Bosnia and Herzegovina" = "Bosnien och Hercegovina";

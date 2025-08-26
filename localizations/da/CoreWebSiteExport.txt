@@ -80,7 +80,7 @@
 "_ManageMacFamilyTreeCom_EditUserButton" = "Rediger min konto";
 
 /* (No Comment) */
-"_ManageMacFamilyTreeCom_ListTopHint" = "Listet nedenfor er alle familietræer, du har oprettet på MacFamilyTree.com. Du kan fjerne træerne eller redigere titlen og adgangskodebeskyttelsen ved at vælge et familietræ. For at erstatte indholdet skal du vælge et websted på den forrige skærm og vælge 'Upload'.";
+"_ManageMacFamilyTreeCom_ListTopHint" = "Listet nedenfor er alle familietræer, du har oprettet på MacFamilyTree.com. Du kan fjerne træerne eller redigere titlen og adgangskodebeskyttelsen ved at vælge et familietræ. For at erstatte indholdet, redigere eller tilføje  et websted på den forrige skærm skal du vælge ‚Publicer'.";
 
 /* (No Comment) */
 "_ManageMacFamilyTreeCom_LogoutButton" = "Log ud";
@@ -126,6 +126,9 @@
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_Color" = "Farve";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Farvelæg efter køn";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_CustomHomePageImage" = "Vælg særligt billede herunder at vise på hjemmesiden.";
@@ -935,6 +938,9 @@
 "_WebSiteExport_Place_Page_View_Place_In_Maps" = "Vis sted i Kort";
 
 /* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Ensfarvet";
+
+/* (No Comment) */
 "_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Indsamler information om familietræ…";
 
 /* (No Comment) */
@@ -1113,6 +1119,12 @@
 
 /* (No Comment) */
 "_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Eksporter website til mappe";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Vil du dele det eksporterede website til lokal visnng, eller vil du dele websitet i et format der kan hostes på en webserver?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Del eksporteret website";
 
 /* (No Comment) */
 "_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "Denne oversigt tillader kun maks. 500 personer. Dog vil dit eksporterede website indeholde alle valgte personer.";

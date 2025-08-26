@@ -80,7 +80,7 @@
 "_ManageMacFamilyTreeCom_EditUserButton" = "Modifica il mio conto";
 
 /* (No Comment) */
-"_ManageMacFamilyTreeCom_ListTopHint" = "Di seguito sono elencati tutti gli alberi genealogici che hai creato su MacFamilyTree.com. Puoi rimuovere gli alberi o modificare il titolo e la protezione tramite parola chiave, selezionando un albero genealogico. Per sostituire il contenuto, seleziona un sito Web nella schermata precedente e seleziona 'Carica'.";
+"_ManageMacFamilyTreeCom_ListTopHint" = "Di seguito sono elencati tutti gli alberi genealogici che hai creato su MacFamilyTree.com. Puoi rimuovere gli alberi o modificarne il titolo e la protezione, tramite parola chiave, selezionando un albero genealogico. Per sostituire il contenuto, modifica o aggiungi un sito web nella schermata precedente e seleziona 'Pubblica'.";
 
 /* (No Comment) */
 "_ManageMacFamilyTreeCom_LogoutButton" = "Uscita";
@@ -126,6 +126,9 @@
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_Color" = "Colore";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Tinta per genere";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_CustomHomePageImage" = "Seleziona un immagine personale sotto, per mostrarla sulla pagina iniziale.";
@@ -935,6 +938,9 @@
 "_WebSiteExport_Place_Page_View_Place_In_Maps" = "Mostra il luogo nelle mappe";
 
 /* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Piana";
+
+/* (No Comment) */
 "_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Raccolta di informazioni sull'albero genealogico…";
 
 /* (No Comment) */
@@ -1113,6 +1119,12 @@
 
 /* (No Comment) */
 "_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Esporta il sito internet nella cartella";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Vuoi condividere il sito web esportato per la visualizzazione locale oppure condividerlo in un formato ospitabile su un server web?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Condividi il sito esportato";
 
 /* (No Comment) */
 "_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "Questa anteprima mostra solo un massimo di 500 persone, sebbene il tuo sito esportato conterrà tutte le persone selezionate.";

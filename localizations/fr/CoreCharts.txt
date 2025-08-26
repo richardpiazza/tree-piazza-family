@@ -929,7 +929,7 @@
 "_Common_PagesCountY" = "Pages verticales";
 
 /* (No Comment) */
-"_Common_ParentGenerationsSlider" = "Génération des parents";
+"_Common_ParentGenerationsSlider" = "Générations des parents";
 
 /* (No Comment) */
 "_Common_PartnerIndentionSlider" = "Indentation du partenaire";

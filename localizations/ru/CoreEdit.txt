@@ -11,10 +11,10 @@
 "_BaseEditController_DeletePersonQuestionMessage" = "Удалить человека '%@'?";
 
 /* (No Comment) */
-"_BaseEditController_ManuallyAddPlaceDetailInformative" = "Введите название нового объекта '%@'.";
+"_BaseEditController_ManuallyAddPlaceDetailInformative" = "Введите название нового сведения о месте '%@'.";
 
 /* (No Comment) */
-"_BaseEditController_ManuallyAddPlaceDetailTitle" = "Добавить информацию о месте вручную";
+"_BaseEditController_ManuallyAddPlaceDetailTitle" = "Добавить сведения о месте вручную";
 
 /* (No Comment) */
 "_BaseEditEventsContentController_AddEventButton" = "Добавить событие";
@@ -62,10 +62,10 @@
 "_BaseEditEventsContentController_LargePlaceholder" = "Нет событий";
 
 /* (No Comment) */
-"_BaseEditEventsContentController_LookupNewPlaceDetail" = "Поиск новой информации о месте…";
+"_BaseEditEventsContentController_LookupNewPlaceDetail" = "Поиск новых сведений о месте…";
 
 /* (No Comment) */
-"_BaseEditEventsContentController_ManuallyAddPlaceDetail" = "Добавить новую информацию о месте вручную…";
+"_BaseEditEventsContentController_ManuallyAddPlaceDetail" = "Добавить новые сведения о месте вручную…";
 
 /* (No Comment) */
 "_BaseEditEventsContentController_MarriedButNoFurtherInfoCheckbox" = "Отметить пару как женатые, но дополнительной информации нет";
@@ -549,6 +549,12 @@
 
 /* EditFamilyTreeInformationNameAndAddressContentController */
 "_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Имя и адрес автора";
+
+/* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Это приведёт к удалению данной метки и удалению её из всех связанных записей в вашей родословной.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Удалить метку?";
 
 /* (No Comment) */
 "_EditLabelsContentController_NoLabelsLargePlaceholder" = "Нет меток";
@@ -1037,34 +1043,37 @@
 "_EditPlaceDetailsContentController_AddCoordinateButton" = "Добавить координату";
 
 /* (No Comment) */
-"_EditPlaceDetailsContentController_AddEmptyPlaceDetail" = "Добавить пустые подробности места";
+"_EditPlaceDetailsContentController_AddEmptyPlaceDetail" = "Добавить пустые сведения о месте";
 
 /* (No Comment) */
 "_EditPlaceDetailsContentController_AddPlaceDetail" = "Добавить";
 
 /* (No Comment) */
-"_EditPlaceDetailsContentController_DeletePlaceDetailQuestionMessage" = "Удалить информацию о месте?";
+"_EditPlaceDetailsContentController_DeletePlaceDetailQuestionMessage" = "Удалить сведения о месте?";
 
 /* (No Comment) */
 "_EditPlaceDetailsContentController_EventCount" = "Количество событий";
 
 /* (No Comment) */
-"_EditPlaceDetailsContentController_LargePlaceholder" = "Не указаны данные о месте";
+"_EditPlaceDetailsContentController_LargePlaceholder" = "Не указаны сведения о месте";
 
 /* (No Comment) */
 "_EditPlaceDetailsContentController_LookupCoordinateButton" = "Поиск координат…";
 
 /* (No Comment) */
-"_EditPlaceDetailsContentController_NoNamePlaceholder" = "Подробное название места не указано.";
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Объединить с другими сведениями о месте";
+
+/* (No Comment) */
+"_EditPlaceDetailsContentController_NoNamePlaceholder" = "Название сведений о места не указано.";
 
 /* (No Comment) */
 "_EditPlaceDetailsContentController_RemoveCoordinateButton" = "Удалить координаты";
 
 /* (No Comment) */
-"_EditPlaceDetailsContentController_SearchOtherPlaceDetail" = "Поиск новой информации о месте…";
+"_EditPlaceDetailsContentController_SearchOtherPlaceDetail" = "Поиск нового сведения о месте…";
 
 /* (No Comment) */
-"_EditPlaceDetailsContentController_SmallPlaceholder" = "Используйте кнопку «Добавить» выше, чтобы добавить информацию о месте. Детали места — это конкретные адреса, разделы или другие достопримечательности в этом месте.";
+"_EditPlaceDetailsContentController_SmallPlaceholder" = "Используйте кнопку «Добавить» выше, чтобы добавить сведения о месте. Сведения о месте — это конкретные адреса, разделы или другие достопримечательности в этом месте.";
 
 /* EditPlaceDetailsContentController */
 "_EditPlaceDetailsContentController_Title" = "Сведения о месте";
@@ -1127,7 +1136,7 @@
 "_EditPlaceHeaderContentController_PlaceDetailCountTitlePlural" = "%d сведений о месте";
 
 /* (No Comment) */
-"_EditPlaceHeaderContentController_PlaceDetailCountTitleSingular" = "Подробности об одном месте";
+"_EditPlaceHeaderContentController_PlaceDetailCountTitleSingular" = "Сведения об одном месте";
 
 /* _EditPlaceLinksContentController_OtherLanguagesButton */
 "_EditPlaceLinksContentController_Title" = "Веб-страницы";
@@ -1145,7 +1154,7 @@
 "_EditPlacePane_Map_PlaceholderMessage" = "Чтобы отобразить расположение выбранного места на карте, найдите его географические координаты:";
 
 /* (No Comment) */
-"_EditPlacePane_Map_PlaceholderMessagePlaceDetail" = "Чтобы отобразить расположение выбранных деталей места на карте, найдите их географические координаты.";
+"_EditPlacePane_Map_PlaceholderMessagePlaceDetail" = "Чтобы отобразить расположение выбранного сведения о место на карте, найдите его географические координаты.";
 
 /* EditPlacePane */
 "_EditPlacePane_Map_PlaceholderTitle" = "Нет координат";
@@ -1271,7 +1280,7 @@
 "_EditSourceReferencedEntriesContentController_CitationNotes" = "Примечания к цитированию";
 
 /* (No Comment) */
-"_EditSourceReferencedEntriesContentController_LargePlaceholder" = "Нет ссылок на записи";
+"_EditSourceReferencedEntriesContentController_LargePlaceholder" = "Отсутствуют записи ссылок";
 
 /* EditSourceReferencedEntriesContentController */
 "_EditSourceReferencedEntriesContentController_RemoveFromSourceButton" = "Удалить из источника";
@@ -1286,7 +1295,7 @@
 "_EditSourceReferencedEntriesContentController_Sorting_ByType" = "По типу";
 
 /* (No Comment) */
-"_EditSourceReferencedEntriesContentController_Title" = "Ссылки на записи";
+"_EditSourceReferencedEntriesContentController_Title" = "Записи ссылок";
 
 /* (No Comment) */
 "_EditSourceRelationCertaintySettingsCertaintyViewContentController_EvidenceExplanation" = "Укажите, является ли свидетельство для указанной записи в этом источнике отрицательным, косвенным или прямым.";
@@ -1400,13 +1409,13 @@
 "_EditStoryReferencedEntriesContentController_AddEntryToStoryButton" = "Добавить запись";
 
 /* (No Comment) */
-"_EditStoryReferencedEntriesContentController_LargePlaceholder" = "Отсутствуют ссылочные записи";
+"_EditStoryReferencedEntriesContentController_LargePlaceholder" = "Отсутствуют записи ссылок";
 
 /* (No Comment) */
 "_EditStoryReferencedEntriesContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопки, чтобы добавить людей, события или семьи, которые упоминаются в этой истории.";
 
 /* (No Comment) */
-"_EditStoryReferencedEntriesContentController_Title" = "Ссылочные записи";
+"_EditStoryReferencedEntriesContentController_Title" = "Записи ссылок";
 
 /* (No Comment) */
 "_EditStoryRelationsContentController_AddExistingStoryMenuItem" = "Добавить существующую историю…";
@@ -1433,7 +1442,7 @@
 "_EditStorySectionReferencedEntriesContentController_AddEntryToStorySectionButton" = "Добавить запись";
 
 /* (No Comment) */
-"_EditStorySectionReferencedEntriesContentController_LargePlaceholder" = "Отсутствуют ссылочные записи";
+"_EditStorySectionReferencedEntriesContentController_LargePlaceholder" = "Отсутствуют записи ссылок";
 
 /* (No Comment) */
 "_EditStorySectionReferencedEntriesContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопки, чтобы добавить людей, события или семьи, которые упоминаются в этом разделе истории.";
@@ -1457,7 +1466,7 @@
 "_EditStorySectionsContentController_MoveUp" = "Переместить раздел вверх";
 
 /* (No Comment) */
-"_EditStorySectionsContentController_NoStorySectionRelationsPlaceholder" = "Отсутствуют ссылочные записи";
+"_EditStorySectionsContentController_NoStorySectionRelationsPlaceholder" = "Отсутствуют записи ссылок";
 
 /* (No Comment) */
 "_EditStorySectionsContentController_NoSubtitlePlaceholder" = "Название раздела не указано";
@@ -1469,7 +1478,7 @@
 "_EditStorySectionsContentController_SmallPlaceholder" = "Пожалуйста, используйте кнопку выше, чтобы добавить первый раздел в эту историю.";
 
 /* (No Comment) */
-"_EditStorySectionsContentController_StorySectionRelations" = "Ссылочные записи в разделе";
+"_EditStorySectionsContentController_StorySectionRelations" = "Записи ссылок в разделе";
 
 /* (No Comment) */
 "_EditStorySectionsContentController_Title" = "Разделы истории";
@@ -1522,6 +1531,18 @@
 /* (No Comment) */
 "_EditToDoController_AddToDoButton" = "Добавить первую задачу";
 
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Вы действительно хотите удалить все задачи из вашего семейного древа, которые отмечены как выполненные?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "В вашем семейном древе не найдено ни одной задачи, отмеченной как выполненная, поэтому ни одна из них не была удалена.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Действительно удалить %d задач, отмеченных как выполненные?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Не найдено задач, отмеченных как выполненные.";
+
 /* EditToDoController */
 "_EditToDoController_LargePlaceholder" = "Нет задач";
 
@@ -1530,6 +1551,15 @@
 
 /* (No Comment) */
 "_EditToDoController_Title" = "Изменить задачу";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Редактировать типы приоритетов...";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Редактировать типы приоритетов...";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Редактировать типы...";
 
 /* EditToDoGeneralContentController */
 "_EditToDoGeneralContentController_Title" = "Основные";
@@ -1549,6 +1579,21 @@
 /* (No Comment) */
 "_EditToDosContentController_Sorting_ByType" = "По типу";
 
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Текст не введён";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Нажмите здесь, для ввода текста задачи";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Текст";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d событий";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 событие";
+
 /* Specialized Freeform Controls */
 "_FreeformControlsNotesControlDescription_NNotes" = "%d примечаний";
 
@@ -1562,10 +1607,10 @@
 "_FreeformControlsSourceRelationsControlDescription_OneSource" = "1 источник";
 
 /* (No Comment) */
-"_FreeformControlsStorySectionRelationsControlDescription_NRelations" = "%d ссылочных записей";
+"_FreeformControlsStorySectionRelationsControlDescription_NRelations" = "%d записей ссылок";
 
 /* (No Comment) */
-"_FreeformControlsStorySectionRelationsControlDescription_OneRelation" = "Одна ссылочная запись";
+"_FreeformControlsStorySectionRelationsControlDescription_OneRelation" = "Одна ссылка на запись";
 
 /* (No Comment) */
 "_FreeformControlsTextFieldControlDescription_NoMicrophoneAvailableDescription" = "Микрофон не найден";

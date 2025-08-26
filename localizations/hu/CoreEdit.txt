@@ -95,7 +95,7 @@
 "_BaseEditEventsContentController_Sorting_ByTypeAndDate" = "Esemény típusa és dátuma szerint";
 
 /* (No Comment) */
-"_BaseEditEventsContentController_Sorting_ByTypeName" = "Esemény típusa és dátuma szerint";
+"_BaseEditEventsContentController_Sorting_ByTypeName" = "Esemény típusneve szerint";
 
 /* Shared Base Events */
 "_BaseEditEventsContentController_Title" = "Események";
@@ -549,6 +549,12 @@
 
 /* EditFamilyTreeInformationNameAndAddressContentController */
 "_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Szerző neve és címe";
+
+/* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Ezzel véglegesen törli ezt a címkét, és eltávolítja a családfája összes kapcsolódó beírásából.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Valóban törölje a címkét?";
 
 /* (No Comment) */
 "_EditLabelsContentController_NoLabelsLargePlaceholder" = "Nincsenek címkék";
@@ -1055,6 +1061,9 @@
 "_EditPlaceDetailsContentController_LookupCoordinateButton" = "Koordináta keresése...";
 
 /* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Vonja össze más helyrészlettel";
+
+/* (No Comment) */
 "_EditPlaceDetailsContentController_NoNamePlaceholder" = "Nem írt be helyrésznevet";
 
 /* (No Comment) */
@@ -1522,14 +1531,35 @@
 /* (No Comment) */
 "_EditToDoController_AddToDoButton" = "Első feladat hozzáfűzése";
 
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Valóban törölni akarja a családfájáról az összes késznek kijelölt feladatot?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "A családfájában nem találtunk elvégzettnek jelölt feladatokat, így egyiket sem töröltük.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Valóban törölni akarja %d késznek kijelölt feladatokat?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Nincs késznek kijelölt feladat";
+
 /* EditToDoController */
 "_EditToDoController_LargePlaceholder" = "Nincsenek feladatok";
 
 /* (No Comment) */
-"_EditToDoController_SmallPlaceholder" = "Ebben a családfában nincsenek feladatok. Az első feladat létrehozásához válassza ki az „Első feladat létrehozása” lehetőséget..";
+"_EditToDoController_SmallPlaceholder" = "Ebben a családfában nincsenek feladatok. Az első feladat létrehozásához válassza ki az „Első feladat létrehozása” lehetőséget.";
 
 /* (No Comment) */
 "_EditToDoController_Title" = "Feladat szerkesztése";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Prioritástípus szerkesztése...";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Státusztípus szerkesztése...";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Típusok szerkesztése...";
 
 /* EditToDoGeneralContentController */
 "_EditToDoGeneralContentController_Title" = "Általános";
@@ -1548,6 +1578,21 @@
 
 /* (No Comment) */
 "_EditToDosContentController_Sorting_ByType" = "Típus szerint";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Nem írt be szöveget";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Kattintson ide a feladat szövegének beírásához";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Szöveg";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d események";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 esemény";
 
 /* Specialized Freeform Controls */
 "_FreeformControlsNotesControlDescription_NNotes" = "%d jegyzetek";

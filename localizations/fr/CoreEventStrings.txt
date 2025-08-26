@@ -346,3 +346,12 @@
 /* (No Comment) */
 "ConclusionPersonFactType_Unnamed" = "Type de caractéristique personnelle sans nom";
 
+/* (No Comment) */
+"ConclusionToDoPriorityType_Unnamed" = "Type de priorité de tâche Sans nom";
+
+/* (No Comment) */
+"ConclusionToDoStatusType_Unnamed" = "Type d'état de tâche Sans nom";
+
+/* (No Comment) */
+"ConclusionToDoTypeType_Unnamed" = "Type de tâche Sans nom";
+

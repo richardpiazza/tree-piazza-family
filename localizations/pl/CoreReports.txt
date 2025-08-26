@@ -92,7 +92,7 @@
 "_ReportError_NotEnoughDataPresentError" = "Brak wystarczającej ilości danych w drzewie genealogicznym do wyświetlenia raportu.";
 
 /* (No Comment) */
-"_ReportError_NoToDoFoundInFamilyTreeError" = "Nie wprowadzono zadań. Wprowadź zadania do wykonania w sekcji Edycja, aby wyświetlić raport.";
+"_ReportError_NoToDoFoundInFamilyTreeError" = "Nie wprowadzono zadań w drzewie genealogicznym. Wprowadź zadania w sekcji Edycja, aby wyświetlić raport.";
 
 /* (No Comment) */
 "_ReportError_NoToDosFoundMatchingTheSelectedCriteria" = "Nie znaleziono zadań do wykonania spełniających podane warunki.";
@@ -1301,6 +1301,18 @@
 "_Reports_Sort_By_DeathPlace" = "Wg miejsca śmierci";
 
 /* (No Comment) */
+"_Reports_Sort_By_EventDate" = "Wg daty wydarzenia";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDescription" = "Wg opisu";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeAndDate" = "Wg typu i daty wydarzenia";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeName" = "Wg nazwy typu wydarzenia";
+
+/* (No Comment) */
 "_Reports_Sort_By_FirstName" = "Wg imienia";
 
 /* (No Comment) */
@@ -1386,6 +1398,9 @@
 
 /* (No Comment) */
 "_Reports_ToDoReport_Status" = "Status";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Text" = "Tekst";
 
 /* ToDoReport */
 "_Reports_ToDoReport_Type" = "Typ";

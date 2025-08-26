@@ -518,7 +518,13 @@
 "_FunctionTitle_ToDo_PluralCount" = "%@ taken";
 
 /* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount_Overdue" = "%@ overdue";
+
+/* (No Comment) */
 "_FunctionTitle_ToDo_SingularCount" = "%@ taak";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount_Overdue" = "%@ overdue";
 
 /* (No Comment) */
 "_FunctionTitle_ToDoListReportPaneName" = "Takenlijst";

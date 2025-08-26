@@ -515,10 +515,16 @@
 "_FunctionTitle_TodayReportPaneName" = "Tämän päivän raportti";
 
 /* (No Comment) */
-"_FunctionTitle_ToDo_PluralCount" = "%@ tehtävää";
+"_FunctionTitle_ToDo_PluralCount" = "%@ Tehtävää";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount_Overdue" = "%@ erääntynyt";
 
 /* (No Comment) */
 "_FunctionTitle_ToDo_SingularCount" = "%@ tehtävä";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount_Overdue" = "%@ erääntynyt";
 
 /* (No Comment) */
 "_FunctionTitle_ToDoListReportPaneName" = "Tehtäväluettelo";

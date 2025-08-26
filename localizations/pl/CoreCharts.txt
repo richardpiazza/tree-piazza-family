@@ -755,7 +755,7 @@
 "_Common_HorizontalSpacing" = "Odstęp poziomy";
 
 /* (No Comment) */
-"_Common_IDs" = "Numer referencyjne";
+"_Common_IDs" = "Numery referencyjne";
 
 /* (No Comment) */
 "_Common_ImageAlignment" = "Wyrównanie zdjęcia";
@@ -905,10 +905,10 @@
 "_Common_OmitEmptyPagesWhenPrintingOrExporting" = "Pomiń puste strony podczas drukowania";
 
 /* Date Ranges */
-"_Common_OnlyEvalulateEntriesInDateRange" = "Weź pod uwagę tylko pozycje z podanego okresu";
+"_Common_OnlyEvalulateEntriesInDateRange" = "Weź pod uwagę tylko pozycje z podanego zakresu";
 
 /* (No Comment) */
-"_Common_OnlyEvalulateEntriesInDateRangeExplanation" = "Po włączeniu, tylko pozycje z podanego okresu będą brane pod uwagę – wszystkie inne zostaną pominięte.";
+"_Common_OnlyEvalulateEntriesInDateRangeExplanation" = "Po włączeniu, tylko pozycje z podanego zakresu będą brane pod uwagę – wszystkie inne zostaną pominięte.";
 
 /* (No Comment) */
 "_Common_OtherFont" = "Inna czcionka";
@@ -1406,7 +1406,7 @@
 "_Error_NoParentsForPersonFoundInFamilyTreeError" = "Nie znaleziono rodziców osoby.";
 
 /* Errors */
-"_Error_NoPersonFoundInFamilyTreeError" = "Nie wprowadzono osób. Wprowadź osoby i rodziny w sekcji Edycja, aby wyświetlić wykres.";
+"_Error_NoPersonFoundInFamilyTreeError" = "Nie wprowadzono osób w drzewie genealogicznym. Wprowadź osoby i rodziny w sekcji Edycja, aby wyświetlić wykres.";
 
 /* (No Comment) */
 "_Error_NoSelectedPersonSetError" = "Nie wybrano osoby do wykresu.";

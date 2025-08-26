@@ -47,7 +47,7 @@
 "_Common_Cause" = "Przyczyna";
 
 /* (No Comment) */
-"_Common_ChangeButton" = "Zmiana";
+"_Common_ChangeButton" = "Zmień";
 
 /* (No Comment) */
 "_Common_ChangeDate" = "Data zmiany";
@@ -200,6 +200,9 @@
 "_Common_EnableButton" = "Włącz";
 
 /* (No Comment) */
+"_Common_Entries" = "Pozycje";
+
+/* (No Comment) */
 "_Common_EntryCountPlural" = "%d pozycje/i";
 
 /* (No Comment) */
@@ -231,6 +234,9 @@
 
 /* (No Comment) */
 "_Common_EventsAtThisPlace" = "Wydarzenia w tej miejscowości";
+
+/* (No Comment) */
+"_Common_Example" = "Przykład";
 
 /* (No Comment) */
 "_Common_Export" = "Eksportuj";
@@ -353,6 +359,9 @@
 "_Common_Link" = "Relacja";
 
 /* (No Comment) */
+"_Common_LoginButton" = "Zaloguj się";
+
+/* (No Comment) */
 "_Common_LogoutButton" = "Wyloguj";
 
 /* (No Comment) */
@@ -408,6 +417,9 @@
 
 /* (No Comment) */
 "_Common_NoDatePlaceholder" = "Brak daty";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "Nie wprowadzono żadnych informacji";
 
 /* (No Comment) */
 "_Common_NoLabelsPlaceholder" = "Brak etykiet";

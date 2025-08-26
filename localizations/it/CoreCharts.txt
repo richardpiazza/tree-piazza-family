@@ -1247,7 +1247,7 @@
 "_Common_UniformColor" = "Colore uniforme";
 
 /* (No Comment) */
-"_Common_UniformColorForColoringModeExplanation" = "Selezionando 'Colore uniforme' dall'impostazione Modalità di colorazione, è possibile specificare un colore uniforme per persona usando tale impostazione.";
+"_Common_UniformColorForColoringModeExplanation" = "Selezionando 'Colore uniforme' dall'impostazione Modalità di colorazione, puoi specificare un colore uniforme per persona usando tale impostazione.";
 
 /* (No Comment) */
 "_Common_VerticalSpacing" = "Spaziatura verticale";

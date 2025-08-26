@@ -515,10 +515,16 @@
 "_FunctionTitle_TodayReportPaneName" = "Raport z dnia dzisiejszego";
 
 /* (No Comment) */
-"_FunctionTitle_ToDo_PluralCount" = "Zadania %@";
+"_FunctionTitle_ToDo_PluralCount" = "Liczba zadań %@";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_PluralCount_Overdue" = "Liczba zaległych %@";
 
 /* (No Comment) */
 "_FunctionTitle_ToDo_SingularCount" = "Zadanie %@";
+
+/* (No Comment) */
+"_FunctionTitle_ToDo_SingularCount_Overdue" = "%@ zaległe";
 
 /* (No Comment) */
 "_FunctionTitle_ToDoListReportPaneName" = "Lista zadań";

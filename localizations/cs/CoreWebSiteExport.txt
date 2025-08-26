@@ -80,7 +80,7 @@
 "_ManageMacFamilyTreeCom_EditUserButton" = "Upravit můj účet";
 
 /* (No Comment) */
-"_ManageMacFamilyTreeCom_ListTopHint" = "Níže jsou uvedeny všechny rodokmeny, které jste vytvořili na MacFamilyTree.com. Výběrem rodokmenu můžete rodokmeny odstranit nebo upravit jejich název a ochranu heslem. Chcete-li obsah nahradit, vyberte webovou stránku na předchozí obrazovce a zvolte možnost „Nahrát“.";
+"_ManageMacFamilyTreeCom_ListTopHint" = "Níže jsou uvedeny všechny rodokmeny, které jste vytvořili na MacFamilyTree.com. Rodokmeny můžete odebrat nebo upravit jejich název a ochranu heslem výběrem příslušného rodokmenu. Chcete-li nahradit obsah, upravit nebo přidat webovou stránku na předchozí obrazovce, vyberte možnost „Publikovat“.";
 
 /* (No Comment) */
 "_ManageMacFamilyTreeCom_LogoutButton" = "Odhlásit se";
@@ -126,6 +126,9 @@
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_Color" = "Barva";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Odstín podle pohlaví";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_CustomHomePageImage" = "Vyberte vlastní obrázek, který se má zobrazit na domovské stránce.";
@@ -935,6 +938,9 @@
 "_WebSiteExport_Place_Page_View_Place_In_Maps" = "Zobrazit místo na mapě";
 
 /* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Jednoduchý";
+
+/* (No Comment) */
 "_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Shromažďování informací o rodokmenu…";
 
 /* (No Comment) */
@@ -1113,6 +1119,12 @@
 
 /* (No Comment) */
 "_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Exportovat webovou stránku do složky";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Chcete sdílet exportovanou webovou stránku pro místní prohlížení, nebo chcete sdílet webové stránky ve formátu, který lze hostovat na webovém serveru?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Sdílet exportovanou webovou stránku";
 
 /* (No Comment) */
 "_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "Tento náhled zobrazí maximálně 500 osob. Vaše exportované webové stránky však budou obsahovat všechny vybrané osoby.";

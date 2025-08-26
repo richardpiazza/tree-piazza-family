@@ -551,6 +551,12 @@
 "_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Forfatters navn og adresse";
 
 /* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Denne handlingen sletter etiketten for godt og fjerner den fra alle tilknyttede oppføringer i familietreet ditt.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Virkelig slette etiketten?";
+
+/* (No Comment) */
 "_EditLabelsContentController_NoLabelsLargePlaceholder" = "Ingen etiketter funnet";
 
 /* (No Comment) */
@@ -1055,6 +1061,9 @@
 "_EditPlaceDetailsContentController_LookupCoordinateButton" = "Slå opp koordinater…";
 
 /* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Sammenslå med annen stedsdetalj";
+
+/* (No Comment) */
 "_EditPlaceDetailsContentController_NoNamePlaceholder" = "Navn på stedsdetalj ikke oppgitt";
 
 /* (No Comment) */
@@ -1522,6 +1531,18 @@
 /* (No Comment) */
 "_EditToDoController_AddToDoButton" = "Legg til første oppgave";
 
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Vil du virkelig slette alle oppgaver merket som fullført, fra familietreet ditt?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "Ingen oppgaver merket som fullført har blitt funnet i familietreet ditt, så ingen oppgaver har blitt fjernet.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Vil du virkelig slette %d oppgaver merket som fullført?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Ingen oppgaver funnet som er merket som fullført";
+
 /* EditToDoController */
 "_EditToDoController_LargePlaceholder" = "Ingen oppgaver funnet";
 
@@ -1530,6 +1551,15 @@
 
 /* (No Comment) */
 "_EditToDoController_Title" = "Rediger oppgave";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Rediger prioritetstyper…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Rediger statustyper…";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Rediger typer…";
 
 /* EditToDoGeneralContentController */
 "_EditToDoGeneralContentController_Title" = "Generelt";
@@ -1548,6 +1578,21 @@
 
 /* (No Comment) */
 "_EditToDosContentController_Sorting_ByType" = "Etter type";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Ingen tekst oppgitt";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Trykk her for å oppgi tekst for oppgaven";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Tekst";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d hendelser";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 hendelse";
 
 /* Specialized Freeform Controls */
 "_FreeformControlsNotesControlDescription_NNotes" = "%d notater";

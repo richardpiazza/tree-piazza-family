@@ -50,7 +50,7 @@
 "_MacFamilyTreeComRegisterNewUser_Title" = "Bei MacFamilyTree.com registrieren";
 
 /* (No Comment) */
-"_MacFamilyTreeComWebSiteExportPublish_ListTopHint" = "Bitte wählen Sie einen Stammbaum aus der unterstehenden Liste aus, welchen Sie ersetzen möchten – oder laden Sie einen neuen Stammbaum hoch.";
+"_MacFamilyTreeComWebSiteExportPublish_ListTopHint" = "Bitte wählen Sie einen Stammbaum aus der unten stehenden Liste aus, welchen Sie ersetzen möchten – oder laden Sie einen neuen Stammbaum hoch.";
 
 /* (No Comment) */
 "_MacFamilyTreeComWebSiteExportPublish_NoTreesPresentMessage" = "Bis jetzt haben Sie noch keinen Stammbaum auf MacFamilyTree.com hochgeladen. Bitte verwenden Sie den \"Neuer Baum\"-Knopf, um Ihren ersten Stammbaum hochzuladen.";
@@ -80,7 +80,7 @@
 "_ManageMacFamilyTreeCom_EditUserButton" = "Mein Konto bearbeiten";
 
 /* (No Comment) */
-"_ManageMacFamilyTreeCom_ListTopHint" = "Unten sehen Sie die Stammbäume, welche Sie bereits auf MacFamilyTree.com veröffentlicht haben. Hier können Sie Bäume löschen oder den Titel wie auch den Passwort-Schutz des ausgewählten Baumes anpassen. Um den Inhalt zu ersten, wählen Sie den Stammbaum in der vorherigen Ansicht aus und verwenden die Option \"Hochladen\".";
+"_ManageMacFamilyTreeCom_ListTopHint" = "Unten sehen Sie die Stammbäume, welche Sie bereits auf MacFamilyTree.com veröffentlicht haben. Hier können Sie Bäume löschen oder den Titel wie auch den Passwort-Schutz des ausgewählten Baumes anpassen. Um den Inhalt zu ersten, bearbeiten Sie die Webseite in der vorherigen Ansicht und verwenden die Option \"Veröffentlichen\".";
 
 /* (No Comment) */
 "_ManageMacFamilyTreeCom_LogoutButton" = "Abmelden";
@@ -126,6 +126,9 @@
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_Color" = "Farbe";
+
+/* (No Comment) */
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Nach Geschlecht einfärben";
 
 /* (No Comment) */
 "_WebSiteExport_Configuration_CustomHomePageImage" = "Wählen Sie bitte unten ein Bild aus, das auf Ihrer Startseite angezeigt wird.";
@@ -698,7 +701,7 @@
 "_WebSiteExport_ManageWebSiteExportThemes_AddThemeTitle" = "Vorlage hinzufügen";
 
 /* (No Comment) */
-"_WebSiteExport_ManageWebSiteExportThemes_Hint" = "Alle mit dieser Webseite verknüpften Vorlagen sehen Sie in der untenstehenden Liste. Verwenden Sie den 'Hinzufügen'-Knopf, um weitere Vorlagen hinzuzufügen. Ferner können Sie die Vorlagen in die gewünschte Reihenfolge bewegen, wobei die erste Vorlage die Standard-Vorlage wird.";
+"_WebSiteExport_ManageWebSiteExportThemes_Hint" = "Alle mit dieser Webseite verknüpften Vorlagen sehen Sie in der unten stehenden Liste. Verwenden Sie den 'Hinzufügen'-Knopf, um weitere Vorlagen hinzuzufügen. Ferner können Sie die Vorlagen in die gewünschte Reihenfolge bewegen, wobei die erste Vorlage die Standard-Vorlage wird.";
 
 /* (No Comment) */
 "_WebSiteExport_Menu_Charts" = "Diagramme";
@@ -935,6 +938,9 @@
 "_WebSiteExport_Place_Page_View_Place_In_Maps" = "Ort in Karten öffnen";
 
 /* (No Comment) */
+"_WebSiteExport_Plain_Theme" = "Einfach";
+
+/* (No Comment) */
 "_WebSiteExport_Progress_CollectingFamilyTreeInformation" = "Stammbaum-Informationen sammeln…";
 
 /* (No Comment) */
@@ -1113,6 +1119,12 @@
 
 /* (No Comment) */
 "_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Webseite nach Ordner exportieren";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Möchten Sie die Webseite für lokale Datenträger teilen oder wollen Sie Ihre Webseite für die Bereitstellung auf einem Web-Server teilen?";
+
+/* (No Comment) */
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Exportierte Webseite teilen";
 
 /* (No Comment) */
 "_WebSitesController_LimitedPersonsForPreview_Question_Informative" = "Diese Vorschau zeigt nur bis zu 500 Personen an. Ihre exportierte Webseite wird alle für den export markierten Personen in Ihrem Stammbaum beinhalten.";

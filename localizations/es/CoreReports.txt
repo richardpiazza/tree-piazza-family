@@ -92,7 +92,7 @@
 "_ReportError_NotEnoughDataPresentError" = "No existe suficiente información en este árbol genealógico para mostrar este informe.";
 
 /* (No Comment) */
-"_ReportError_NoToDoFoundInFamilyTreeError" = "Todavía no hay ninguna tarea en este árbol genealógico. Para mostrar este informe, utilice la sección Editar para añadir tareas.";
+"_ReportError_NoToDoFoundInFamilyTreeError" = "Todavía no hay ninguna tarea pendiente en este árbol genealógico. Para mostrar este informe, utilice la sección Editar para añadir tareas.";
 
 /* (No Comment) */
 "_ReportError_NoToDosFoundMatchingTheSelectedCriteria" = "No se ha encontrado ninguna tarea que coincida con los criterios seleccionados.";
@@ -1301,6 +1301,18 @@
 "_Reports_Sort_By_DeathPlace" = "Por lugar de fallecimiento";
 
 /* (No Comment) */
+"_Reports_Sort_By_EventDate" = "Por fecha de evento";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventDescription" = "Por descripción";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeAndDate" = "Por tipo de evento y fecha";
+
+/* (No Comment) */
+"_Reports_Sort_By_EventTypeName" = "Por tipo de evento y nombre";
+
+/* (No Comment) */
 "_Reports_Sort_By_FirstName" = "Por nombre";
 
 /* (No Comment) */
@@ -1386,6 +1398,9 @@
 
 /* (No Comment) */
 "_Reports_ToDoReport_Status" = "Estado";
+
+/* (No Comment) */
+"_Reports_ToDoReport_Text" = "Texto";
 
 /* ToDoReport */
 "_Reports_ToDoReport_Type" = "Tipo";

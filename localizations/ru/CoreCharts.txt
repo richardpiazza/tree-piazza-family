@@ -770,7 +770,7 @@
 "_Common_ImageSpacing" = "Интервал изображения";
 
 /* (No Comment) */
-"_Common_IncludePlaceDetail" = "Включить информацию о месте в название места";
+"_Common_IncludePlaceDetail" = "Включить сведения о месте в название места";
 
 /* (No Comment) */
 "_Common_IndentPartners" = "Отступ партнёров";

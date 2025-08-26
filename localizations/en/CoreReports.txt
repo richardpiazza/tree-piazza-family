@@ -168,6 +168,10 @@
 "_Reports_Sort_By_DeathDate" = "By Date of Death";
 "_Reports_Sort_By_BirthPlace" = "By Place of Birth";
 "_Reports_Sort_By_DeathPlace" = "By Place of Death";
+"_Reports_Sort_By_EventTypeAndDate" = "By Event Type and Date";
+"_Reports_Sort_By_EventTypeName" = "By Event Type Name";
+"_Reports_Sort_By_EventDate" = "By Event Date";
+"_Reports_Sort_By_EventDescription" = "By Description";
 
 "_Reports_SortOrderAscendingCheckbox" = "Sort Ascending";
 "_Reports_SeparateSectionsCheckbox" = "Separate Sections";
@@ -284,6 +288,7 @@
 "_Reports_ToDoReport_Type" = "Type";
 "_Reports_ToDoReport_Status" = "Status";
 "_Reports_ToDoReport_Priority" = "Priority";
+"_Reports_ToDoReport_Text" = "Text";
 "_Reports_ToDoReport_Notes" = "Notes";
 
 //Story Report
@@ -507,7 +512,7 @@
 "_ReportError_NoPlaceFoundInFamilyTreeError" = "No places have been entered so far in this family tree. Please use the Edit section to enter places for person and family events in order to display this report.";
 "_ReportError_NoSourceFoundInFamilyTreeError" = "No sources have been entered so far in this family tree. Please use the Edit section to enter sources in order to display this report.";
 "_ReportError_NoStoryFoundInFamilyTreeError" = "No stories have been entered so far in this family tree. Please use the Edit section to enter stories in order to display this report.";
-"_ReportError_NoToDoFoundInFamilyTreeError" = "No ToDo's have been entered so far in this family tree. Please use the Edit section to enter to dos in order to display this report.";
+"_ReportError_NoToDoFoundInFamilyTreeError" = "No ToDos have been entered so far in this family tree. Please use the Edit section to enter to dos in order to display this report.";
 "_ReportError_NoSelectedPersonSetError" = "No person has been selected for this report.";
 "_ReportError_NoSelectedFamilySetError" = "No family has been selected for this report.";
 "_ReportError_NoSelectedStorySetError" = "No story has been selected for this report.";

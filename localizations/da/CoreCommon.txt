@@ -200,6 +200,9 @@
 "_Common_EnableButton" = "Slå til";
 
 /* (No Comment) */
+"_Common_Entries" = "Poster";
+
+/* (No Comment) */
 "_Common_EntryCountPlural" = "%d poster";
 
 /* (No Comment) */
@@ -231,6 +234,9 @@
 
 /* (No Comment) */
 "_Common_EventsAtThisPlace" = "Begivenheder på dette sted";
+
+/* (No Comment) */
+"_Common_Example" = "Eksempel";
 
 /* (No Comment) */
 "_Common_Export" = "Eksporter";
@@ -353,6 +359,9 @@
 "_Common_Link" = "Link";
 
 /* (No Comment) */
+"_Common_LoginButton" = "Log ind";
+
+/* (No Comment) */
 "_Common_LogoutButton" = "Log ud";
 
 /* (No Comment) */
@@ -408,6 +417,9 @@
 
 /* (No Comment) */
 "_Common_NoDatePlaceholder" = "Ingen dato";
+
+/* Empty */
+"_Common_NoInformationEnteredTooltip" = "Ingen information er angivet";
 
 /* (No Comment) */
 "_Common_NoLabelsPlaceholder" = "Ingen mærker";

@@ -71,7 +71,7 @@
 "_BaseEditEventsContentController_MarriedButNoFurtherInfoCheckbox" = "Markera paret som äkta makar, men ingen ytterligare information finns";
 
 /* (No Comment) */
-"_BaseEditEventsContentController_NoDateAvailable" = "Inga data har angetts";
+"_BaseEditEventsContentController_NoDateAvailable" = "Inget datum har angetts";
 
 /* (No Comment) */
 "_BaseEditEventsContentController_NoNotesPlaceholder" = "Inga anteckningar har angetts";
@@ -347,22 +347,22 @@
 "_EditEventPlaceContentController_LargePlaceholder" = "Ingen ort tilldelad";
 
 /* (No Comment) */
-"_EditEventPlaceContentController_SelectExistingPlace" = "Select Place";
+"_EditEventPlaceContentController_SelectExistingPlace" = "Välj ort";
 
 /* (No Comment) */
 "_EditEventPlaceContentController_ShowPlace" = "Visa ort";
 
 /* (No Comment) */
-"_EditEventPlaceContentController_SmallPlaceholder" = "Denna ort har inte tilldelats denna händelse. Använd knappen ovan för att tilldela en befintlig eller sök en ny ort";
+"_EditEventPlaceContentController_SmallPlaceholder" = "En ort har inte tilldelats denna händelse. Använd knappen ovan för att tilldela en befintlig eller sök en ny ort.";
 
 /* EditEventPlaceContentController */
 "_EditEventPlaceContentController_Title" = "Ort";
 
 /* (No Comment) */
-"_EditEventPlaceController_FieldsHint" = "Ange informationen för denna ort i fältet nedan. Om du behöver olika fält kan du behöva välja en annan ortsmall eller infoga fälten i ortsmallen.";
+"_EditEventPlaceController_FieldsHint" = "Ange informationen för denna ort i fälten nedan. Om du behöver olika fält kan du behöva välja en annan ortsmall eller infoga fälten i ortsmallen.";
 
 /* EditEventPlaceController */
-"_EditEventPlaceController_TemplateHint" = "Välj en ortsmall för denna ort med knappen nedan. Om inga lämpliga mallar är tillgängliga kan du använda alternativet 'Redigera mallar' för att skapa en ny mall";
+"_EditEventPlaceController_TemplateHint" = "Välj en ortsmall för denna ort med knappen nedan. Om ingen lämplig mall är tillgänglig kan du använda alternativet 'Redigera mallar' för att skapa en ny mall.";
 
 /* EditEventPlaceDetailContentController */
 "_EditEventPlaceDetailContentController_Title" = "Ortsdetalj";
@@ -549,6 +549,12 @@
 
 /* EditFamilyTreeInformationNameAndAddressContentController */
 "_EditFamilyTreeInformationNameAndAddressContentController_Title" = "Författarens namn & adress";
+
+/* (No Comment) */
+"_EditLabel_DeleteLabelMessage" = "Detta kommer att radera etiketten permanent och ta bort den från alla relaterade poster i ditt släktträd.";
+
+/* Edit Labels Views */
+"_EditLabel_DeleteLabelTitle" = "Vill du verkligen radera etiketten?";
 
 /* (No Comment) */
 "_EditLabelsContentController_NoLabelsLargePlaceholder" = "Inga etiketter förhanden";
@@ -842,7 +848,7 @@
 "_EditPersonController_SelectFamily" = "Välj familj";
 
 /* (No Comment) */
-"_EditPersonController_ShowOldestAncestorsMenuItem" = "Äldsta anfäder…";
+"_EditPersonController_ShowOldestAncestorsMenuItem" = "Äldsta förfäder…";
 
 /* (No Comment) */
 "_EditPersonController_ShowYoungestAncestorsMenuItem" = "Yngsta ättlingar…";
@@ -986,7 +992,7 @@
 "_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndIsStartPerson" = "Denna person är startpersonen i aktuellt numreringssystem (%@).";
 
 /* (No Comment) */
-"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndPersonHasNoValue" = "Denna person har inget nummer i det aktuella numreringssystemet. Detta betyder att denna person inte är anfader eller ättling till startpersonen i detta numreringssystem (%@):";
+"_EditPersonNumberingSystemContentController_NumberingSystemAssignedAndPersonHasNoValue" = "Denna person har inget nummer i det aktuella numreringssystemet. Detta betyder att denna person inte är förfader eller ättling till startpersonen i detta numreringssystem (%@):";
 
 /* (No Comment) */
 "_EditPersonNumberingSystemContentController_SetNumberingSystemTopLevelMenuItem" = "Numreringssystem...";
@@ -1055,6 +1061,9 @@
 "_EditPlaceDetailsContentController_LookupCoordinateButton" = "Sök koordinater…";
 
 /* (No Comment) */
+"_EditPlaceDetailsContentController_MegeWithOtherPlaceDetailButton" = "Slå samman med andra ortsdetaljer";
+
+/* (No Comment) */
 "_EditPlaceDetailsContentController_NoNamePlaceholder" = "Inget ortsdetaljnamn har angetts";
 
 /* (No Comment) */
@@ -1064,7 +1073,7 @@
 "_EditPlaceDetailsContentController_SearchOtherPlaceDetail" = "Sök ny ortsdetalj...";
 
 /* (No Comment) */
-"_EditPlaceDetailsContentController_SmallPlaceholder" = "Använd knappen ’Infoga’ ovan för att infoga ortsdetaljer. Ortsdetaljer är specifika adresser, delar eller andra intressanta mål i denna ort.";
+"_EditPlaceDetailsContentController_SmallPlaceholder" = "Använd knappen ’Infoga’ ovan för att infoga ortsdetaljer. Ortsdetaljer är specifika adresser, områden eller andra intressanta mål på denna ort.";
 
 /* EditPlaceDetailsContentController */
 "_EditPlaceDetailsContentController_Title" = "Ortsdetaljer";
@@ -1151,7 +1160,7 @@
 "_EditPlacePane_Map_PlaceholderTitle" = "Ingen koordinat";
 
 /* (No Comment) */
-"_EditPlacePane_MapKitTypePopupButton" = "Karttyp...";
+"_EditPlacePane_MapKitTypePopupButton" = "Karttyp";
 
 /* (No Comment) */
 "_EditPlacePane_MapKitTypePopupButton_FromPreferences" = "Som specificerad i systeminställningarna";
@@ -1169,37 +1178,37 @@
 "_EditPlacePane_MapKitTypePopupButton_StandardMuted" = "Standard (dämpad)";
 
 /* (No Comment) */
-"_EditPlacePane_MapOptionsButton" = "Map Options";
+"_EditPlacePane_MapOptionsButton" = "Kartalternativ";
 
 /* (No Comment) */
-"_EditPlacePane_OnlyShowPlaceDetailsForSelectedPlaceOnMapCheckbox" = "Only show place details when place is selected";
+"_EditPlacePane_OnlyShowPlaceDetailsForSelectedPlaceOnMapCheckbox" = "Visa endast ortsdetaljer som orten har valts";
 
 /* (No Comment) */
-"_EditPlacePane_OnlyShowSelectedPlaceOnMapCheckbox" = "Only show selected place on map";
+"_EditPlacePane_OnlyShowSelectedPlaceOnMapCheckbox" = "Visa endast valda orter på en karta";
 
 /* (No Comment) */
-"_EditPlacePane_PinColorPopupButton" = "Pin Color";
+"_EditPlacePane_PinColorPopupButton" = "Nålfärg";
 
 /* (No Comment) */
-"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToMagentaToOrange" = "By Event Count (Blue to Magenta to Orange)";
+"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToMagentaToOrange" = "Efter antal händelser (blått till magenta till orange)";
 
 /* (No Comment) */
-"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToRed" = "By Event Count (Blue to Red)";
+"_EditPlacePane_PinColorPopupButton_ByEventCount_BlueToRed" = "Efter antal händelser (blått till rött)";
 
 /* (No Comment) */
-"_EditPlacePane_PinColorPopupButton_ByEventCount_GreenToYellowToRed" = "By Event Count (Green to Yellow to Red)";
+"_EditPlacePane_PinColorPopupButton_ByEventCount_GreenToYellowToRed" = "Efter antal händelser (grönt till gult till rött)";
 
 /* (No Comment) */
-"_EditPlacePane_PinColorPopupButton_ByEventCount_TurquoiseToYellowToLightRed" = "By Event Count (Turquoise to Yellow to Light Red)";
+"_EditPlacePane_PinColorPopupButton_ByEventCount_TurquoiseToYellowToLightRed" = "Efter antal händelser (turkos till gult till ljusrött)";
 
 /* (No Comment) */
-"_EditPlacePane_PinColorPopupButton_ByEventCount_YellowToRed" = "By Event Count (Yellow to Red)";
+"_EditPlacePane_PinColorPopupButton_ByEventCount_YellowToRed" = "Efter antal händelser (gult till rött)";
 
 /* (No Comment) */
-"_EditPlacePane_PinColorPopupButton_SingleColor" = "Single-Colored";
+"_EditPlacePane_PinColorPopupButton_SingleColor" = "Endast en färg";
 
 /* (No Comment) */
-"_EditPlacePane_ShowEventCountOnPlacePins" = "Show event count on pins";
+"_EditPlacePane_ShowEventCountOnPlacePins" = "Visa antal händelser på nålar";
 
 /* (No Comment) */
 "_EditPrivateContentController_Explanation" = "Om detta har valts kommer denna information inte att visas i diagram eller rapporter";
@@ -1505,7 +1514,7 @@
 "_EditToDoContentController_LargePlaceholder" = "Inga uppgifter finns";
 
 /* (No Comment) */
-"_EditToDoContentController_NoDateEnteredPlaceholder" = "Inga data har angetts";
+"_EditToDoContentController_NoDateEnteredPlaceholder" = "Inget datum har angetts";
 
 /* (No Comment) */
 "_EditToDoContentController_NoTitleEnteredPlaceholder" = "Ingen titel har angetts";
@@ -1517,19 +1526,40 @@
 "_EditToDoContentController_SmallPlaceholder" = "Lägg till en ny uppgift eller bifoga en befintlig uppgift med knapparna ovan";
 
 /* EditToDosContentController */
-"_EditToDoContentController_Title" = "Uppgifter";
+"_EditToDoContentController_Title" = "Uppgift";
 
 /* (No Comment) */
 "_EditToDoController_AddToDoButton" = "Lägg till första uppgift";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative" = "Vill du verkligen radera alla uppgifter från ditt släktträd som har markerats som slutförda?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosInformative_NoDoneFound" = "I ditt släktträd har inga uppgifter markerade som slutförda hittats, alltså har inga tagits bort.";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage" = "Vill du verkligen radera %d uppgifter som har markerats som slutförda?";
+
+/* (No Comment) */
+"_EditToDoController_DeleteEmptyToDosMessage_NoDoneFound" = "Hittade inga uppgifter markerade som slutförda";
 
 /* EditToDoController */
 "_EditToDoController_LargePlaceholder" = "Inga uppgifter finns";
 
 /* (No Comment) */
-"_EditToDoController_SmallPlaceholder" = "Det finns inga uppgifter i detta släktträd. Välj \"Lägg till första uppgift\" för att skapa din första uppgift";
+"_EditToDoController_SmallPlaceholder" = "Det finns inga uppgifter i detta släktträd. Välj \"Lägg till första uppgift\" för att skapa din första uppgift.";
 
 /* (No Comment) */
 "_EditToDoController_Title" = "Redigera uppgift";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditPriorityConclusionTypes" = "Redigera prioritetstyper...";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditStatusConclusionTypes" = "Redigera statustyper...";
+
+/* (No Comment) */
+"_EditToDoGeneralContentController_EditTypeConclusionTypes" = "Redigera typer...";
 
 /* EditToDoGeneralContentController */
 "_EditToDoGeneralContentController_Title" = "Allmänt";
@@ -1548,6 +1578,21 @@
 
 /* (No Comment) */
 "_EditToDosContentController_Sorting_ByType" = "Efter typ";
+
+/* (No Comment) */
+"_EditToDoTextContentController_LargePlaceholder" = "Ingen text har angetts";
+
+/* (No Comment) */
+"_EditToDoTextContentController_SmallPlaceholder" = "Tryck här för att ange text för denna uppgift";
+
+/* EditToDoTextContentController */
+"_EditToDoTextContentController_Title" = "Text";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_NEvents" = "%d händelser";
+
+/* (No Comment) */
+"_FreeformControlsEventsControlDescription_OneEvent" = "1 händelse";
 
 /* Specialized Freeform Controls */
 "_FreeformControlsNotesControlDescription_NNotes" = "%d anteckningar";

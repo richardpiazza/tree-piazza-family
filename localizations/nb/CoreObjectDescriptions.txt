@@ -616,6 +616,18 @@
 /* (No Comment) */
 "_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName_ForFamily" = "Typenavn fra personens perspektiv";
 
+/* ConclusionToDoPriorityType */
+"_ObjectProperty_ConclusionToDoPriorityType_isDefault" = "Standard";
+
+/* (No Comment) */
+"_ObjectProperty_ConclusionToDoStatusType_isDefault" = "Standard";
+
+/* ConclusionToDoStatusType */
+"_ObjectProperty_ConclusionToDoStatusType_typeShouldBeConsideredAsDone" = "Skal betraktes som «fullført»";
+
+/* ConclusionToDoTypeType */
+"_ObjectProperty_ConclusionToDoTypeType_isDefault" = "Standard";
+
 /* ConclusionType */
 "_ObjectProperty_ConclusionType_gedcomTag" = "GEDCOM-tagg";
 
@@ -858,6 +870,9 @@
 
 /* NoteContainer */
 "_ObjectProperty_NoteContainer_notes" = "Notater";
+
+/* OrderedConclusionType */
+"_ObjectProperty_OrderedConclusionType_order" = "Rekkefølge";
 
 /* (No Comment) */
 "_ObjectProperty_Person_cached_birthDate" = "Fødselsdato";
@@ -1268,16 +1283,19 @@
 "_ObjectProperty_ToDo_dueDate" = "Tidsfrist";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_priority" = "Prioritet";
+"_ObjectProperty_ToDo_priorityConclusionType" = "Prioritet";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_status" = "Status";
+"_ObjectProperty_ToDo_statusConclusionType" = "Status";
+
+/* (No Comment) */
+"_ObjectProperty_ToDo_text" = "Tekst";
 
 /* (No Comment) */
 "_ObjectProperty_ToDo_title" = "Tittel";
 
 /* (No Comment) */
-"_ObjectProperty_ToDo_type" = "Type";
+"_ObjectProperty_ToDo_typeConclusionType" = "Type";
 
 /* (No Comment) */
 "_ObjectType_AdditionalName" = "Ytterligere navn";

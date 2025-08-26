@@ -25,6 +25,8 @@
 
 "_WebSitesController_ExportWebSiteToFolder_Question_Message" = "Export Website to Folder";
 "_WebSitesController_ExportWebSiteToFolder_Question_Informative" = "Do you want to export the website to a folder for local viewing or do you want to save the website in a format that can be hosted on a web server?";
+"_WebSitesController_ExportWebSiteToShare_Question_Message" = "Share exported Website";
+"_WebSitesController_ExportWebSiteToShare_Question_Informative" = "Do you want to share the exported website for local viewing or do you want to share the website in a format that can be hosted on a web server?";
 "_WebSitesController_ExportWebSiteToFolder_ForLocalViewing" = "For local viewing";
 "_WebSitesController_ExportWebSiteToFolder_ForWebServer" = "For web server";
 "_WebSitesController_ExportedWebSiteToFolder" = "Website exported successfully";
@@ -70,7 +72,7 @@
 "_ManageMacFamilyTreeCom_DeleteTree_Informative" = "Do you really want to delete the Website '%@' on MacFamilyTree.com? This cannot be undone.";
 "_ManageMacFamilyTreeCom_LogoutButton" = "Logout";
 "_ManageMacFamilyTreeCom_EditUserButton" = "Edit My Account";
-"_ManageMacFamilyTreeCom_ListTopHint" = "Listed below are all family trees you have created on MacFamilyTree.com. You may remove the trees or edit the title and password protection by selecting a family tree. In order to replace the content, select a website on the previous screen and select 'Upload'.";
+"_ManageMacFamilyTreeCom_ListTopHint" = "Listed below are all family trees you have created on MacFamilyTree.com. You may remove the trees or edit the title and password protection by selecting a family tree. In order to replace the content, edit or add a website on the previous screen and select 'Publish'.";
 "_ManageMacFamilyTreeCom_NoTreesPresentTitle" = "No Trees on MacFamilyTree.com";
 "_ManageMacFamilyTreeCom_NoTreesPresentMessage" = "You have not uploaded any family trees to MacFamilyTree.com. In order to upload family trees, create a website on the previous screen and upload it to MacFamilyTree.com.";
 
@@ -211,6 +213,7 @@
 "_WebSiteExport_Green_Hills_Theme" = "Sunrise";
 "_WebSiteExport_MFT11_Theme" = "Eleven";
 "_WebSiteExport_Stripes_Theme" = "Stripes";
+"_WebSiteExport_Plain_Theme" = "Plain";
 
 //Website Menu
 "_WebSiteExport_Menu_HomePage" = "Home";
@@ -323,6 +326,7 @@
 "_WebSiteExport_Configuration_LinkColor" = "Link Color";
 "_WebSiteExport_Configuration_ActiveLinkColor" = "Active Link Color";
 "_WebSiteExport_Configuration_BlurRadius" = "Blur Radius";
+"_WebSiteExport_Configuration_ColorizePersonPlaceholderImages" = "Tint by Gender";
 
 "_WebSiteExport_Configuration_HourglassChartPersonItemTitleColor" = "Title Color";
 "_WebSiteExport_Configuration_HourglassChartPersonItemTitleFont" = "Title Font";

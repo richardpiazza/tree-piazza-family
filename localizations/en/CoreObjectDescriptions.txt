@@ -430,10 +430,11 @@
 
 /*ToDo*/
 "_ObjectProperty_ToDo_dueDate" = "Due Date";
-"_ObjectProperty_ToDo_priority" = "Priority";
-"_ObjectProperty_ToDo_status" = "Status";
 "_ObjectProperty_ToDo_title" = "Title";
-"_ObjectProperty_ToDo_type" = "Type";
+"_ObjectProperty_ToDo_text" = "Text";
+"_ObjectProperty_ToDo_typeConclusionType" = "Type";
+"_ObjectProperty_ToDo_priorityConclusionType" = "Priority";
+"_ObjectProperty_ToDo_statusConclusionType" = "Status";
 
 /*Label*/
 "_ObjectProperty_Label_colorComponentsString" = "Color";
@@ -481,6 +482,19 @@
 "_ObjectProperty_ConclusionType_typeName" = "Type Name";
 "_ObjectProperty_ConclusionType_typeName_ForFamily" = "Type Name from perspective of family";
 "_ObjectProperty_ConclusionType_typeNameLocalizationKey" = "Name Localization Key";
+
+/*ConclusionToDoStatusType*/
+"_ObjectProperty_ConclusionToDoStatusType_typeShouldBeConsideredAsDone" = "Should be considered as 'Done'";
+"_ObjectProperty_ConclusionToDoStatusType_isDefault" = "Default";
+
+/*ConclusionToDoTypeType*/
+"_ObjectProperty_ConclusionToDoTypeType_isDefault" = "Default";
+
+/*ConclusionToDoPriorityType*/
+"_ObjectProperty_ConclusionToDoPriorityType_isDefault" = "Default";
+
+/*OrderedConclusionType*/
+"_ObjectProperty_OrderedConclusionType_order" = "Order";
 
 /*ConclusionAssociateRelationType*/
 "_ObjectProperty_ConclusionAssociateRelationType_invertedTypeName" = "Inverted Type Name";
